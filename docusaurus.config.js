@@ -48,7 +48,7 @@ const config = {
           editUrl:
             'https://github.com/SMichel89/FIAE2023_AP/tree/feature/refactory',
         },
-        blog: {
+        /*blog: {
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -62,7 +62,7 @@ const config = {
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
-        },
+        },*/
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -88,12 +88,24 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'docSidebar',
+            sidebarId: 'ap1Sidebar', 
+            position: 'left',
+            label: 'AP1 Übersicht', 
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'nutzerSidebar',
+            position: 'left',
+            label: 'Nutzer',
+          }
+          /*{to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
-          },
+          },*/
         ],
       },
       footer: {
@@ -106,6 +118,14 @@ const config = {
                 label: 'Tutorial',
                 to: '/docs/Tutorial to Docusaurus/intro',
               },
+              {
+                label: 'AP1 Übersicht',
+                to: '/docs/category/ap1',
+              },
+              {
+                label: 'Nutzer',
+                to: '/docs/category/Nutzer',
+              }
             ],
           },
           {
@@ -128,10 +148,10 @@ const config = {
           {
             title: 'More',
             items: [
-              {
+              /*{
                 label: 'Blog',
                 to: '/blog',
-              },
+              },*/
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
