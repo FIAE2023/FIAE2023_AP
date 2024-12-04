@@ -32,17 +32,35 @@ const sidebars = {
   ],
    */
   AP1Sidebar: [
-    'AP1/hello',
+    'AP1/ap1_overview',
     'intro',
     'my-doc-id',
     {
       type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
+      label: 'AP1',
+      items: ['AP1/ap1_overview'],
     },
   ],
   userSidebar: [
-    'AP1/michel',
+    {
+      type: 'category',
+      label: 'Ausbilder',
+      items: ['user/michel', 'user/holldack']
+    },
+    {
+      type: 'category',
+      label: 'Auszubildende Holldack',
+      items: ['user/adams', 'user/beyer', 'user/diehl',
+        'user/gottschalk', 'user/hoelz', 'user/huebscher',
+        'user/meyer', 'user/seefeldt', 'user/ullmann']
+    },
+    {
+      type: 'category',
+      label: 'Auszubildende Michel',
+      items: ['user/kindler', 'user/langhammer', 'user/loew',
+        'user/peeler', 'user/ruecker', 'user/vardakis',
+        'user/vrbanic', 'user/zirnig']
+    },
   ],
 };
 

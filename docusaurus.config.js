@@ -86,13 +86,13 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'AP1Sidebar',
             position: 'left',
-            label: 'AP1',
+            label: 'APs',
           },
           {
             type: 'docSidebar',
             sidebarId: 'userSidebar',
             position: 'left',
-            label: 'Nutzer',
+            label: 'User',
           },
           /*{
             type: 'docSidebar',
