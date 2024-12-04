@@ -84,12 +84,6 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {
-            type: 'docSidebar',
             sidebarId: 'ap1Sidebar', 
             position: 'left',
             label: 'AP1 Übersicht', 
@@ -99,7 +93,13 @@ const config = {
             sidebarId: 'nutzerSidebar',
             position: 'left',
             label: 'Nutzer',
-          }
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Tutorial',
+          },
           /*{to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
@@ -115,17 +115,17 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/Tutorial to Docusaurus/intro',
-              },
-              {
                 label: 'AP1 Übersicht',
                 to: '/docs/category/ap1',
               },
               {
                 label: 'Nutzer',
                 to: '/docs/category/Nutzer',
-              }
+              },
+              {
+                label: 'Tutorial',
+                to: '/docs/Tutorial to Docusaurus/intro',
+              },
             ],
           },
           {
@@ -154,7 +154,7 @@ const config = {
               },*/
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/SMichel89/FIAE2023_AP',
               },
             ],
           },
