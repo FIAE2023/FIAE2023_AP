@@ -32,13 +32,15 @@ const sidebars = {
   ],
    */
   AP1Sidebar: [
-    'AP1/ap1_overview',
-    'intro',
-    'my-doc-id',
     {
       type: 'category',
       label: 'AP1',
       items: ['AP1/ap1_overview'],
+    },
+    {
+      type: 'category',
+      label: 'AP2',
+      items: ['AP2/ap2_overview'],
     },
   ],
   userSidebar: [
