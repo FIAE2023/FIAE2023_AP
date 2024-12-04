@@ -84,10 +84,22 @@ const config = {
         items: [
           {
             type: 'docSidebar',
+            sidebarId: 'AP1Sidebar',
+            position: 'left',
+            label: 'AP1',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'userSidebar',
+            position: 'left',
+            label: 'Nutzer',
+          },
+          /*{
+            type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Tutorial',
-          },
+          },*/
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
