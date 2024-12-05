@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Abschlussprüfungswiki',
+  tagline: 'Musterlösungen und Aufgaben',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -76,7 +76,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Start',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -113,7 +113,7 @@ const config = {
               },
               {
                 label: 'Nutzer',
-                to: '/docs/category/Nutzer',
+                to: '/docs/category/nutzer',
               },
             ],
           },
@@ -127,7 +127,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Mehr',
             items: [
               /*{
                 label: 'Blog',
@@ -140,7 +140,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Abschlussprüfungs Wiki. gebaut mit Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
