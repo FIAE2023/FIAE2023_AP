@@ -115,12 +115,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-              {
                 label: 'AP1',
-                to: '/docs/ap1',
+                to: '/docs/AP1/overview',
               }
             ],
           },
