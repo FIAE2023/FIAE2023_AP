@@ -82,30 +82,23 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+          // Das to wird dazu genutzt, um die von der sidebar.js bereitgestellten Routing zu nutzen
           {
-            type: 'docSidebar',
-            sidebarId: 'ap1Sidebar', 
+            to: 'docs/category/ap1' ,
             position: 'left',
             label: 'AP1 Übersicht', 
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'nutzerSidebar',
+            to: 'docs/category/nutzer',
             position: 'left',
             label: 'Nutzer',
           },
+          //{to: '/blog', label: 'Blog', position: 'left'},
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          /*{to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/SMichel89/FIAE2023_AP/',
             label: 'GitHub',
             position: 'right',
-          },*/
+          },
         ],
       },
       footer: {
@@ -122,26 +115,14 @@ const config = {
                 label: 'Nutzer',
                 to: '/docs/category/Nutzer',
               },
-              {
-                label: 'Tutorial',
-                to: '/docs/Tutorial to Docusaurus/intro',
-              },
             ],
           },
           {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'DockB',
+                href: 'https://dock-b.com/',
               },
             ],
           },
