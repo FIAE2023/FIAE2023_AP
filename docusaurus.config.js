@@ -25,7 +25,7 @@ const config = {
   organizationName: 'SMichel89', // Usually your GitHub org/user name.
   projectName: 'FIAE2023_AP', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -82,6 +82,12 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+          {
+            type: 'docSidebar',
+            sidebarId: 'rulesSidebar',
+            position: 'left',
+            label: 'Regeln',
+          },
           {
             type: 'docSidebar',
             sidebarId: 'AP1Sidebar',
