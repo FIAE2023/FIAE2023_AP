@@ -1,0 +1,10 @@
+{
+  "label": "Regeln & Hinweise",
+  "position": 1,
+  "collapsible": false,
+  "link": {
+    "type": "generated-index",
+    "description": "This is the test 2"
+  }
+}
+

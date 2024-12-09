@@ -1,6 +1,6 @@
 ---
 id: rules
-title: Regeln
+title: Allgemein
 description: Übersicht über unsere Regeln zur AP-Vorbereitung
 ---
 
