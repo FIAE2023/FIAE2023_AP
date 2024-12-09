@@ -22,6 +22,7 @@ const config = {
 
   deploymentBranch: 'gh-pages',
 
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'SMichel89', // Usually your GitHub org/user name.
@@ -124,7 +125,7 @@ const config = {
             items: [
               {
                 label: 'AP1',
-                to: '/docs/AP1/overview',
+                to: '/docs/AP1/overview/ap1_overview',
               }
             ],
           },
