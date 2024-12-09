@@ -122,7 +122,7 @@ const config = {
             items: [
               {
                 label: 'AP1',
-                to: '/docs/AP1/overview',
+                to: '/docs/AP1/overview/ap1_overview',
               }
             ],
           },
