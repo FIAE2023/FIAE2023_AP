@@ -84,6 +84,12 @@ const config = {
         items: [
           {
             type: 'docSidebar',
+            sidebarId: 'rulesSidebar',
+            position: 'left',
+            label: 'Regeln',
+          },
+          {
+            type: 'docSidebar',
             sidebarId: 'AP1Sidebar',
             position: 'left',
             label: 'APs',
