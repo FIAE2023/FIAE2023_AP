@@ -1,5 +1,5 @@
 ---
 id: rules
-title: Formatierungshilfe
-description: Personal Page of Tobias Kindler
+title: Regeln
+description: This is a text
 ---

@@ -25,7 +25,7 @@ const config = {
   organizationName: 'SMichel89', // Usually your GitHub org/user name.
   projectName: 'FIAE2023_AP', // Usually your repo name.
 
-  onBrokenLinks: 'ignore',
+  onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
