@@ -49,7 +49,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://smichel89.github.io/FIAE2023_AP/',
+            'https://github.com/SMichel89/FIAE2023_AP/tree/main',
         },
         blog: {
           showReadingTime: true,
@@ -60,7 +60,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://smichel89.github.io/FIAE2023_AP/',
+            'https://github.com/SMichel89/FIAE2023_AP/tree/main',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
