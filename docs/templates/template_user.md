@@ -8,11 +8,11 @@ description: Die leere Template für die User Seite
 
 ## Verantwortlich für:
 
-- [Abschlussprüfung Jahreszeit Jahreszahl - zugeordnete Aufgabe]()  
+- Markdown Link zur Abschlussprüfung_Jahreszeit_Jahreszahl - zugeordnete Aufgabe
 
 ## Erstellte Aufgaben:
 
-- [Link zur Erstellten Aufgabe inkl. Musterlösung]()
+- Markdown Link zur Erstellten Aufgabe inkl. Musterlösung
 
 ## Notizen
 Hier können Notizen rein

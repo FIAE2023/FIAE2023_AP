@@ -19,15 +19,13 @@ description: Dies ist eine Vorlage für alle Aufgaben Seiten
 
 > Beide Bearbeiter der Aufgabe müssen die Lösung verlinken
 
-[Musterlösung Bearbeiter Jahreszahl Jahreszeit - zugeordnete Aufgabe]()  
-[Musterlösung Bearbeiter Jahreszahl Jahreszeit - zugeordnete Aufgabe]()  
+- Markdownlink zur Musterlösung Bearbeiter Jahreszahl Jahreszeit - zugeordnete Aufgabe
 
 ### Musterlösung Aufgabe für Gruppen:
 
 > Beide Bearbeiter der Aufgabe müssen die Lösung verlinken
 
-[Musterlösung Bearbeiter Jahreszahl Jahreszeit - zugeordnete Aufgabe]()  
-[Musterlösung Bearbeiter Jahreszahl Jahreszeit - zugeordnete Aufgabe]()  
+- Markdownlink Musterlösung Bearbeiter Jahreszahl Jahreszeit - zugeordnete Aufgabe  
 
 ---
 Diese Daten sollen drinne stehen wie Ihr sie später einfügt ist euch überlassen.
