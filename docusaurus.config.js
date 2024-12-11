@@ -103,6 +103,12 @@ const config = {
             position: 'left',
             label: 'User',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'howToSidebar',
+            position: 'left',
+            label: 'How To',
+          },
           /*{
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
