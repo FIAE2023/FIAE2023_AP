@@ -1,0 +1,8 @@
+{
+    "label": "Wichtige Infos",
+    "position": 4,
+    "link": {
+      "type": "generated-index",
+      "description": "Infos zu unterschieden zu Dokuwiki"
+    }
+  }

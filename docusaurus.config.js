@@ -51,7 +51,7 @@ const config = {
           editUrl:
             'https://github.com/SMichel89/FIAE2023_AP/tree/main',
         },
-        blog: {
+        /*blog: {
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -65,7 +65,7 @@ const config = {
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
-        },
+        },*/
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -85,6 +85,7 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+          // Das to wird dazu genutzt, um die von der sidebar.js bereitgestellten Routing zu nutzen
           {
             type: 'docSidebar',
             sidebarId: 'rulesSidebar',
@@ -105,6 +106,12 @@ const config = {
           },
           {
             type: 'docSidebar',
+            sidebarId: 'templatesSidebar',
+            position: 'left',
+            label: 'Vorlagen',
+          },
+          {
+            type: 'docSidebar',
             sidebarId: 'howToSidebar',
             position: 'left',
             label: 'How To',
@@ -117,7 +124,7 @@ const config = {
           },*/
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/SMichel89/FIAE2023_AP/',
             label: 'GitHub',
             position: 'right',
           },
@@ -132,7 +139,15 @@ const config = {
               {
                 label: 'AP1',
                 to: '/docs/AP1/overview/ap1_overview',
-              }
+              },
+              {
+                label: 'rules',
+                to: '/docs/category/regeln--hinweise/',
+              },
+              {
+                label: 'user',
+                to: '/docs/user/Ausbilder/holldack',
+              },
             ],
           },
           {
@@ -145,15 +160,15 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Mehr',
             items: [
-              {
+              /*{
                 label: 'Blog',
                 to: '/blog',
-              },
+              },*/
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/SMichel89/FIAE2023_AP',
               },
             ],
           },
