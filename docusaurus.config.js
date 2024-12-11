@@ -106,6 +106,12 @@ const config = {
           },
           {
             type: 'docSidebar',
+            sidebarId: 'templatesSidebar',
+            position: 'left',
+            label: 'Vorlagen',
+          },
+          {
+            type: 'docSidebar',
             sidebarId: 'howToSidebar',
             position: 'left',
             label: 'How To',
@@ -133,6 +139,14 @@ const config = {
               {
                 label: 'AP1',
                 to: '/docs/AP1/overview/ap1_overview',
+              },
+              {
+                label: 'rules',
+                to: '/docs/category/regeln--hinweise/',
+              },
+              {
+                label: 'user',
+                to: '/docs/user/Ausbilder/holldack',
               },
             ],
           },
