@@ -14,7 +14,7 @@ alt="Example banner"
 - Thema Projekt
 - Thema SMART-Prinzip
 - Thema Netzplan
-### [AP1 Herbst 2022 Aufgabe 1 - Projektmanagement - 25 Punkte](../2022/ap1f_2022_a1.md)
+### [AP1 Herbst 2022 Aufgabe 1 - Projektmanagement - 25 Punkte](../2022/ap1f_2022/ap1f_2022_a1.md)
 - Thema X
 - Thema Y
 - Thema Z
