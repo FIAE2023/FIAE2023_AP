@@ -10,7 +10,7 @@ alt="Example banner"
 />
 
 ## AP1 Herbst 2021
-### [AP1 Herbst 2021 Aufgabe 1 - Projektmanagement - 25 Punkte](../2021/ap1h_2021_a1.md)
+### [AP1 Herbst 2021 Aufgabe 1 - Projektmanagement - 25 Punkte](../2021/ap1h_2021/ap1h_2021_a1.md)
 - Thema Projekt
 - Thema SMART-Prinzip
 - Thema Netzplan
@@ -18,8 +18,8 @@ alt="Example banner"
 - Thema X
 - Thema Y
 - Thema Z
-## AP1 Herbst 2022
-## AP1 Frühjahr 2023
-## AP1 Herbst 2023
-## AP1 Frühjahr 2024
-## AP1 Herbst 2025
+### AP1 Herbst 2022
+### AP1 Frühjahr 2023
+### AP1 Herbst 2023
+### AP1 Frühjahr 2024
+### AP1 Herbst 2025

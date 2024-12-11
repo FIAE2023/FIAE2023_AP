@@ -1,6 +1,6 @@
 ---
 sidebar-position: 1
-title: Vorlage Aufbau Aufgaben
+title: Aufbau der Aufgaben
 description: Dies ist eine Vorlage für alle Aufgaben Seiten
 ---
 
@@ -19,15 +19,15 @@ description: Dies ist eine Vorlage für alle Aufgaben Seiten
 
 > Beide Bearbeiter der Aufgabe müssen die Lösung verlinken
 
-[Musterlösung Bearbeiter Jahreszahl Jahreszeit - zugeordnete Aufgabe](Link zur Lösung)  
-[Musterlösung Bearbeiter Jahreszahl Jahreszeit - zugeordnete Aufgabe](Link zur Lösung)  
+[Musterlösung Bearbeiter Jahreszahl Jahreszeit - zugeordnete Aufgabe]()  
+[Musterlösung Bearbeiter Jahreszahl Jahreszeit - zugeordnete Aufgabe]()  
 
 ### Musterlösung Aufgabe für Gruppen:
 
 > Beide Bearbeiter der Aufgabe müssen die Lösung verlinken
 
-[Musterlösung Bearbeiter Jahreszahl Jahreszeit - zugeordnete Aufgabe](Link zur Lösung)  
-[Musterlösung Bearbeiter Jahreszahl Jahreszeit - zugeordnete Aufgabe](Link zur Lösung)  
+[Musterlösung Bearbeiter Jahreszahl Jahreszeit - zugeordnete Aufgabe]()  
+[Musterlösung Bearbeiter Jahreszahl Jahreszeit - zugeordnete Aufgabe]()  
 
 ---
 Diese Daten sollen drinne stehen wie Ihr sie später einfügt ist euch überlassen.
