@@ -94,6 +94,12 @@ const config = {
           },
           {
             type: 'docSidebar',
+            sidebarId: 'howToSidebar',
+            position: 'left',
+            label: 'How To',
+          },
+          {
+            type: 'docSidebar',
             sidebarId: 'AP1Sidebar',
             position: 'left',
             label: 'APs',
@@ -109,12 +115,6 @@ const config = {
             sidebarId: 'templatesSidebar',
             position: 'left',
             label: 'Vorlagen',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'howToSidebar',
-            position: 'left',
-            label: 'How To',
           },
           /*{
             type: 'docSidebar',

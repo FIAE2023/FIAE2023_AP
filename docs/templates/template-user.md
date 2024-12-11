@@ -1,13 +1,18 @@
+---
+id: templat_userSite
+title: User Seite
+description: Die leere Template für die User Seite
+---
+
 # Nachname, Vorname
 
 ## Verantwortlich für:
 
-[Abschlussprüfung Jahreszeit Jahreszahl - zugeordnete Aufgabe](Link zur Seite)  
-[Abschlussprüfung Jahreszeit Jahreszahl - zugeordnete Aufgabe](Link zur Seite)  
-[Abschlussprüfung Jahreszeit Jahreszahl - zugeordnete Aufgabe](Link zur Seite)  
+- Markdown Link zur Abschlussprüfung_Jahreszeit_Jahreszahl - zugeordnete Aufgabe
 
 ## Erstellte Aufgaben:
 
-[Abschlussprüfung Jahreszeit Jahreszahl - zugeordnete Aufgabe](Link zur Aufgaben Seite)  
-[Abschlussprüfung Jahreszeit Jahreszahl - zugeordnete Aufgabe](Link zur Aufgaben Seite)  
-[Abschlussprüfung Jahreszeit Jahreszahl - zugeordnete Aufgabe](Link zur Aufgaben Seite)  
+- Markdown Link zur Erstellten Aufgabe inkl. Musterlösung
+
+## Notizen
+Hier können Notizen rein
