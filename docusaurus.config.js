@@ -10,22 +10,25 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Abschlussprüfungswiki',
-  tagline: 'Musterlösungen und Aufgaben',
+  title: 'Michel WIP',
+  tagline: 'Für Azubis von Azubis',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://smichel89.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/FIAE2023_AP/',
+
+  deploymentBranch: 'gh-pages',
+
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'SMichel89', // Usually your GitHub org/user name.
+  projectName: 'FIAE2023_AP', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -46,7 +49,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/SMichel89/FIAE2023_AP/tree/feature/refactory',
+            'https://github.com/SMichel89/FIAE2023_AP/tree/main',
         },
         /*blog: {
           showReadingTime: true,
@@ -57,7 +60,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/SMichel89/FIAE2023_AP/tree/feature/refactory',
+            'https://github.com/SMichel89/FIAE2023_AP/tree/main',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -76,7 +79,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Start',
+        title: 'FIAE2023_AP',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -84,15 +87,35 @@ const config = {
         items: [
           // Das to wird dazu genutzt, um die von der sidebar.js bereitgestellten Routing zu nutzen
           {
-            to: 'docs/category/ap1' ,
+            type: 'docSidebar',
+            sidebarId: 'rulesSidebar',
             position: 'left',
-            label: 'AP1 Übersicht', 
+            label: 'Regeln',
           },
           {
-            to: 'docs/category/nutzer',
+            type: 'docSidebar',
+            sidebarId: 'AP1Sidebar',
             position: 'left',
-            label: 'Nutzer',
+            label: 'APs',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'userSidebar',
+            position: 'left',
+            label: 'User',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'howToSidebar',
+            position: 'left',
+            label: 'How To',
+          },
+          /*{
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Tutorial',
+          },*/
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/SMichel89/FIAE2023_AP/',
@@ -108,12 +131,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'AP1 Übersicht',
-                to: '/docs/category/ap1',
-              },
-              {
-                label: 'Nutzer',
-                to: '/docs/category/nutzer',
+                label: 'AP1',
+                to: '/docs/AP1/overview/ap1_overview',
               },
             ],
           },
@@ -121,7 +140,7 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'DockB',
+                label: 'Dock-B',
                 href: 'https://dock-b.com/',
               },
             ],
@@ -140,7 +159,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Abschlussprüfungs Wiki. gebaut mit Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Gruppe FIAE2023, Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
