@@ -1,5 +1,6 @@
 ---
 sidebar-position: 1
+id: vorlage-exercise
 title: Vorlage Aufbau Aufgaben
 description: Dies ist eine Vorlage für alle Aufgaben Seiten
 ---
