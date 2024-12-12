@@ -21,6 +21,7 @@ const config = {
   baseUrl: '/FIAE2023_AP/',
 
   deploymentBranch: 'gh-pages',
+  plugins: [require.resolve('docusaurus-lunr-search')],
 
 
   // GitHub pages deployment config.
