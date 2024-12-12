@@ -1,11 +1,10 @@
 ---
 sidebar-position: 1
-id: vorlage-exercise
 title: Vorlage Aufbau Aufgaben
 description: Dies ist eine Vorlage für alle Aufgaben Seiten
 ---
 
-# AP1 Jahreszeit Jahr Aufgabe Nr
+## AP1 Jahreszeit Jahr Aufgabe Nr
 
 ## Bearbeitet von Bearbeiter 1 & Bearbeiter 2
 

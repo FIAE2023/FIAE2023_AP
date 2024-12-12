@@ -4,7 +4,7 @@ title: Vorlage Aufbau Lösungsseiten
 description: Dies ist eine Vorlage für alle Lösungseiten Seiten
 ---
 
-# AP1 Jahreszeit Jahr Aufgabe Nr Lösung Herr/Frau Nachname
+## AP1 Jahreszeit Jahr Aufgabe Nr Lösung Herr/Frau Nachname
 
 ## AP1 Aufgabe
 
