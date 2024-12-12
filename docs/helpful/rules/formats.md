@@ -23,3 +23,7 @@ Die Texte, die Sie hier schreiben, dienen der **Kommunikation**. Sie sollen Idee
 Die Lesenden können Ihren Texten keine Rückfragen stellen, wenn etwas unklar ist. 
 
 Sie müssen also beim Schreiben antizipieren, welche Rückfragen kommen könnten und die Fragen bereits im Vorfeld beantworten. Übersichtliche Strukturierung des Textes mit Zwischenüberschriften, Absätzen, Formatierung wie etwa **Fettschreibung** oder `Codeblöcke` helfen, die Informationen besser aufzunehmen. Unterschätzen Sie nicht den Wert der visuellen Darstellung Ihrer Texte. Dies gilt auch für Prüfungssituationen. Je leichter Ihre Lösungen zu verstehen sind, selbst wenn Sie kleine Denkfehler enthalten, desto mehr Punkte können Sie von den Prüfenden erhalten.
+
+## Weiterführende Links
+
+- [Prozessorientierter Schreibunterricht](https://stift-deutschunterricht.de/schriftlicher-sprachgebrauch/)
