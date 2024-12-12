@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Michel WIP',
+  title: 'FIAE 2023 Prüfungs Wiki',
   tagline: 'Für Azubis von Azubis',
   favicon: 'img/favicon.ico',
 
@@ -134,28 +134,28 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
+            title: 'Wichtige Links',
+            /* items: [
               {
                 label: 'AP1',
                 to: '/docs/AP1/overview/ap1_overview',
               },
               {
-                label: 'rules',
+                label: 'Regeln',
                 to: '/docs/category/regeln--hinweise/',
               },
               {
-                label: 'user',
+                label: 'User',
                 to: '/docs/user/Ausbilder/holldack',
               },
-            ],
+            ], */
           },
           {
-            title: 'Community',
+            title: 'Wissenswertes',
             items: [
               {
-                label: 'Dock-B',
-                href: 'https://dock-b.com/',
+                label: 'Letztes Update: 11.12.2024',
+                href: '#',
               },
             ],
           },
@@ -169,6 +169,10 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/SMichel89/FIAE2023_AP',
+              },
+              {
+                label: 'Dock-B',
+                href: 'https://dock-b.com/',
               },
             ],
           },
