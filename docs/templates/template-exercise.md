@@ -6,9 +6,13 @@ description: Dies ist eine Vorlage für alle Aufgaben Seiten
 
 # AP1 Jahreszeit Jahr Aufgabe Nr
 
-## Themen:
+## Bearbeitet von Bearbeiter 1 & Bearbeiter 2
+
+### Themen:
 
 > Hier kommt eine kurze Liste von Themen hin die vorkommen.
+
+---
 
 ## Aufgabe:
 
@@ -17,6 +21,12 @@ description: Dies ist eine Vorlage für alle Aufgaben Seiten
 ----
 
 ## Test Aufgabe:
+
+> Hier kommt die selbsterstellte Testaufgabe rein.
+
+----
+
+## Erarbeitete Lösungen der Aufgaben
 
 > Hier kommt ein Link zur Solution Seite hin.
 
