@@ -14,7 +14,7 @@ Als ersten Anlaufpunkt nutzen wir [markdownguide.org](https://www.markdownguide.
 
 ## Wie man verständlich schreibt
 
-Der Übersichtlichkeit halber verwenden wir im Folgenden nicht nur Fließtext, sondern auch stichwortartige Listen.
+Der Übersichtlichkeit halber verwenden wir im Folgenden nicht nur Fließtext, sondern auch ~~stichwortartige Listen~~ Absätze und Textformatierungen.
 
 ### Schreiben als soziale Tätigkeit
 
