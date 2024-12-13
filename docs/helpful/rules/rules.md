@@ -23,7 +23,7 @@ description: Übersicht über unsere Regeln zur AP-Vorbereitung
 
 ### Deployment
 
-**NUR AUSBILDERINNEN** dürfen das Deployment nach [https://fiae2023.github.io/FIAE2023_AP/](https://fiae2023.github.io/FIAE2023_AP/) durchführen.
+**NUR AUSBILDERINNEN** dürfen das Deployment nach [https://smichel89.github.io/FIAE2023_AP/](https://smichel89.github.io/FIAE2023_AP/) durchführen.
 
 :::note[Wichtiger Hinweis]
 Diese Regeln können jederzeit erweitert werden!
