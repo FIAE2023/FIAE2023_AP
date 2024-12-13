@@ -1,14 +1,17 @@
 ---
 id: howToGit
-title: How to use Git On this Project
+title: ... Use Git on this Project
+sidebar_class_name: hidden
 description: Wie nutzt man Git für das Wiki
 ---
 
 ## Einleitung:
 
-Diese Seite soll alle Git commands und ihren nutzen aufzeigen.
+Diese Seite zeigt alle Git Commands, die Sie für die Arbeit mit einem lokalen Repository brauchen.
 
-Hierbei geht man dabei aus, dass git für das Terminal schon installiert ist.
+:::warning
+Git muss hierfür schon über das Terminal installiert worden sein
+:::
 
 ## Getting started:
 

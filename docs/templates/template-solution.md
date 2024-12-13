@@ -1,23 +1,24 @@
 ---
 sidebar-position: 2
-title: Vorlage Aufbau Lösungsseiten
+title: Lösungsseite
 description: Dies ist eine Vorlage für alle Lösungseiten Seiten
 ---
 
-## AP1 Jahreszeit Jahr Aufgabe Nr Lösung Herr/Frau Nachname
+# 
+## AP Nummer Jahreszeit Jahr Aufgabe Nr Lösung Herr/Frau Nachname (z.B. AP1 Herbst 2022 A1 Lösung)
 
 ## AP1 Aufgabe
 
-> AP1 Aufgabe als Bild einstellen
+- Hier kommt die AP1 Aufgabe als Bild oder Text rein
 
 ## Lösung zur AP1 Aufgabe
 
-> Lösung zur AP1 Aufgabe als Bild einstellen
+- Hier kommt die AP1 Aufgabe als Bild oder Text rein
 
 ## Selbsterstellte Aufgabe
 
-> Selbsterstellte Aufgabe als Bild einstellen
+- Hier kommt die selbsterstellte Aufgabe als Bild oder Text rein
 
 ## Lösung der Selbsterstellten Aufgabe
 
-> Lösung zur Selbsterstellten Aufgabe als Bildeinstellen
+- Hier kommt die Lösung zur selbsterstellten Aufgabe als Bild oder Text rein

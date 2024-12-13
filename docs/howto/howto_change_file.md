@@ -1,33 +1,27 @@
 ---
 id: howToChange
-title: How to change an article
-description: Übersicht aller vorhandenen AP1 von 2021
+title: ... Bearbeiten einer Seite
+description: How To bearbeiten einer Seite
 ---
 
-## Einleitung:
+## Einleitung
 
-Diese Datei soll zeigen, wie man eine Datei verändert und wie die änderungen auf die Seite letzendlich kommen.
+Dieses "How To" soll zeigen, wie man eine Datei verändert und wie die Änderungen auf die Seite kommen.
 
-## Findung der Seite:
+## Finden der Seite
 
-Wenn Sie zum Beispiel Ihre Nutzerseite verändern wollen, gehen Sie erstmal auf die Seite und wenn Sie runterscrollen sehen Sie nun einen Link mit dem Namen **Edit this page**.
+Wenn Sie zum Beispiel Ihre Nutzerseite verändern mächten, suchen Sie Ihre Seite in der [User Übersicht](../user/Ausbilder/holldack.md). Auf dieser Seite finden Sie einen Link mit Titel **Edit this page**.
 
-Wenn Sie auf diesen klicken werden Sie auf unser Github Repository weitergeleitet mit der Datei die Sie ändern möchten geöffnet.
+Sie werden nach klicken des Links auf das Github Repository weitergeleitet und können dort Ihre Änderungen vornehmen.
 
-## Änderungen an der Datei vornehmen:
+## Änderungen an der Datei vornehmen
 
-Im Repository dürften Sie nun auf der jeweiligen Datei schon sein und müssen nur noch auf der Rechten Seite den Stift suchen und anklicken.
+Um die Datei zu bearbeiten, klicken Sie auf das Stift Symbol am oberen Rand der Datei. Wenn Sie mit der Maus darüber hovern sollte der Text "Edit this file" zu sehen sein.
 
-Nachdem Sie auf den Stift geklickt haben können Sie in Github die Datei verändern.
+**Bitte vergessen Sie nicht, die bearbeitete Datei zu committen und einem Ausbilder Bescheid zu geben, damit diese deployed werden kann.**
 
-**NICHT VERGESSEN ZU COMMITEN**
+## Wie kommen die Veränderungen nun auf die Seite
 
-## Wie kommen die veränderungen nun auf die Seite?
+Damit die Veränderungen auf der Seite sichtbar werden, muss die Datei nach dem Committen von einer der Ausbildenden Personen deployed werden.
 
-Damit die Veränderungen nun auf der Seite erscheinen, muss die Frau Michel diese Deployen mit dem command:
-
-> GIT_USER=(username) npm run deploy
-
-Mit dem command oben deployed Sie die Datei und startet einen Building Prozess auf Github da Docusaurus es einfach gestalltet Github Pages zu nutzen.
-
-Nachdem die Frau Michel deployed hat wird nach ein paar Minuten die neue Webseite.
+Es dauert in der Regel nur ein paar Minuten bis die Änderungen nach dem deployen sichtbar sind.

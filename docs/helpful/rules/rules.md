@@ -12,7 +12,7 @@ description: Übersicht über unsere Regeln zur AP-Vorbereitung
 - Wenn ich eine alte AP1 vollständig bearbeitet habe (freies Bearbeiten der Aufgaben oder Prüfungssimulation), dann unterschreibe ich bei dem/der Ausbilder/in die ausgedruckte Kopie dieser AP1.
 - Zu jeder Lösung gehören Links auf weiterführende Quellen.
 - Vor dem Deployment muss Ihre Musterlösung von einer Ausbilderin (Ausbilder mitgemeint) begutachtet und freigegeben werden. Auszubildende melden sich zeitnah nach dem Fertigstellen von Musterlösungen.
-- Wir halten uns an die [Vorlagen](../../templates).
+- Wir halten uns an die [Vorlagen](../../templates/template-exercise.md).
 
 ## Technische Regeln
 
@@ -24,3 +24,10 @@ description: Übersicht über unsere Regeln zur AP-Vorbereitung
 ### Deployment
 
 **NUR AUSBILDERINNEN** dürfen das Deployment nach [https://smichel89.github.io/FIAE2023_AP/](https://smichel89.github.io/FIAE2023_AP/) durchführen.
+
+:::note[Wichtiger Hinweis]
+Diese Regeln können jederzeit erweitert werden!
+
+**Stand:** 13.12.2024
+:::
+

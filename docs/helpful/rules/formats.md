@@ -1,7 +1,7 @@
 ---
 id: formats
 title: Formatierungshilfen
-description: This is a text
+description: Schöne Texte mit Markdown schreiben
 ---
 
 # Schöne Texte mit Markdown schreiben

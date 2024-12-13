@@ -1,6 +1,7 @@
 ---
 id: howToDocusaurus
 title: How to use Docusaurus in this Project
+sidebar_class_name: hidden
 description: Wie nutzt man Docusaurus im Projekt
 ---
 
