@@ -16,19 +16,19 @@ description: Dies ist die Lösungseite für die Nr3
 
 ## Lösung AP1 Aufgabe:
 
-![Musterlösung 3 Teil 1](/img/Frühling%202023%20nr3-1%20Musterlösung-1.jpg)  
-![Musterlösung 3 Teil 2](/img/Frühling%202023%20nr3-2%20Musterlösung-2.jpg)  
-![Musterlösung 3 Teil 3](/img/Frühling%202023%20nr3-3%20Musterlösung-3.jpg)  
-![Musterlösung 3 Teil 3](/img/Frühling%202023%20nr3-4%20Musterlösung-4.jpg)  
+![Musterlösung 3 Teil 1](/img/Frühling 2023 nr3-1 Musterlösung-1.jpg)  
+![Musterlösung 3 Teil 2](/img/Frühling 2023 nr3-2 Musterlösung-2.jpg)  
+![Musterlösung 3 Teil 3](/img/Frühling 2023 nr3-3 Musterlösung-3.jpg)  
+![Musterlösung 3 Teil 3](/img/Frühling 2023 nr3-4 Musterlösung-4.jpg)  
 
 ----
 
 ## Selbsterstellte Aufgabe:
 
-![Selbsterstellte Aufgabe Teil 1](/img/Aufgabe%20Gruppe%20Holldack%20Frühjahr%202023%20Nr3-1.jpg)  
+![Selbsterstellte Aufgabe Teil 1](/img/Aufgabe Gruppe Holldack Frühjahr 2023 Nr3-1.jpg)  
 
 ----
 
 ## Lösung der Selbsterstellten Aufgabe:
 
-![Musterlösung Selbsterstellte Aufgabe Aufgabe Teil 1](/img/Musterlösung%20Aufgabe%20Gruppe%20Holldack%20Frühjahr%202023%20Nr3-1.jpg) 
+![Musterlösung Selbsterstellte Aufgabe Aufgabe Teil 1](/img/Musterlösung Aufgabe Gruppe Holldack Frühjahr 2023 Nr3-1.jpg) 
