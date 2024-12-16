@@ -10,7 +10,7 @@ Beim professionellen Schreiben von Texten gilt es mehrere Perspektiven zu berüc
 
 ## Technisches: Markdown-Syntax
 
-Als ersten Anlaufpunkt nutzen wir [markdownguide.org](https://www.markdownguide.org/basic-syntax/). Bevor Sie Ihre Texte committen und pushen, überprüfen Sie bitte, wie Ihr Markdown-Code voraussichtlich von docusaurus gerendert wird, z. B. mit [md2pdf.netlify.app](https://md2pdf.netlify.app/).
+Als ersten Anlaufpunkt nutzen wir [markdownguide.org](https://www.markdownguide.org/basic-syntax/). Bevor Sie Ihre Texte committen und pushen, überprüfen Sie bitte, wie Ihr Markdown-Code voraussichtlich von docusaurus gerendert wird, z. B. mit dem **Preview**-Tab im Github-Editor oder extern via [md2pdf.netlify.app](https://md2pdf.netlify.app/).
 
 ## Wie man verständlich schreibt
 
