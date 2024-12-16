@@ -5,7 +5,7 @@ description: Übersicht aller Aufgaben AP1 von 2021
 ---
 
 <img style={{float: 'right'}}
-src={require('../images/ap1-zuordnungen.png').default}
+src={require('/img/ap1-zuordnungen.png').default}
 alt="Example banner"
 />
 
