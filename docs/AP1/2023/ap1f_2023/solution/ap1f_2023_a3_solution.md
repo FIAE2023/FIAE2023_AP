@@ -17,9 +17,9 @@ description: Dies ist die Lösungseite für die Nr3
 ## Lösung AP1 Aufgabe:
 
 ![Musterlösung 3 Teil 1](/img/Frühling_2023_nr3-1_Musterlösung-1.jpg)  
-![Musterlösung 3 Teil 2](/img/Frühling_2023_nr3-2_Musterlösung-2.jpg)  
-![Musterlösung 3 Teil 3](/img/Frühling_2023_nr3-3_Musterlösung-3.jpg)  
-![Musterlösung 3 Teil 3](/img/Frühling_2023_nr3-4_Musterlösung-4.jpg)  
+![Musterlösung 3 Teil 2](/img/Frühling_2023_nr3-2_Musterlösung-1.jpg)  
+![Musterlösung 3 Teil 3](/img/Frühling_2023_nr3-3_Musterlösung-1.jpg)  
+![Musterlösung 3 Teil 3](/img/Frühling_2023_nr3-4_Musterlösung-1.jpg)  
 
 ----
 
