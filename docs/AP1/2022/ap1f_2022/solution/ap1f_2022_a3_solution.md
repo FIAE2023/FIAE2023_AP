@@ -17,19 +17,19 @@ description: Dies ist die Lösungseite für die Nr3
 
 ## Lösung AP1 Aufgabe:
 
-![Musterlösung 3 Teil 1](/img/Frühling 2022 nr3-1 Musterlösung-1.jpg)  
-![Musterlösung 3 Teil 2](/img/Frühling 2022 nr3-2 Musterlösung-1.jpg)  
-![Musterlösung 3 Teil 3](/img/Frühling 2022 nr3-3 Musterlösung-1.jpg)  
+![Musterlösung 3 Teil 1](/img/Frühling_2022_nr3-1_Musterlösung-1.jpg)  
+![Musterlösung 3 Teil 2](/img/Frühling_2022_nr3-2_Musterlösung-1.jpg)  
+![Musterlösung 3 Teil 3](/img/Frühling_2022_nr3-3_Musterlösung-1.jpg)  
 
 ----
 
 ## Selbsterstellte Aufgabe:
 
-![Selbsterstellte Aufgabe Teil 1](/img/Aufgaben für Gruppe Holldack-1.jpg)  
+![Selbsterstellte Aufgabe Teil 1](/img/Aufgaben_für_Gruppe_Holldack-1.jpg)  
 
 ----
 
 ## Lösung der Selbsterstellten Aufgabe:
 
-![Musterlösung Selbsterstellte Aufgabe Aufgabe Teil 1](/img/Aufgaben für Gruppe Holldack - Musterlösung-1.jpg)  
-![Musterlösung Selbsterstellte Aufgabe Aufgabe Teil 2](/img/Aufgaben für Gruppe Holldack - Musterlösung-2.jpg)  
+![Musterlösung Selbsterstellte Aufgabe Aufgabe Teil 1](/img/Aufgaben_für_Gruppe_Holldack_-_Musterlösung-1.jpg)  
+![Musterlösung Selbsterstellte Aufgabe Aufgabe Teil 2](/img/Aufgaben_für_Gruppe_Holldack_-_Musterlösung-2.jpg)  
