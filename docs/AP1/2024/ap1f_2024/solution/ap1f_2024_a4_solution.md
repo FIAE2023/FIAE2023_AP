@@ -9,8 +9,8 @@ description: Dies ist die Lösungseite für die Nr4
 
 ## AP1 Aufgabe:
 
-![Aufgabe 4 Teil 1](/img/2024/ap1f_2024/AP1_2024_Fruehjahr_Aufgabe4_1.jpg)  
-![Aufgabe 4 Teil 2](/img/2024/ap1f_2024/AP1_2024_Fruehjahr_Aufgabe4_2.jpg)  
+![Aufgabe 4 Teil 1](/img/AP1/2024/ap1f_2024/AP1_2024_Fruehjahr_Aufgabe4_1.jpg)  
+![Aufgabe 4 Teil 2](/img/AP1/2024/ap1f_2024/AP1_2024_Fruehjahr_Aufgabe4_2.jpg)  
 
 ----
 
@@ -28,10 +28,10 @@ Leider habe ich es noch nicht geschafft die Lösung hochzuladen.
 
 ## Selbsterstellte Aufgabe:
 
-![Selbsterstellte Aufgabe Teil 1](/img/2024/ap1f_2024/Fruehjahr_2024_Aufgabe4_Holldack.jpg)  
+![Selbsterstellte Aufgabe Teil 1](/img/AP1/2024/ap1f_2024/Fruehjahr_2024_Aufgabe4_Holldack.jpg)  
 
 ----
 
 ## Lösung der Selbsterstellten Aufgabe:
 
-![Musterlösung Selbsterstellte Aufgabe Aufgabe Teil 1](/img/2024/ap1f_2024/solution/Fruehjahr_2024_Aufgabe4_Holldack_Musterloesung.jpg)  
+![Musterlösung Selbsterstellte Aufgabe Aufgabe Teil 1](/img/AP1/2024/ap1f_2024/solution/Fruehjahr_2024_Aufgabe4_Holldack_Musterloesung.jpg)  
