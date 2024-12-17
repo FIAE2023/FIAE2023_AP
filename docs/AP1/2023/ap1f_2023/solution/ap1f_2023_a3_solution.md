@@ -9,26 +9,26 @@ description: Dies ist die Lösungseite für die Nr3
 
 ## AP1 Aufgabe:
 
-![Aufgabe 3 Teil 1](/img/AP1_2023_Frühjahr-5.jpg)  
-![Aufgabe 3 Teil 2](/img/AP1_2023_Frühjahr-6.jpg)  
+![Aufgabe 3 Teil 1](/img/2023/ap1f_2023/AP1_2023_Fruehjahr_Aufgabe3_1.jpg)  
+![Aufgabe 3 Teil 2](/img/2023/ap1f_2023/AP1_2023_Fruehjahr_Aufgabe3_2.jpg)  
 
 ----
 
 ## Lösung AP1 Aufgabe:
 
-![Musterlösung 3 Teil 1](/img/Frühling_2023_nr3-1_Musterlösung-1.jpg)  
-![Musterlösung 3 Teil 2](/img/Frühling_2023_nr3-2_Musterlösung-1.jpg)  
-![Musterlösung 3 Teil 3](/img/Frühling_2023_nr3-3_Musterlösung-1.jpg)  
-![Musterlösung 3 Teil 3](/img/Frühling_2023_nr3-4_Musterlösung-1.jpg)  
+![Musterlösung 3 Teil 1](/img/2023/ap1f_2023/solution/AP1_2023_Fruehjahr_Aufgabe3_Holldack_Musterloesung_1.jpg)  
+![Musterlösung 3 Teil 2](/img/2023/ap1f_2023/solution/AP1_2023_Fruehjahr_Aufgabe3_Holldack_Musterloesung_2.jpg)  
+![Musterlösung 3 Teil 3](/img/2023/ap1f_2023/solution/AP1_2023_Fruehjahr_Aufgabe3_Holldack_Musterloesung_3.jpg)  
+![Musterlösung 3 Teil 3](/img/2023/ap1f_2023/solution/AP1_2023_Fruehjahr_Aufgabe3_Holldack_Musterloesung_4.jpg)  
 
 ----
 
 ## Selbsterstellte Aufgabe:
 
-![Selbsterstellte Aufgabe Teil 1](/img/Aufgabe_Gruppe_Holldack_Frühjahr_2023_Nr3-1.jpg)  
+![Selbsterstellte Aufgabe Teil 1](/img/2023/ap1f_2023/Fruehjahr_2023_Aufgabe3_Holldack.jpg)  
 
 ----
 
 ## Lösung der Selbsterstellten Aufgabe:
 
-![Musterlösung Selbsterstellte Aufgabe Aufgabe Teil 1](/img/Musterlösung_Aufgabe_Gruppe_Holldack_Frühjahr_2023_Nr3-1.jpg) 
+![Musterlösung Selbsterstellte Aufgabe Aufgabe Teil 1](/img/2023/ap1f_2023/solution/Fruehjahr_2023_Aufgabe3_Holldack_Musterloesung.jpg) 

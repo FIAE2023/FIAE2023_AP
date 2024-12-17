@@ -9,27 +9,27 @@ description: Dies ist die Lösungseite für die Nr3
 
 ## AP1 Aufgabe:
 
-![Aufgabe 3 Teil 1](/img/AP1_2022_Frühjahr-08.jpg)  
-![Aufgabe 3 Teil 2](/img/AP1_2022_Frühjahr-09.jpg)  
-![Aufgabe 3 Teil 3](/img/AP1_2022_Frühjahr-10.jpg)  
+![Aufgabe 3 Teil 1](/img/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe3_1.jpg)  
+![Aufgabe 3 Teil 2](/img/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe3_2.jpg)  
+![Aufgabe 3 Teil 3](/img/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe3_3.jpg)  
 
 ----
 
 ## Lösung AP1 Aufgabe:
 
-![Musterlösung 3 Teil 1](/img/Frühling_2022_nr3-1_Musterlösung-1.jpg)  
-![Musterlösung 3 Teil 2](/img/Frühling_2022_nr3-2_Musterlösung-1.jpg)  
-![Musterlösung 3 Teil 3](/img/Frühling_2022_nr3-3_Musterlösung-1.jpg)  
+![Musterlösung 3 Teil 1](/img/2022/ap1f_2022/solution/AP1_2022_Fruehjahr_Aufgabe3_Holldack_Musterloesung_1.jpg)  
+![Musterlösung 3 Teil 2](/img/2022/ap1f_2022/solution/AP1_2022_Fruehjahr_Aufgabe3_Holldack_Musterloesung_2.jpg)  
+![Musterlösung 3 Teil 3](/img/2022/ap1f_2022/solution/AP1_2022_Fruehjahr_Aufgabe3_Holldack_Musterloesung_3.jpg)  
 
 ----
 
 ## Selbsterstellte Aufgabe:
 
-![Selbsterstellte Aufgabe Teil 1](/img/Aufgaben_für_Gruppe_Holldack-1.jpg)  
+![Selbsterstellte Aufgabe Teil 1](/img/2022/ap1f_2022/Fruehjahr_2022_Aufgabe3_Holldack.jpg)  
 
 ----
 
 ## Lösung der Selbsterstellten Aufgabe:
 
-![Musterlösung Selbsterstellte Aufgabe Aufgabe Teil 1](/img/Aufgaben_für_Gruppe_Holldack_-_Musterlösung-1.jpg)  
-![Musterlösung Selbsterstellte Aufgabe Aufgabe Teil 2](/img/Aufgaben_für_Gruppe_Holldack_-_Musterlösung-2.jpg)  
+![Musterlösung Selbsterstellte Aufgabe Aufgabe Teil 1](/img/2022/ap1f_2022/solution/Fruehjahr_2022_Aufgabe3_Holldack_Musterloesung_1.jpg)  
+![Musterlösung Selbsterstellte Aufgabe Aufgabe Teil 2](/img/2022/ap1f_2022/solution/Fruehjahr_2022_Aufgabe3_Holldack_Musterloesung_2.jpg)  
