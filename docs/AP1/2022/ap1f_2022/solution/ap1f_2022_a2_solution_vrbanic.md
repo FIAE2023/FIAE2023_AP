@@ -10,35 +10,35 @@ description: Lösung zur AP1 im Frühjahr 2022 Aufgabe 2
 ----
 
 ## Aufgabe 2 - Thema Hardwarekomponenten - 24 Punkte:
-![Aufgabe 2 Situation](/FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2_Situation.png)
+![Aufgabe 2 Situation](/../FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2_Situation.png)
 ### Aufgabe 2a) - CPU Einbau
-![Aufgabe 2a Aufgabenstellung](/FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2a_Aufgabenstellung.png)
+![Aufgabe 2a Aufgabenstellung](/../FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2a_Aufgabenstellung.png)
 ### Aufgabe 2aa) - Drei Schritte zum Einbau - 3 Punkte
-![Aufgabe 2aa](/FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2aa.png)
+![Aufgabe 2aa](/../FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2aa.png)
 ### Aufgabe 2ab) - Achtsamkeitspunkte - 2 Punkte
-![Aufgabe 2ab](/FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2ab.png)
+![Aufgabe 2ab](/../FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2ab.png)
 ### Aufgabe 2b) - Wärmeleitpaste - 2 Punkte
-![Aufgabe 2b](/FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2b.png)
+![Aufgabe 2b](/../FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2b.png)
 ### Aufgabe 2c) - Dual Channeling - 3 Punkte
-![Aufgabe 2c](/FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2c.png)
+![Aufgabe 2c](/../FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2c.png)
 ### Aufgabe 2d) - M.2 SSD vs SATA SSD - 2 Punkte
-![Aufgabe 2d](/FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2d.png)
+![Aufgabe 2d](/../FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2d.png)
 ### Aufgabe 2e) - Grafikkarten Schnittstellen - 3 Punkte
-![Aufgabe 2e](/FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2e.png)
+![Aufgabe 2e](/../FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2e.png)
 ### Aufgabe 2f) - I/O Panel
-![Aufgabe 2f Aufgabenstellung](/FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2f_Aufgabenstellung.png)
+![Aufgabe 2f Aufgabenstellung](/../FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2f_Aufgabenstellung.png)
 ### Aufgabe 2fa) - Eingerahmter USB Anschluss - 2 Punkte
-![Aufgabe 2fa](/FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2fa.png)
+![Aufgabe 2fa](/../FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2fa.png)
 ### Aufgabe 2fb) - USB-C vs USB-3 - 2 Punkte
-![Aufgabe 2fb](/FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2fb.png)
+![Aufgabe 2fb](/../FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2fb.png)
 ### Aufgabe 2g) - Taskmanager
-![Aufgabe 2g Aufgabenstellung](/FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2g_Aufgabenstellung.png)
+![Aufgabe 2g Aufgabenstellung](/../FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2g_Aufgabenstellung.png)
 ### Aufgabe 2ga) - Logische Prozessoren - 2 Punkte
-![Aufgabe 2ga](/FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2ga.png)
+![Aufgabe 2ga](/../FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2ga.png)
 ### Aufgabe 2gb) - Cache - 2 Punkte
-![Aufgabe 2gb](/FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2gb.png)
+![Aufgabe 2gb](/../FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2gb.png)
 ### Aufgabe 2gc) - GHz zu Hertz - 1 Punkt
-![Aufgabe 2gc](/FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2gc.png)
+![Aufgabe 2gc](/../FIAE2023_AP/static/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe2gc.png)
 
 ----
 
