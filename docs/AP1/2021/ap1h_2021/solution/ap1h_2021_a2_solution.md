@@ -4,7 +4,7 @@ title: AP1 Herbst 2021 Aufgabe 2
 description: My document description
 ---
 
-## AP1 Herbst 2021 Aufgabe 2 Lösung [Tobias Kindler](<../../../user/Auszubildende Michel/kindler.md>)
+## AP1 Herbst 2021 Aufgabe 2 Lösung [Tobias Kindler](<../../../../user/Auszubildende Michel/kindler.md>)
 
 ## AP1 Aufgabe 2
 Im Rahmen des Umzugs sollen einige PCs neu angeschafft werden. Der Kunde soll sich zwischen zwei PC-Varianten entscheiden.
