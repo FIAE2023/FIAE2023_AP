@@ -4,7 +4,7 @@ title: AP1 Herbst 2021 Aufgabe 2
 description: My document description
 ---
 
-## AP1 Herbst 2023 Aufgabe 2 Lösung [Tobias Kindler](<../../../user/Auszubildende Michel/kindler.md>)
+## AP1 Herbst 2023 Aufgabe 2 Lösung [Tobias Kindler](<../../../../user/Auszubildende Michel/kindler.md>)
 
 ## AP1 Aufgabe 2
 Zur Realisierung des 24/7-Services gilt es im Vorfeld u.a., die Rahmenbedingungen zur Telearbeit zu klären. Sie wirken hierbei mit. 
