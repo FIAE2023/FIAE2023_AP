@@ -4,7 +4,7 @@ title: AP1 Herbst 2022 Aufgabe 2
 description: My document description
 ---
 
-## AP1 Herbst 2022 Aufgabe 2 Lösung [Tobias Kindler](<../../../user/Auszubildende Michel/kindler.md>)
+## AP1 Herbst 2022 Aufgabe 2 Lösung [Tobias Kindler](<../../../../user/Auszubildende Michel/kindler.md>)
 
 ## AP1 Aufgabe 2
 Die Package AG plant die Anschaffung einer kleinen Fertigungslinie für Karton, welche mit einer Arbeitsbreite von **508 mm** und eine Produktionsgeschwindigkeit von **30,48 m/min** Karton auf Rollen produziert. Die Anlage soll **zwölf Stunden pro Tag** produktiv sein.
