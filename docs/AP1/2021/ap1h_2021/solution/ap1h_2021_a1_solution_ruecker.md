@@ -47,7 +47,7 @@ T terminiert
 Um das Netzplan Diagramm zu vervollständigen, werden erstmal die fehlenden Vorgänge sowie ihre Dauer, nach dem was in der Tabelle beschrieben wird, eingetragen.
 Der Punkt Vorgänger beschreibt dabei, welche Prozesse vorher abgeschlossen sein müssen, damit dieser Prozess starten kann.
 
-![AP1h 2021 Aufgabe 1c Lösung Step 1](</img/AP1/2021/ap1h_2021/solution/AP1h_2021_a1c_solution_step1.jpg>)
+![AP1h 2021 Aufgabe 1c Lösung Step 1](</img/AP1/2021/ap1h_2021/solution/AP1h_2021_a1c_solution_step1.png>)
 
 Als nächstes werden die FAZ und FEZ eingetragen von links nach rechts. Der FAZ ist dabei der späteste FEZ seiner Vorgänger. Der FEZ ergibt sich daraus, dass die Dauer auf den FAZ gerechnet wird.
 
@@ -60,7 +60,7 @@ Die Dauer von Vorgang G beträgt 4 Stunden woraus sich ein FEZ von 18 Stunden er
 
 Das ganze wird für die anderen Vorgänge weitergeführt.
 
-![AP1h 2021 Aufgabe 1c Lösung Step 2](</img/AP1/2021/ap1h_2021/solution/AP1h_2021_a1c_solution_step2.jpg>)
+![AP1h 2021 Aufgabe 1c Lösung Step 2](</img/AP1/2021/ap1h_2021/solution/AP1h_2021_a1c_solution_step2.png>)
 
 Als nächstes werden die SAZ und SEZ eingetragen. Dies wird von recht nach links gemacht. Der SEZ vom letzten Vorgang entspricht dabei hier seinem FEZ. Der FAZ ergibt sich aus der dem Abzug der Dauer von dem SEZ. Der SEZ ergibt sich aus dem frühesten SAZ des nachfolgenden Vorgangs.
 
@@ -70,7 +70,7 @@ Der SEZ von Vorgang I gleicht dem SAZ von Vorgang K und ist somit bei 22 Stunden
 
 Das ganze wird für die weiteren Vorgänge durchgeführt.
 
-![AP1h 2021 Aufgabe 1c Lösung Step 3](</img/AP1/2021/ap1h_2021/solution/AP1h_2021_a1c_solution_step3.jpg>)
+![AP1h 2021 Aufgabe 1c Lösung Step 3](</img/AP1/2021/ap1h_2021/solution/AP1h_2021_a1c_solution_step3.png>)
 
 Nun kann der Gesamtpuffer sowie der freie Puffer berechnet werden.
 
@@ -78,7 +78,7 @@ Der Gesamtpuffer ergibt sich aus der Differenz von SEZ und FEZ (GP = SEZ - FEZ) 
 
 Der freie Puffer ergibt sich aus der Differenz vom frühesten FAZ des nachfolgenden Vorgangs und dem FEZ (FP = min(FAZ<sub>Nachfolger</sub>) - FEZ).
 
-![AP1h 2021 Aufgabe 1c Lösung fertig](</img/AP1/2021/ap1h_2021/solution/AP1h_2021_a1c_solution.jpg>)
+![AP1h 2021 Aufgabe 1c Lösung fertig](</img/AP1/2021/ap1h_2021/solution/AP1h_2021_a1c_solution.png>)
 
 ## AP1 Aufgabe 1d)
 
@@ -88,7 +88,7 @@ Der freie Puffer ergibt sich aus der Differenz vom frühesten FAZ des nachfolgen
 
 Der kritische Pfad ist der Pfad im Netzplan bei dem jede zeitliche Verzögerung das zeitliche Projektende beeinflusst. Also den Pfad, wo es keinen Puffer gibt.
 
-![AP1h 2021 Aufgabe 1d Lösung](</img/AP1/2021/ap1h_2021/solution/AP1h_2021_a1d_solution.jpg>)
+![AP1h 2021 Aufgabe 1d Lösung](</img/AP1/2021/ap1h_2021/solution/AP1h_2021_a1d_solution.png>)
 
 ## AP1 Aufgabe 1e)
 
