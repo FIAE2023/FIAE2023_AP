@@ -71,6 +71,14 @@ Netto-Speicherkapazität:
 ___
 
 #### Lösung zur AP1 Aufgabe 2ca)
+Bei RAID 5 verliert man eine Festplatte für die Parität und alle Festplatten werden auf die Größe der kleinsten Festplatte beschränkt.  
+9 - 1 = 8  
+8 * 2TB = 16TB  
+___
+RAID-Level: 5
+___
+Netto-Speicherkapazität: 16TB
+___
 
 #### Aufgabe 2 cb)
 Für einen Vergleich soll auch die Speicherkapazität berechnet werden, wenn man die gegbenen Festplatten als JBOD (Zusammenvassung aller Festplatten zu einem logischen Volumen) nutzt.
@@ -81,11 +89,19 @@ Speicherkapazität in TiB:   *Ich glauge das TiB ist ein Schreibfehler, weil in 
 ___
 
 #### Lösung zur AP1 Aufgabe 2cb)
+2 * 3TB + 7 * 2TB = 20TB
+___
+Speicherkapazität in TiB: 20TB   
+___
 
 #### Aufgabe 2 cc)
 Beschreiben Sie zwei Vorteile, die ein Laufwerksverbund als JBOD gegenüber einem RAID 0 bietet. 
 
 #### Lösung zur AP1 Aufgabe 2cc)
+- Wenn eine Festplatte kaputt geht, gehen bei JBOD nur die Daten verloren, die auf der Festplatte 
+gespeichert sind, bei RAID 0 gehen alle Daten im RAID verloren.
+- JBOD kann die ganze Speicherkapazität der Festplatten nutzen, während bei RAID 0 alle Festplatten 
+auf die Größe der kleinsten Festplatte begrenzt.
 
 ### Aufgabe 2d)
 Die im Netzwerk der Hauptverwaltung eingesetzten NAS-Speichersysteme sollen durch ein SAN (Strorage Area Network) abgelöst werden.
@@ -93,6 +109,9 @@ Die im Netzwerk der Hauptverwaltung eingesetzten NAS-Speichersysteme sollen durc
 Nennen Sie drei Vorteile, die den Einsatz begründen.
 
 ### Lösung zur AP1 Aufgabe 2d)
+- SAN hat geringere Latenzzeiten
+- SAN lässt sich leichter erweitern
+- SAN belastet nicht das bestehende Netzwerk, weil es ein eigenes Speichernetzwerk aufbaut
 
 ### Aufgabe 2e)
 Für die Kennzeichnung der produzierten Kartonrollen durch einen maschienenlesbaren Aufkleber schlägt die Geschäftsleitung die Verwendung von Barcode, QR-Code oder RFID-Chips vor.
@@ -101,6 +120,7 @@ Stellen Sie jeweils einen Vor- und Nachteil der Kennzeichnung mit QR-Code bzw. R
 ![Aufgabe 2 e)](/img/AP1/2022/ap1h_2022/H22A2e.png)
 
 ### Lösung zur AP1 Aufgabe 2e)
+![Aufgabe 2 e Lösung)](/img/AP1/2022/ap1h_2022/solution/H22A2eL.png)
 
 ## Selbsterstellte Aufgabe
 
