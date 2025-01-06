@@ -5,7 +5,7 @@ description: Dies ist die Lösungseite für die Nr4
 ---
 
 ## Aufgabe:
-![Aufgabe 4 a](static/img/AP1/2022/ap1f_2022/AP1_2022_Frühjahr_Aufgabe4a.png)  
+![Aufgabe 4 a](../../../../../static/img/AP1/2022/ap1f_2022/AP1_2022_Frühjahr_Aufgabe4a.png)  
 ![Aufgabe 4 b](static/img/AP1/2022/ap1f_2022/AP1_2022_Frühjahr_Aufagbe4b.png)  
 ![Aufgabe 4 c](static/img/AP1/2022/ap1f_2022/AP1_2022_Frühjahr_Aufgabe4c.png)  
 ![Aufgabe 4 d Situation](static/img/AP1/2022/ap1f_2022/AP1_2022_Frühjahr_Aufgabe4d_Situation.png)  
