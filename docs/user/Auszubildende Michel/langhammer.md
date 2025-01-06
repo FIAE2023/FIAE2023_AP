@@ -6,9 +6,9 @@ description: Personal Page of Niels Langhammer
 
 ## Verantwortlich für:
 
-- [AP1 Frühjahr 2022 Aufgabe1](docs/AP1/2022/ap1f_2022/ap1f_2022_a1.md)
-- [AP1 Herbst 2022 Aufgabe3](docs/AP1/2022/ap1h_2022/ap1h_2022_a3.md)
-- [AP1 Frühjahr 2024 Aufgabe1](docs/AP1/2024/ap1f_2024/ap1f_2024_a1.md)
+- [AP1 Frühjahr 2022 Aufgabe1](../../AP1/2022/ap1f_2022/ap1f_2022_a1.md)
+- [AP1 Herbst 2022 Aufgabe3](../../AP1/2022/ap1h_2022/ap1h_2022_a3.md)
+- [AP1 Frühjahr 2024 Aufgabe1](../../AP1/2024/ap1f_2024/ap1f_2024_a1.md)
 
 ## Erstellte Aufgaben:
 
