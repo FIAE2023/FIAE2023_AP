@@ -6,8 +6,13 @@ description: Dies ist die Lösungseite für die Nr4
 
 ## Aufgabe
 
---Markdown links zu Aufgaben Bilder
-
+![Aufgabe 4 a](../../../../../static/img/AP1/2024/ap1f_2024/AP1_2024_Frühjahr_Aufgabe_4a.png)  
+![Aufgabe 4 b](../../../../../static/img/AP1/2024/ap1f_2024/AP1_2024_Frühjahr_Aufgabe_4b.png)  
+![Aufgabe 4 c](../../../../../static/img/AP1/2024/ap1f_2024/AP1_2024_Frühjahr_Aufgabe_4c.png)  
+![Aufgabe 4 da](../../../../../static/img/AP1/2024/ap1f_2024/AP1_2024_Frühjahr_Aufgabe_4da.png)  
+![Aufgabe 4 db](../../../../../static/img/AP1/2024/ap1f_2024/AP1_2024_FrühjahrAufgabe_4db.png)  
+![Aufgabe 4 e](../../../../../static/img/AP1/2024/ap1f_2024/AP1_2024_Frühjahr_Aufgabe_4e.png)  
+![Aufgabe 4 f](../../../../../static/img/AP1/2024/ap1f_2024/AP1_2024_Frühjahr_Aufgabe_4f.png)  
 ## Lösungen 
 
 #### Aufgabe 4 a
