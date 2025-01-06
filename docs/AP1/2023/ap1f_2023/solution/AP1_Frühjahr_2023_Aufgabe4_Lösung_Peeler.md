@@ -17,7 +17,7 @@ description: Dies ist die Lösungseite für die Nr4
 
 #### Aufgabe 4 a
 
---Link zum Bild
+![Aufgabe 4a Solution](../../../../../static/img/AP1/2023/ap1f_2023/solution/AP1_2023_Frühjahr_Aufgabe_4a_Solution.png)
 
 #### Aufgabe 4 ba
 Das Lastenheft wird vom Auftraggeber erstellt, das Pflichtenheft vom Auftragnehmer 
