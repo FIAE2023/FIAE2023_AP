@@ -3,7 +3,6 @@ id: langhammer
 title: Niels Langhammer
 description: Personal Page of Niels Langhammer
 ---
-# 
 ## Langhammer, Niels
 
 ## Verantwortlich für:
