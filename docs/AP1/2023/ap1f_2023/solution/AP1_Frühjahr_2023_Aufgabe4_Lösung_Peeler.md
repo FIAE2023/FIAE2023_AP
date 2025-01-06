@@ -4,7 +4,7 @@ title: Lösungsseite
 description: Dies ist die Lösungseite für die Nr4
 ---
 
-## Aufgaben
+## Aufgaben:
 
 ![Aufgabe 4 a](../../../../../static/img/AP1/2023/ap1f_2023/AP1_2023_Frühjahr_Aufgabe_4a.png)  
 ![Aufgabe 4 ba](../../../../../static/img/AP1/2023/ap1f_2023/AP1_2023_Frühjahr_Aufgbae_4ba.png)  
