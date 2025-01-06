@@ -13,7 +13,7 @@ description: Dies ist die Lösungseite für die Nr4
 ![Aufgabe 4 da](../../../../../static/img/AP1/2023/ap1f_2023/AP1_2023_Frühjahr_Aufgabe_4da.png)  
 ![Aufgabe 4 db](../../../../../static/img/AP1/2023/ap1f_2023/AP1_2023_Frühjahr_Aufgabe_4db.png)  
 
-## Lösungen 
+## Lösungen:
 
 ### Aufgabe 4 a:
 
