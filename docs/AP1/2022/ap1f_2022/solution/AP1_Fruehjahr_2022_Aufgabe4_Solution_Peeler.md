@@ -16,14 +16,14 @@ description: Dies ist die Lösungseite für die Nr4
 
 ## Lösungen: 
 
-## Aufgabe 4 a:
+### Aufgabe 4 a:
 
 1. Sie bereiten den PC vor damit der User sofort mit dem Programm arbeiten kann
 2. Voraussetzung für die automatische Installation sind Aufsetzungspakete die keinen User Input benötigen
 3. Diese PAket ewerden von einem Software Verteilungsagent installiert und konfiguriert und müssen auf jedem PC vorhanden sein
 4. Es ist nicht nötig, dass das verantwortliche PErsonal für jedes Gerät die Zugangsberechtigung hat
 
-## Aufgabe 4 b
+### Aufgabe 4 b:
 
 Vorteile:
 1. Cloudbasierte Software kann an wechselnde Anforderungen einfach angepasst werden.
@@ -33,7 +33,7 @@ Nachteile:
 1. Ohne eine stabiele Internetverbindung kann der Zugriff auf die cloudbasierte SOftware eingeschränkt oder unmöglich sein 
 2. Da die Daten extern gespeichert werden, ist der DAtenschutz und die Sicherheit dieser Daten nicht gewährleistet 
 
-## Aufgabe 4 c
+### Aufgabe 4 c:
 Gegeben: 
 Fremdbezug = 25,00 EUR pro Jahr pro Lizenz 
 Eigenentwicklung = Personalaufwand von 12.000 Stunden 
@@ -53,9 +53,9 @@ Kosten Eigenentwicklung gesamt = 105.000 + 900.000
 
 Antwort = Ab einer Lizenzanzahl von 4.021 ist die Eigenentwicklung günstiger 
 
-## Aufgabe 4 d 
+### Aufgabe 4 d:
  ![Aufgabe 4 d Lösung ](../../../../../static/img/AP1/2022/ap1f_2022/solution/AP1_2022_Frühjahr_Aufgabe4d_Lösung_Peeler.png)
-## Aufgabe 4 e
+### Aufgabe 4 e:
 
 Gegeben: 
 Dateigröße = 100MiByte
