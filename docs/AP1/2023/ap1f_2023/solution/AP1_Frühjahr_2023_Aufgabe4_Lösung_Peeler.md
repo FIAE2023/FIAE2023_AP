@@ -26,10 +26,10 @@ Während sich das Lastenheft darauf fokussiert was umgesetzt werden soll, fokuss
 
 #### Aufgabe 4 bb
 
---Bild von Lösung 
+![Aufgabe 4a Solution](../../../../../static/img/AP1/2023/ap1f_2023/solution/AP1_2023_Frühjahr_Aufgabe_4bb_Solution.png)
 
 
-## ##Aufgabe 4 c 
+#### Aufgabe 4 c 
 
 #### Aufgabe 4 da
 
