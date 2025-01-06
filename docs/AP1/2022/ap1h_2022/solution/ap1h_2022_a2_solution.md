@@ -120,7 +120,7 @@ Stellen Sie jeweils einen Vor- und Nachteil der Kennzeichnung mit QR-Code bzw. R
 ![Aufgabe 2 e)](/img/AP1/2022/ap1h_2022/H22A2e.png)
 
 ### Lösung zur AP1 Aufgabe 2e)
-![Aufgabe 2 e Lösung)](/img/AP1/2022/ap1h_2022/solution/H22A2eL.png)
+![Aufgabe 2 e Lösung](/img/AP1/2022/ap1h_2022/solution/H22A2eL.png)
 
 ## Selbsterstellte Aufgabe
 
