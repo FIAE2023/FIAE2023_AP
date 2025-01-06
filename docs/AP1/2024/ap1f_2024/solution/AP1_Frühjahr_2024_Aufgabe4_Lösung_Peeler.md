@@ -20,7 +20,7 @@ description: Dies ist die Lösungseite für die Nr4
 ### Aaufgabe 4 b:
 VPN steht für Virtual Private Network und beschreibt die Möglichkeit, eine geschützte Netzwerkverbindung unter Nutzung öffentlicher Netzwerke aufzubauen. VPNs verschlüsseln Ihren Internetverkehr und verschleiern Ihre Online-Identität. Damit erschweren sie es Dritte, ihre Spuren im Internet zu verfolgen und Daten zu stehlen. Die Verschlüsselung findet dabei in Echtzeit statt. 
 
-####Aufgabe 4 c:
+### Aufgabe 4 c:
 1. Kapazität und Transferrate: Wichtig zu beachten ist, dass die externen Festplatten ausreichend Kapazität und eine hohe Transferrate haben um sicherzustellen dass alle DAten gespeichert und übertragen werden können. 
 2. Sicherheit und Verschlüsselung: Um die Daten vor unbefugtem Zugriff zu schützen, sollten die externen Festplatten eine Verschlüsselungsfunktion haben, die die DAten sicher speichert und nur autorisierten PErsonen Zugriff ermöglicht.
 3. Mobilität und Zuverlässigkeit: Die externen Festplatten sollten robuts und zuverlässig sein, um sicherzustellen, dass die Daten auch beim häufigem Transport oder unter verschiedenen Bedingungen sicher gespeichert bleiben. 
