@@ -54,7 +54,7 @@ Kosten Eigenentwicklung gesamt = 105.000 + 900.000
 Antwort = Ab einer Lizenzanzahl von 4.021 ist die Eigenentwicklung günstiger 
 
 # Aufgabe 4 d 
- ![Aufgabe 4 d Lösung ](static/img/AP1/2022/ap1f_2022/solution/AP1_2022_Frühjahr_Aufgabe4d_Lösung_Peeler.png)
+ ![Aufgabe 4 d Lösung ](../../../../../static/img/AP1/2022/ap1f_2022/solution/AP1_2022_Frühjahr_Aufgabe4d_Lösung_Peeler.png)
 # Aufgabe 4 e
 
 Gegeben: 
