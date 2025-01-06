@@ -13,7 +13,7 @@ description: Dies ist die Lösungseite für die Nr4
 ![Aufgabe 4 db](../../../../../static/img/AP1/2024/ap1f_2024/AP1_2024_FrühjahrAufgabe_4db.png)  
 ![Aufgabe 4 e](../../../../../static/img/AP1/2024/ap1f_2024/AP1_2024_Frühjahr_Aufgabe_4e.png)  
 ![Aufgabe 4 f](../../../../../static/img/AP1/2024/ap1f_2024/AP1_2024_Frühjahr_Aufgabe_4f.png)  
-## Lösungen 
+## Lösungen:
 
 ### Aufgabe 4 a:
 
@@ -41,7 +41,7 @@ VPN steht für Virtual Private Network und beschreibt die Möglichkeit, eine ges
 2. Deaktivieren bzw. Einschränken von Netzwerkfreigaben 
 3. Einsatz einer Desktop Firewall
 
-### Aufgabe f:
+### Aufgabe 4 f:
 Gegeben: 
 Dateigröße: 1GiB
 Download: 75.78 Mbps
