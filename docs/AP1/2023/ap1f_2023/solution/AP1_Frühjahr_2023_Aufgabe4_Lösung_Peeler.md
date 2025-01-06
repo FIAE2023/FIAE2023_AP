@@ -6,12 +6,12 @@ description: Dies ist die Lösungseite für die Nr4
 
 ## Aufgabe
 
-![Aufgabe 4 a](static/img/AP1/2023/ap1f_2023/AP1_2023_Frühjahr_Aufgabe_4a.png)  
-![Aufgabe 4 ba](static/img/AP1/2023/ap1f_2023/AP1_2023_Frühjahr_Aufgbae_4ba.png)  
-![Aufgabe 4 bb](static/img/AP1/2023/ap1f_2023/AP1_2023_Frühjahr_Aufgabe_4bb.png)  
-![Aufgabe 4 c](static/img/AP1/2023/ap1f_2023/AP1_2023_Frühjahr_Aufgabe_4c.png)  
-![Aufgabe 4 da](static/img/AP1/2023/ap1f_2023/AP1_2023_Frühjahr_Aufgabe_4da.png)  
-![Aufgabe 4 db](static/img/AP1/2023/ap1f_2023/AP1_2023_Frühjahr_Aufgabe_4db.png)  
+![Aufgabe 4 a](../../../../../static/img/AP1/2023/ap1f_2023/AP1_2023_Frühjahr_Aufgabe_4a.png)  
+![Aufgabe 4 ba](../../../../../static/img/AP1/2023/ap1f_2023/AP1_2023_Frühjahr_Aufgbae_4ba.png)  
+![Aufgabe 4 bb](../../../../../static/img/AP1/2023/ap1f_2023/AP1_2023_Frühjahr_Aufgabe_4bb.png)  
+![Aufgabe 4 c](../../../../../static/img/AP1/2023/ap1f_2023/AP1_2023_Frühjahr_Aufgabe_4c.png)  
+![Aufgabe 4 da](../../../../../static/img/AP1/2023/ap1f_2023/AP1_2023_Frühjahr_Aufgabe_4da.png)  
+![Aufgabe 4 db](../../../../../static/img/AP1/2023/ap1f_2023/AP1_2023_Frühjahr_Aufgabe_4db.png)  
 
 ## Lösungen 
 
