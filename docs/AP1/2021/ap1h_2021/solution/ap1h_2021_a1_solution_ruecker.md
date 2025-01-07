@@ -1,6 +1,6 @@
 ---
 sidebar-position: 2
-title: AP1 Herbst 2021 Aufgabe 1
+title: AP1 Herbst 2021 Aufgabe 1 - Lösung Rücker
 description: Dies ist die Lösung zu AP1 Herbst 2021 Aufgabe 1
 ---
 
