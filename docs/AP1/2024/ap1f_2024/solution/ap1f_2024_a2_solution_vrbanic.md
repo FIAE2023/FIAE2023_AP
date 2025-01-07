@@ -5,7 +5,7 @@ description: Lösung zur AP1 im Frühjahr 2024 Aufgabe 2
 ---
 
 # AP1 Fruehjahr 2022 Aufgabe 2 Lösung
-#### Von [Vrbanic](../../../user/Auszubildende%20Michel/vrbanic.md)
+#### Von [Vrbanic](<../../../user/Auszubildende Michel/vrbanic.md>)
 
 ----
 
