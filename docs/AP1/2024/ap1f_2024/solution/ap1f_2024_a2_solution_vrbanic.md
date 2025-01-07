@@ -44,7 +44,7 @@ Eine grün blinkende LED zeigt einen Datenaustausch an. Je nach Gerät, kann die
 ---
 
 ### Aufgabe 2b)
-[Aufgabe 2b Solution](/img/AP1/2024/ap1f_2024/solution/AP1_2024_Fruehjahr_Aufgabe2b_Solution_Vrbanic.png)
+![Aufgabe 2b Solution](/img/AP1/2024/ap1f_2024/solution/AP1_2024_Fruehjahr_Aufgabe2b_Solution_Vrbanic.png)
 
 ---
 
@@ -81,7 +81,7 @@ ping 192.168.0.1
 ---
 
 ### Aufgabe 2g)
-[Aufgabe 2g Solution](/img/AP1/2024/ap1f_2024/solution/AP1_2024_Fruehjahr_Aufgabe2g_Solution_Vrbanic.png)
+![Aufgabe 2g Solution](/img/AP1/2024/ap1f_2024/solution/AP1_2024_Fruehjahr_Aufgabe2g_Solution_Vrbanic.png)
 
 ----
 
