@@ -1,7 +1,7 @@
 ---
 sidebar-position: 2
-title: Lösungsseite
-description: Dies ist eine Vorlage für alle Lösungseiten Seiten
+title: AP1 Frühjahr 2022 Aufgabe 1 Lösung Hölz
+description: Lösung zur AP1 im Frühjahr 2022 Aufgabe 1
 ---
 
 ## AP 1 Frühjahr 2022 Aufgabe 1 Lösung [Herr Hölz](../../../../user/Auszubildende%20Holldack/hoelz.md)
