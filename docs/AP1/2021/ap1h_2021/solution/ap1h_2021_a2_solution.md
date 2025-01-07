@@ -37,7 +37,7 @@ Efficiency = Useful power output/Total power input
 139,53W * 180 = 25.115W = 25,1kW  
 25,1kW * 30cent = 753cent = 7,53€
   
-![Aufgabe 2 a Lösung](/img/AP12021/ap1h_2021/solution/H21A2aL.png)
+![Aufgabe 2 a Lösung](/img/AP1/2021/ap1h_2021/solution/H21A2aL.png)
 
 ### Aufgabe 2b) - Thema Amortisierungsrechnung  - 4 Punkte
 Der PC mit dem Netzteil nach dem 80Plus Gold Standard kostet in der Anschaffung 100EUR mehr.
@@ -99,7 +99,7 @@ Write-Host produce a display output.
 Get-Volume return a Volume object that match the specified criteria.
 
 ### Lösung zur AP1 Aufgabe 2e)
-![Aufgabe 2 e Lösung](/img/AP12021/ap1h_2021/solution/H21A2eL.png)
+![Aufgabe 2 e Lösung](/img/AP1/2021/ap1h_2021/solution/H21A2eL.png)
 
 ## Selbsterstellte Aufgabe
 
