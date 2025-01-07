@@ -1,6 +1,6 @@
 ---
 id: ap1h_2021_a2_solution
-title: AP1 Herbst 2021 Aufgabe 2 - Lösung Tobias Kindler
+title: AP1 Herbst 2021 Aufgabe 2 - Lösung Kindler
 description: My document description
 ---
 
