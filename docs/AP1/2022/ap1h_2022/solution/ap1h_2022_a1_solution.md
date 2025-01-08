@@ -4,7 +4,7 @@ title: AP1 Herbst 2022 Aufgabe 1 - Lösung Hübscher
 description: My document description
 ---
 
-## AP1 Herbst 2022 Aufgabe 1 Lösung [Justin Hübscher](<../../../user/Auszubildende Holldack/huebscher.md>)
+## AP1 Herbst 2022 Aufgabe 1 Lösung [Justin Hübscher](<../../../../user/Auszubildende Holldack/huebscher.md>)
 
 ---
 
