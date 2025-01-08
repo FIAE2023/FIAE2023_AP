@@ -41,11 +41,11 @@ SELECT SUM(Quantity) FROM ProductionData WHERE Thickness = 2 AND Width = 200 AND
 
 ---
 
-### Aufgabe 2b)
-[Aufgabe 4b Solution](/img/AP1/2022/ap1h_2022/solution/AP1_2022_Herbst_Aufgabe4b_Solution_Vrbanic.png)
+### Aufgabe 4b)
+![Aufgabe 4b Solution](/img/AP1/2022/ap1h_2022/solution/AP1_2022_Herbst_Aufgabe4b_Solution_Vrbanic.png)
 
-### Aufgabe 2c)
-[Aufgabe 4c Solution](/img/AP1/2022/ap1h_2022/solution/AP1_2022_Herbst_Aufgabe4c_Solution_Vrbanic.png)
+### Aufgabe 4c)
+![Aufgabe 4c Solution](/img/AP1/2022/ap1h_2022/solution/AP1_2022_Herbst_Aufgabe4c_Solution_Vrbanic.png)
 
 ----
 
