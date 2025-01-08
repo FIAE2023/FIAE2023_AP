@@ -25,7 +25,7 @@ Identifizieren Sie in der gegebenen Adresse die beiden genannten Komponenten und
 #### Ungekürztes Standortpräfix:
     128 Bit lang
     8 * 16 Bit
-    2001:da8:5f2d:28: : /64 <- Bits der Netzmaske
+    2001:da8:5f2d:28: : /64 \<- Bits der Netzmaske
     128 - 64 = 64
     2001:0da8:5f2d:
 
@@ -73,7 +73,7 @@ Geben Sie den Grund dafür an, dass eine IPv6-Adresse angezeigt wird, die Sie ni
 ### g) Die Geschäftsführung möchte im Umfeld der Maschinenautomatisierung die Mitarbeiter mit weiteren mobilen und robusten Geräten ausstatten. Der Bedarf beträgt im ersten Schritt 30 Stück.
 Folgande drei unverbindliche Angebote liegen vor:
 
-| <hr>                                                     | Noteplus AG, Mainz                  | Notebook-Clever.de, Berlin  | PC-Genie KG, Frankfurt     |
+|                                                          | Noteplus AG, Mainz                  | Notebook-Clever.de, Berlin  | PC-Genie KG, Frankfurt     |
 |----------------------------------------------------------|-------------------------------------|-----------------------------|----------------------------|
 | **Bareinkaufspreis pro Stück**                           | 1.000 EUR                           | 1.100 EUR                   | 1.300 EUR                  |
 | **Lieferbedingungen/-kosten pro Stück**                  | Ab Werk: 15 EUR                     | Frachtfrei: 10 EUR          | Frei Haus                  |
