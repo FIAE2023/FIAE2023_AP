@@ -100,8 +100,26 @@ Der Gesamtpuffer von Vorgang H beträgt 9 Stunden. Bei einer Verzögerung von 4 
 
 ## Selbsterstellte Aufgabe
 
-- Hier kommt die selbsterstellte Aufgabe als Bild oder Text rein
+![AP1h 2021 Aufgabe 1e](</img/AP1/2021/ap1h_2021/AP1h_2021_a1_exercise.jpg>)
+![AP1h 2021 Aufgabe 1e](</img/AP1/2021/ap1h_2021/AP1h_2021_a1_exercise_extra.jpg>)
 
 ## Lösung der Selbsterstellten Aufgabe
 
-- Hier kommt die Lösung zur selbsterstellten Aufgabe als Bild oder Text rein
+## Übungsaufgabe Rücker Aufgabe 1a)
+ * Planung von Projekten
+ * Einschätzen von Risiken
+ * Auf die Einhaltung von Fristen zu achten
+ * Kommunikation mit Führungsebene und Kunden
+
+## Übungsaufgabe Rücker Aufgabe 1b)
+
+![AP1h 2021 Aufgabe 1e](</img/AP1/2021/ap1h_2021/AP1h_2021_a1_exercise_solution.jpg>)
+
+## Übungsaufgabe Rücker Aufgabe 1c)
+
+![AP1h 2021 Aufgabe 1e](</img/AP1/2021/ap1h_2021/AP1h_2021_a1d_exercise_solution.jpg>)
+
+## Übungsaufgabe Rücker Aufgabe 1d)
+
+Der Vorgang E hat einen Gesamtpuffer von 2 Stunden. Bei einer verzögerung von 5 Stunden wird sich der Vorgang H um 3 Stunden verzögern.
+Dadurch, dass Vorgang H auf dem kritischen Pfad liegt und einen Gesamtpuffer von 0 hat, verzögert sich das Projektende um 3 Stunden.
