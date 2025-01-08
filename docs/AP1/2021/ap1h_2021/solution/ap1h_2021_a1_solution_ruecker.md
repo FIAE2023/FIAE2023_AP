@@ -113,11 +113,11 @@ Der Gesamtpuffer von Vorgang H beträgt 9 Stunden. Bei einer Verzögerung von 4 
 
 ## Übungsaufgabe Rücker Aufgabe 1b)
 
-![AP1h 2021 Aufgabe 1e](</img/AP1/2021/ap1h_2021/AP1h_2021_a1_exercise_solution.jpg>)
+![AP1h 2021 Aufgabe 1e](</img/AP1/2021/ap1h_2021/solution/AP1h_2021_a1_exercise_solution.jpg>)
 
 ## Übungsaufgabe Rücker Aufgabe 1c)
 
-![AP1h 2021 Aufgabe 1e](</img/AP1/2021/ap1h_2021/AP1h_2021_a1d_exercise_solution.jpg>)
+![AP1h 2021 Aufgabe 1e](</img/AP1/2021/ap1h_2021/solution/AP1h_2021_a1d_exercise_solution.jpg>)
 
 ## Übungsaufgabe Rücker Aufgabe 1d)
 
