@@ -5,7 +5,7 @@ description: Lösung zur AP1 im Herbst 2022 Aufgabe 4
 ---
 
 # AP1 Fruehjahr 2022 Aufgabe 2 Lösung
-#### Von [Vrbanic](<../../../user/Auszubildende Michel/vrbanic.md>)
+#### Von [Vrbanic](<../../../../user/Auszubildende Michel/vrbanic.md>)
 
 ----
 
