@@ -64,7 +64,7 @@ programmieren. Aus einer Datenbank werden alle zu konfigurierenden PCs ausgelese
 wird für jeden PC aus der Datenbank die zu installierende Software abgefragt und auf dem PC
 installiert.
 
-Es gibt folgende Variablen:<br>
+Es gibt folgende Variablen:
 
 PCNr Ganzzahl - Laufvariable
 PCNr Ganzzahl - Laufvariable
@@ -81,7 +81,7 @@ getPC() - liefert eine Liste von PC-Namen aus der Datenbank
 getSoftware(String) liefert zu dem angefragten PC eine Liste der zu installierenden
 Software
 
-installSoftware(String, String) - liefert dem angefragten PC eine Liste der zu installieren Software<br>
+installSoftware(String, String) - liefert dem angefragten PC eine Liste der zu installieren Software
 
 Tragen Sie die Anweisungen folgerichtig in das nebenstehende Struktogramm ein.
 
@@ -97,12 +97,12 @@ Tragen Sie die Anweisungen folgerichtig in das nebenstehende Struktogramm ein.
 
 ![Aufgabe 4d)](../../../../../static/img/AP1_2022_Frühjahr_Aufgabe_4_d\).png)
 
-e. Die Datenbank soll in der Cloud gesichert werden.<br>
+e. Die Datenbank soll in der Cloud gesichert werden.
 
 Berechnen Sie die Zeit in Minuten, die für die Übertragung der 100 MiByte großen Datei bei einer
-VDSL-Leitung mit 100 Mbit/s Download und 40 Mbit/s Upload benötigt wird.<br>
+VDSL-Leitung mit 100 Mbit/s Download und 40 Mbit/s Upload benötigt wird.
 
-Das Ergebnis ist auf volle Sekunden aufzurunden.<br>
+Das Ergebnis ist auf volle Sekunden aufzurunden.
 
 Der Rechenweg ist anzugeben.
 
