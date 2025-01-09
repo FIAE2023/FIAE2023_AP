@@ -10,7 +10,6 @@ many software licenses. The data collection during the inventory is done remotel
 proven network management tools such as SNMP. It is therefore not necessary for the responsible personnel to
 obtain physical access to the individual devices, as it is the case with an inventory. The data stock can be
 continuously updated by the automatic collection and not only once a year.*
-<br><br>
 
 a. Nennen Sie vier Leistungsmerkmale einer Workspace-Management-Software anhand des oben
 zitierten Texts.
@@ -23,7 +22,6 @@ Pakete, welche keine Benutzereingabe benötigen.
 und Updates.
 4. Die integrated-license kombiniert die Daten von verfügbaren und aktuell benutzten
 Lizenzen und kann daher nicht nur die Beschaffung von zu wenig oder zu vielen Lizenzen liefern.
-<br><br>
 
 b. Die Workspace-Management-Software wird cloudbasiert oder on-premises angeboten.
 Nennen Sie zwei Vor- und Nachteile einer cloudbasierten Software gegenüber der on-premises.
@@ -36,19 +34,17 @@ Vorteile:
 Nachteile:
 - Nur möglich, wenn eine stabile Internetverbindung besteht
 - Gehostete Daten können den Gesetzen der Länder unterliegen, in denen der Anbieter liegt
-<br><br>
 
 c. Für die Workspace-Management-Software können die Lizenzen von einem externen Anbieter für
 25,00 EUR je Lizenz und Jahr bezogen werden.
-<br>
+
 Für die Eigenentwicklung wird ein Personalaufwand von 12.000 Stunden veranschlagt. Die
 jährliche Wartung wird mit 140 Stunden pro Jahr über einen Zeitraum von zehn Jahren
 veranschlagt. Eine Mitarbeiterstunde wird mit dem internen Kostensatz von 75 EUR berechnet.
-<br>
+
 Ab welcher Lizenzanzahl ist die Eigenentwicklung über einen Zeitraum von zehn Jahren günstiger
 als der Fremdbezug? (Lohnsteigerungen und Erhöhung der Lizenzpreise sollen nicht berücksichtigt
 werden.)
-<br>
 
 Externer Anbieter:
 \- 25,00 EUR pro Lizenz * 10 Jahre = 250,00 EUR
@@ -57,42 +53,38 @@ Eigenentwicklung:
 \- Personalaufwand = 12.000 Stunden
 \- Wartung = 140 Stunden * 10 Jahre = 1.400 Stunden
 \- 1 Mitarbeiterstunde = 75,00 EUR
-<br>
 
 Lizenzanzahl = (12.000 Stunden + 1.400 Stunden) * 75,00 EUR = 1.050.000 EUR / 250,00 EUR = <u>4200 Lizenzen</u>
-<br>
 
 Ab einer von 4.021 Lizenzen ist die Eigenentwicklung günstiger als die vom externen Anbieter.
-<br>
 
 ![Aufgabe 4c)](../../../../../static/img/AP1_2022_Frühjahr_Aufgabe_4_c\).png) 
 
 d. Sie planen, eine eigene Lösung für eine automatisierte Konfiguration der Standardarbeitspätze zu
 programmieren. Aus einer Datenbank werden alle zu konfigurierenden PCs ausgelesen. Danach
 wird für jeden PC aus der Datenbank die zu installierende Software abgefragt und auf dem PC
-installiert.<br>
+installiert.
 
 Es gibt folgende Variablen:<br>
 
-PCNr &ensp; Ganzzahl - Laufvariable
-PCNr &ensp; Ganzzahl - Laufvariable
-SoftwareNr &ensp; Ganzzahl - Laufvariable<br>
+PCNr Ganzzahl - Laufvariable
+PCNr Ganzzahl - Laufvariable
+SoftwareNr Ganzzahl - Laufvariable
 
-Es gibt die folgenden Felder (Array)<br>
+Es gibt die folgenden Felder (Array)
 
-PCListe[] &ensp; Stringliste mit den Namen der PC
-SoftwareListe[] &ensp; Stringliste mit den Namen der Software<br>
+PCListe[] Stringliste mit den Namen der PC
+SoftwareListe[] Stringliste mit den Namen der Software
 
-Es stehen Ihnen die folgenden Funktionen zur Verfügung:<br>
+Es stehen Ihnen die folgenden Funktionen zur Verfügung:
 
-getPC() &ensp; - liefert eine Liste von PC-Namen aus der Datenbank
-getSoftware(String) &ensp; liefert zu dem angefragten PC eine Liste der zu installierenden
-Software <br>
+getPC() - liefert eine Liste von PC-Namen aus der Datenbank
+getSoftware(String) liefert zu dem angefragten PC eine Liste der zu installierenden
+Software
 
 installSoftware(String, String) - liefert dem angefragten PC eine Liste der zu installieren Software<br>
 
 Tragen Sie die Anweisungen folgerichtig in das nebenstehende Struktogramm ein.
-<br>
 
 1. installSoftware(SoftwareListe[SoftwareNr], PCListe[PCNr])
 2. Solange SoftwareNr < Anzahl der Elemente in SoftwareListe[]
@@ -107,8 +99,6 @@ Tragen Sie die Anweisungen folgerichtig in das nebenstehende Struktogramm ein.
 
 ![Aufgabe 4d)](../../../../../static/img/AP1_2022_Frühjahr_Aufgabe_4_d\).png)
 
-<br>
-
 e. Die Datenbank soll in der Cloud gesichert werden.<br>
 
 Berechnen Sie die Zeit in Minuten, die für die Übertragung der 100 MiByte großen Datei bei einer
@@ -117,12 +107,10 @@ VDSL-Leitung mit 100 Mbit/s Download und 40 Mbit/s Upload benötigt wird.<br>
 Das Ergebnis ist auf volle Sekunden aufzurunden.<br>
 
 Der Rechenweg ist anzugeben.
-<br>
 
 Download: 100 MiByte * 2<sup>20</sup> = 104.857.600 Byte * 8 = 838.860.800 Bit / 10<sup>6</sup> = 838,8608 Mbit
 838 Mbit / 100 Bit/s = 8,38 Sekunden
 ~ 8,38 Sekunden = 9 Sekunden
-<br>
 
 Es benötigt bei einer Downloadgeschwindigkeit von 100 Mbit/s und einer Uploadgeschwindigkeit
 von 40 Mbit/s 9 ganze Sekunden.
