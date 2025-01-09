@@ -1,0 +1,152 @@
+---
+id: ap1h_2023_a2_solution
+title: AP1 Frühjahr 2023 Aufgabe 2 - Lösung Vardakis
+description: My document description
+---
+
+## AP1 Frühjahr 2023 Aufgabe 2 Lösung 
+
+## Bearbeitet von [Mathaios Vardakis](<../../../user/Auszubildende Michel/vardakis.md>)
+
+### Themen:
+
+- Example 1
+
+---
+
+## Aufgabe:
+
+![AP1 Frühjahr 2023 Aufgabe 1a](img/AP1/2023/ap1f_2023/AP1f_2023_a2.png)
+
+---
+
+## aa) Ermitteln Sie den Bezugspreis der einzelnen Anbieter pro Notebook durch Ergänzung der leeren Felder in der folgenden Tabelle.
+
+![AP1 Frühjahr 2023 Aufgabe 1a](img/AP1/2023/ap1f_2023/solution/AP1f_2023_a2_aa_solution.png)
+
+### ab) Es wurde ein Lieferant mit einem höheren Bezugspreis gewählt.
+Nennen Sie drei mögliche Gründe.
+```txt
+•	Besserer Service
+•	Höhere Zuverlässigkeit
+•	Bessere Kundenbewertung
+```
+
+# Quelle: Lernfeld 2: Angebotsvergleich 
+
+## b) Sie erhalten ein weiteres Angebot. Die Best-IT-Service GmbH biete die 3.500 Notebooks zu einem Gesamtpreis von 300.000 EUR an, alternativ einen Leasingvertrag über fünf Jahre mit einer monatlichen Leasingrate von 6.000 EUR mit Kaufoption.
+---
+
+## ba) Beschreiben Sie das Grundprinzip von Leasing und erklären Sie dabei die Eigentums- und Besitzverhältnisse.
+
+```txt
+Beim Leasing zahlt man jeden Monat eine bestimmte Summe für die Nutzung eines Produktes. Man ist also nicht der Eigentümer, sondern nur der Nutzer. Das Ganze wird vertraglich vereinbart und nach dem Ablauf der Leasingzeit bekommt man üblicherweise die Option das Produkt für ein festgelegten Preis zu kaufen.
+```
+---
+
+## bb) Vergleichen Sie den Kaufpreis mit den Gesamtkosten des Leasings.
+Ermitteln Sie den Differenzbetrag
+
+```txt
+Kaufpreis = 300.000 €
+Gesamtkosten des Leasings = 12 Monate Pro Jahr mal 5 Jahre => 60 Monate mal 6.000 € pro Monat = 360.000 €
+Differenzbetrag = Gesamtkosten des Leasings – Kaufpreis => 360.000 € - 300.000 € = 60.000 €
+
+```
+---
+
+## bc) Nennen Sie drei Vorteile, die für einen Leasingvertrag sprechen.
+
+```txt
+•	Es entstehen keine Wartungskosten
+•	Es gibt steuerliche Vorteile
+•	Man bleibt immer auf den aktuellsten technischen Stand
+
+```
+---
+
+## bd) Erläutern Sie den Begriff Kaufoption.
+
+```txt
+Am Ende des Leasingvertrages hat der Leasingnehmer die Option die Leasing-Ware zu einem, im Vertrag festgelegten Preis zu kaufen.
+```
+---
+
+### dc) Vier Aspekte zur Preisbestimmung:
+1. **Berechnung der Kosten** (Calculate your costs).  
+2. **Kenntnis über die Kunden** (Know your customers).  
+3. **Marktanalyse** (Look at the market).  
+4. **Wahl eines Preismodells** (Choose a pricing model).  
+
+---
+
+## e) Beurteilung nach dem 4-Ohren-Modell
+
+1. **Sachaspekt:**  
+   Der Kunde kritisiert, dass der Preis des Service nicht angemessen erscheint.  
+
+2. **Selbstaussage:**  
+   Der Kunde ist unzufrieden mit der erbrachten Leistung im Verhältnis zu den Kosten.  
+
+3. **Beziehungsaspekt:**  
+   Der Kunde fühlt sich möglicherweise nicht ausreichend wertgeschätzt oder ernst genommen.  
+
+4. **Appell:**  
+   "Verbessern Sie die Servicequalität oder passen Sie die Preise an!"  
+
+Wichtig ist, sachlich und kundenorientiert auf die Kritik einzugehen, z. B. durch das Angebot einer detaillierten Erklärung der Preisstruktur oder eines verbesserten Service.  
+
+---
+
+# Test Lösungen:
+
+### a)
+
+**aa)** Zwei Kritikpunkte an diesem Ablauf:  
+- **Lange Bearbeitungszeiten** aufgrund der wöchentlichen Lieferplanung. Bestellungen, die während der Woche eingehen, müssen bis zum Freitag warten, was die Reaktionszeit verlängert.
+- **Manuelle Verwaltung** in Tabellenkalkulationen erhöht das Fehlerpotenzial und ist ineffizient, da jede Bestellung manuell erfasst werden muss, was zeitaufwendig ist und zu Fehlern führen kann.
+
+**ab)** Zwei geeignete Maßnahmen zur Verbesserung:  
+- **Einführung eines automatisierten Bestellsystems**, das Bestellungen direkt ins System überträgt und automatisch priorisiert. Dies beschleunigt die Verarbeitung und minimiert Fehler.  
+- **Erweiterung der Arbeitszeiten des Versandteams** oder **Einführung eines 24/7-Lieferservices**, um flexibler auf Bestellungen reagieren zu können und die Lieferung zu optimieren.
+
+---
+
+### b)  
+Drei Methoden zur Bedarfsanalyse:  
+- **Kundenbefragungen** (z. B. durch Umfragen), um direktes Feedback von den Kunden zu erhalten und ihre Bedürfnisse zu verstehen.  
+- **Analyse von Kundenbeschwerden und Feedback**, um wiederkehrende Probleme zu identifizieren und Lösungen zu entwickeln.  
+- **Benchmarking mit Wettbewerbern**, um zu sehen, wie andere Unternehmen in der Branche ihre Kundenbedürfnisse adressieren und welche Best Practices angewendet werden.
+
+---
+
+### c)
+
+**ca)** Eine Gefahr bei zu hohen Preisen für das Online-Portal:  
+- **Kunden könnten die Preise ablehnen** und das Portal nicht nutzen, was zu geringen Verkaufszahlen führt und den Erfolg des Projekts gefährdet.
+
+**cb)** Eine Gefahr bei zu niedrigen Preisen für das Online-Portal:  
+- **Die Kosten werden nicht gedeckt**, was dazu führen kann, dass das Unternehmen finanziell nicht von der Lösung profitiert und langfristig Verluste entstehen.
+
+**cc)** Die vier im Text genannten Aspekte zur Service-Preis-Bestimmung:  
+- **Calculate your costs.**  
+- **Know your customers.**  
+- **Look at the market.**  
+- **Choose a pricing model.**
+
+---
+
+### d)  
+Beurteilung der Aussage nach dem 4-Ohren-Modell:
+
+- **Sachaspekt:**  
+  Der Kunde findet das Portal schwer zu bedienen und hält den Preis für unangemessen im Verhältnis zum Service.
+
+- **Selbstaussage:**  
+  Der Kunde ist unzufrieden mit der Benutzerfreundlichkeit des Portals und sieht keinen angemessenen Wert im Preis-Leistungs-Verhältnis.
+
+- **Beziehungsaspekt:**  
+  Der Kunde erwartet von Ihnen, dass Sie seine Bedenken verstehen und sich um eine Lösung bemühen.
+
+- **Appell:**  
+  Der Kunde fordert, dass das Portal benutzerfreundlicher gestaltet wird und möglicherweise der Preis überprüft wird, um den Nutzen zu rechtfertigen.  
