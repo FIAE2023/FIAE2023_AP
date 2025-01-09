@@ -2,7 +2,7 @@
 
 a. Geben Sie in jedem Feld ein zutreffendes Argument ein.
 
-## KI unterstützter Chatbot
+### KI unterstützter Chatbot
 
 #### wirtschaftliche Aspekte
 Vorteile:
@@ -63,7 +63,7 @@ Die Klasse Immobilie hat die Eigenschaften:
 
 und Methoden:
 \- restwertBerechnen()
-\-getLagebewertung()
+\- getLagebewertung()
 \- auszahlen()
 
 __Aufgabe:__ Erstellen Sie eine sinnvolle Klassenhierarchie mit einer gemeinsamen Oberklasse
@@ -82,7 +82,8 @@ Fahrzeuge nach SUV, Limousine, Geländewagen oder Cabriolet unterschieden. Das A
 sehen Sie in dem untenstehenden Entity-Relationship-Modell.
 
 ![Aufgabe 4d](../../../../../static/img/AP1_2023_Frühjahr_Aufgabe_4_d\)_relationale_Datenbank.png)
-<br>
+
+
 __PK__ bezeichnet ein Primärschlüsselattribut, Primärschlüsselattribute werden unterstrichen.
 __FK__ bezeichnet ein Fremdschlüsselattribut, Fremdschlüsselattribute werden durch ein
 nachgestelltes Hash-Zeichen (#) kenntlich gemacht.
@@ -92,5 +93,6 @@ Versicherungssumme über alle KFZ-Versicherungsverträge zu ermitteln.
 
 Erstellen Sie dazu eine geeignete SQL-Abfrage.
 
-SQL: <span style="color:blue">SELECT</span> AVG(Versicherung_Summe)<span style="color:blue">
-FROM KFZ_Versicherung;</span>
+SQL: SELECTAVG(Versicherung_Summe)
+
+FROM KFZ_Versicherung;
