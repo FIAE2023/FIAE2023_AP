@@ -29,7 +29,6 @@ Nennen Sie zwei Vor- und Nachteile einer cloudbasierten Software gegenüber der 
 Vorteile:
 - Überall zugänglich
 - Einfache Skalierung
-<br>
 
 Nachteile:
 - Nur möglich, wenn eine stabile Internetverbindung besteht
@@ -95,7 +94,6 @@ Tragen Sie die Anweisungen folgerichtig in das nebenstehende Struktogramm ein.
 7. SoftwareNr = 0
 8. SoftwareNr = SoftwareNr + 1
 9. Solange PCnr < Anzahl der Elemente in PCListe()
-<br>
 
 ![Aufgabe 4d)](../../../../../static/img/AP1_2022_Frühjahr_Aufgabe_4_d\).png)
 
