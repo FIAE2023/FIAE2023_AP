@@ -82,6 +82,7 @@ Fahrzeuge nach SUV, Limousine, Geländewagen oder Cabriolet unterschieden. Das A
 sehen Sie in dem untenstehenden Entity-Relationship-Modell.
 
 ![Aufgabe 4d](../../../../../static/img/AP1_2023_Frühjahr_Aufgabe_4_d\)_relationale_Datenbank.png)
+<br>
 __PK__ bezeichnet ein Primärschlüsselattribut, Primärschlüsselattribute werden unterstrichen.
 __FK__ bezeichnet ein Fremdschlüsselattribut, Fremdschlüsselattribute werden durch ein
 nachgestelltes Hash-Zeichen (#) kenntlich gemacht.
