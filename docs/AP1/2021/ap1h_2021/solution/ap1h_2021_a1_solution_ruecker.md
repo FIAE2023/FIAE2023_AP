@@ -101,6 +101,7 @@ Der Gesamtpuffer von Vorgang H beträgt 9 Stunden. Bei einer Verzögerung von 4 
 ## Selbsterstellte Aufgabe
 
 ![Übungsaufgabe 1](</img/AP1/2021/ap1h_2021/ap1h_2021_a1_exercise.jpg>)
+
 ![Übungsaufgabe 1 Zusatz](</img/AP1/2021/ap1h_2021/ap1h_2021_a1_exercise_extra.jpg>)
 
 ## Lösung der Selbsterstellten Aufgabe
