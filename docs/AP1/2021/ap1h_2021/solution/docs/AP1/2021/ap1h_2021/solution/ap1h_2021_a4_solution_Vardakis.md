@@ -26,14 +26,18 @@ Sie werden beauftragt, sich dieser Aufgabe anzunehmen.
 In einem ersten Schritt informieren Sie sich über allgemeine Grundlagen der Informationssicherheit. Als wichtige Schutzziele werden hier u. a. Vertraulichkeit, Integrität und Verfügbarkeit genannt. Sie klären nun, welches Schutzziel der jeweiligen Sicherheitsmaßnahme zugeordnet werden kann. Setzen Sie dazu pro Zeile ein Kreuz und geben Sie eine Begründung für Ihre Zuordnung an.
 ![Aufgabe 4a](</img/AP1/2021/ap1h_2021/H21A4a.png>)
 
+```txt
 Regelmäßige Datensicherung der Patientendaten => Integrität => Die Daten werden vor Verlust und Beschädigung durch die Sicherung geschützt.
-
+```
+```txt
 Verschlüsselung der Festplatten => Vertraulichkeit => Die Verschlüsselung von Festplatten dient dazu, die auf einer Festplatte gespeicherten Daten vor unbefugtem Zugriff zu schützen.
-
+```
+```txt
 Zentrale Bearbeitung wichtiger Dokumente auf dem Server => Verfügbarkeit => Dokumente sind von verschiedenen Standorten und Geräten aus zugänglich.
-
+```
+```txt
 Hashwertüberprüfung bei Softwareinstallation => Integrität => Die Hashwertüberprüfung stellt sicher, dass die Softwaredatei während des Downloads oder der Installation nicht verändert wurde.
-
+```
 
 ### Aufgabe 4b) - Thema Basis-Anforderungen zur Absicherung eines PC-Clients - 2 Punkte
 Im IT-Grundschutz-Kompendium des Bundesamtes für Sicherheit in der Informationstechnik (BSI) finden Sie Basis-Anforderungen zur Absicherung eines PC-Clients.
@@ -41,12 +45,13 @@ Im IT-Grundschutz-Kompendium des Bundesamtes für Sicherheit in der Informations
 Nennen Sie je eine Maßnahme, mit denen die folgenden Anforderungen umgesetzt werden könnten.
 ```txt
 - Aktivieren von Autoupdate-Mechanismen:
-```
 Implementierung eines zentralen Update-Management-Systems, das automatisch Software-Updates für alle relevanten Anwendungen und Betriebssysteme auf den Endgeräten im Netzwerk herunterlädt und installiert.
+```
 ```txt
 - Differenzieren von Benutzerrollen (Rollentrennung):
-```
 Erstellen von Benutzergruppen, in denen jeder Gruppe bestimmte Rechte zugewiesen werden. Zum Beispiel könnte es eine Gruppe für Administratoren geben, die volle Zugriffsrechte hat, und eine Gruppe für normale Benutzer, die nur eingeschränkten Zugriff auf bestimmte Funktionen hat. So wird sichergestellt, dass jeder Benutzer nur das sehen und tun kann, was für seine Rolle notwendig ist.
+
+```
 
 ### Aufgabe 4c) - Thema Schutzbedarfsanalyse - 6 Punkte
 Im Rahmen einer Schutzbedarfsanalyse versuchen Sie zu ermitteln, wie wichtig die verwendeten unternehmensrelevanten IT-Anwendungen für den Fortgang des Geschäftsprozesses sind, um das Maß an benötigtem Schutz zu definieren.
