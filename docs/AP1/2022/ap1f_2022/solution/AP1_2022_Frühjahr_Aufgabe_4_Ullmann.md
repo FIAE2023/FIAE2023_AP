@@ -95,7 +95,7 @@ Tragen Sie die Anweisungen folgerichtig in das nebenstehende Struktogramm ein.
 8. SoftwareNr = SoftwareNr + 1
 9. Solange PCnr < Anzahl der Elemente in PCListe()
 
-![Aufgabe 4d)](../../../../../static/img/AP1_2022_Frühjahr_Aufgabe_4_d\).png)
+![Aufgabe 4d)](/img/AP1_2022_Frühjahr_Aufgabe_4_d\).png)
 
 e. Die Datenbank soll in der Cloud gesichert werden.
 
