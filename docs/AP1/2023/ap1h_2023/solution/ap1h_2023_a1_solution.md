@@ -12,7 +12,7 @@ description: My document description
 
 ## a) Ergänzung des UML-Anwendungsfalldiagramms
 
-![AP1 Herbst 2023 Aufgabe 1a](img/AP1/2023/ap1h_2023/solution/AP1_2023_Herbst_Aufgabe1a_Solution.jpg)
+![AP1 Herbst 2023 Aufgabe 1a](/img/AP1/2023/ap1h_2023/solution/AP1_2023_Herbst_Aufgabe1a_Solution.jpg)
 
 ---
 
