@@ -57,7 +57,7 @@ Lizenzanzahl = (12.000 Stunden + 1.400 Stunden) * 75,00 EUR = 1.050.000 EUR / 25
 
 Ab einer von 4.021 Lizenzen ist die Eigenentwicklung günstiger als die vom externen Anbieter.
 
-![Aufgabe 4c)](../../../../../static/img/AP1_2022_Frühjahr_Aufgabe_4_c\).png) 
+![Aufgabe 4c)](/img/AP1_2022_Frühjahr_Aufgabe_4_c\).png) 
 
 d. Sie planen, eine eigene Lösung für eine automatisierte Konfiguration der Standardarbeitspätze zu
 programmieren. Aus einer Datenbank werden alle zu konfigurierenden PCs ausgelesen. Danach
