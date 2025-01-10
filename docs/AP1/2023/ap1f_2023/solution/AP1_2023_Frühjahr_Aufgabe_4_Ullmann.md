@@ -93,6 +93,6 @@ Versicherungssumme über alle KFZ-Versicherungsverträge zu ermitteln.
 
 Erstellen Sie dazu eine geeignete SQL-Abfrage.
 
-SQL: SELECTAVG(Versicherung_Summe)
+SQL: SELECT AVG(Versicherung_Summe)
 
 FROM KFZ_Versicherung;
