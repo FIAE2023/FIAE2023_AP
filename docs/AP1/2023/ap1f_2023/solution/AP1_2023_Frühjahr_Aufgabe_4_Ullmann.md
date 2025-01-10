@@ -72,7 +72,7 @@ __Aufgabe:__ Erstellen Sie eine sinnvolle Klassenhierarchie mit einer gemeinsame
 __Hinweis:__ Die Restwertberechnung erfolgt beim KFZ und bei der Immobilie unterschiedlich.
 Zusätzliche Methoden, Konstruktoren und Zugriffsmodifikatoren sind nicht erforderlich.
 
-![Aufgabe 4c](../../../../../static/img/AP1_2023_Frühjahr_Aufgabe_4_c\).png) 
+![Aufgabe 4c](/img/AP1_2023_Frühjahr_Aufgabe_4_c\).png) 
 
 d. Bei der Schadensregulierung im KFZ-Bereich werden die notwendigen Informationen in einer
 relationalen Datenbank gespeichert. Wichtig dabei ist die Zuordnung der Versicherungsnehmer
@@ -81,7 +81,7 @@ Fahrzeuge nach SUV, Limousine, Geländewagen oder Cabriolet unterschieden. Das A
 "Garage" wird mit dem Datentyp BOOLEAN abgespeichert. Ein Teilauszug aus dieser Datenbank
 sehen Sie in dem untenstehenden Entity-Relationship-Modell.
 
-![Aufgabe 4d](../../../../../static/img/AP1_2023_Frühjahr_Aufgabe_4_d\)_relationale_Datenbank.png)
+![Aufgabe 4d](/img/AP1_2023_Frühjahr_Aufgabe_4_d\)_relationale_Datenbank.png)
 
 
 __PK__ bezeichnet ein Primärschlüsselattribut, Primärschlüsselattribute werden unterstrichen.
