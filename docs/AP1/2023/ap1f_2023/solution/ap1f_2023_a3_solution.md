@@ -1,6 +1,6 @@
 ---
 sidebar-position: 2
-title: Lösungsseite
+title: AP1 Früjahr 2023 Aufgabe 3 Lösung Meyer
 description: Dies ist die Lösungseite für die Nr3
 ---
 
