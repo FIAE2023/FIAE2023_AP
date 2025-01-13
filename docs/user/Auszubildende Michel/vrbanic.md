@@ -12,4 +12,4 @@ description: Personal Page of Melissa Vrbanic
 * [AP1 2024 Frühjahr Aufgabe 2](../../AP1/2024/ap1f_2024/ap1f_2024_a2.md)
 
 ### Notizen
-Selbst Erstellte Aufgaben fehlen noch.
+Herbst Aufgabe 4 und Frühjahr Aufgabe 2 müssen noch übertragen werden

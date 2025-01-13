@@ -31,6 +31,26 @@ Während sich das Lastenheft darauf fokussiert was umgesetzt werden soll, fokuss
 
 ### Aufgabe 4 c:
 
+class Versicherungsobjekt{  
+    public $Neupreis;  
+    public $Baujahr;  
+    public $Schadenshöhe;  
+    public function auszahlen(){}  
+}  
+
+class KFZ extends Versicherungsobjekt{  
+    public $Hersteller;   
+    public $Typschlüssel;   
+    public $Laufleistung;   
+    public function restwerteBerechnen() : void {}  
+}
+
+class Immobilie extends Versicherungsobjekt{  
+    public $Wohnfläche;  
+    public $Lagebewertung;  
+    public function restwertBerechnen(){}  
+    public function getLagebewertung(){}  
+}
 ### Aufgabe 4 da:
 
 Select AVG(Versicherung_Summe) from KFZ_Versicherung 

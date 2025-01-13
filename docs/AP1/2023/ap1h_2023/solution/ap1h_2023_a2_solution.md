@@ -1,6 +1,6 @@
 ---
 id: ap1h_2023_a2_solution
-title: AP1 Herbst 2021 Aufgabe 2 - Lösung Kindler
+title: AP1 Herbst 2021 Aufgabe 2 - Lösung Tobias Kindler
 description: My document description
 ---
 
@@ -18,10 +18,8 @@ Nennen und begründen Sie zwei weitere Anschaffungen oder Maßnahmen.
 
 ### Lösung zur AP1 Aufgabe 2a)
 
-- Sichere VPN-Verbindung zum Unternehmensnetzwerk, wird benötigt um von zu Hause auf sensible 
-Geschäftsdaten zuzugreifen
-- Ergonomischer Schreibtisch und Office-Stuhl, wird benötigt um die Arbeitssicherheitsvorschriften zu 
-erfüllen (Ergonomie)
+- Sichere VPN-Verbindung zum Unternehmensnetzwerk, wird benötigt um von zu Hause auf sensible Geschäftsdaten zuzugreifen
+- Ergonomischer Schreibtisch und Office-Stuhl, wird benötigt um die Arbeitssicherheitsvorschriften zu erfüllen (Ergonomie)
 
 ### Aufgabe 2b)
 Ein Kollege unterbreitet den Vorschlag, Tablets zum Einsatz im Homeoffice anzuschaffen.
