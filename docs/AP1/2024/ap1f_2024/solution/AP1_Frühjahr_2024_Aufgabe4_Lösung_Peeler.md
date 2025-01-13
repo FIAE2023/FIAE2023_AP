@@ -16,6 +16,7 @@ description: Dies ist die Lösungseite für die Nr4
 ## Lösungen:
 
 ### Aufgabe 4 a:
+![Aufgabe 4 a Solution](../../../../../static/img/AP1/2024/ap1f_2024/AP1_2024_Frühjahr_Aufgabe_4a_Solution.png)
 
 ### Aaufgabe 4 b:
 VPN steht für Virtual Private Network und beschreibt die Möglichkeit, eine geschützte Netzwerkverbindung unter Nutzung öffentlicher Netzwerke aufzubauen. VPNs verschlüsseln Ihren Internetverkehr und verschleiern Ihre Online-Identität. Damit erschweren sie es Dritte, ihre Spuren im Internet zu verfolgen und Daten zu stehlen. Die Verschlüsselung findet dabei in Echtzeit statt. 
