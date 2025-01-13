@@ -1,6 +1,6 @@
 ---
 sidebar-position: 2
-title: Lösungsseite
+title: AP1 Frühjahr 2024 Aufgabe 4 Lösung Meyer
 description: Dies ist die Lösungseite für die Nr4
 ---
 
