@@ -1,13 +1,13 @@
 ---
 id: ap1f_2024_a1_solution_langhammer
 sidebar-position: 2
-title: AP1 Frühjahr 2024 Aufgabe 1 Lösung
-description: Lösung AP1 Frühjahr 2024 Aufgabe 3
+title: AP1 Frühjahr 2024 Aufgabe 1 Lösung Langhammer
+description: Lösung AP1 Frühjahr 2024 Aufgabe 1
 ---
 
-## AP 3 Frühjahr 2024 Aufgabe 1 Lösung [Herr Langhammer](../../../../user/Auszubildende%20Michel/langhammer.md)
+## AP 1 Frühjahr 2024 Aufgabe 1 Lösung [Herr Langhammer](../../../../user/Auszubildende%20Michel/langhammer.md)
 
-## AP1 Aufgabe 3
+## AP1 Aufgabe 1
 Im Unternehmen KustoFlex GmbH werden fünf CAD-Arbeitsplätze gerichtet.
 Sie sind in dem Projektteam, das geeignete Systeme auswählt.
 
