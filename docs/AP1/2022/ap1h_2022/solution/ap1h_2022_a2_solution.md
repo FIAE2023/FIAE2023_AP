@@ -124,8 +124,29 @@ Stellen Sie jeweils einen Vor- und Nachteil der Kennzeichnung mit QR-Code bzw. R
 
 ## Selbsterstellte Aufgabe
 
-- Hier kommt die selbsterstellte Aufgabe als Bild oder Text rein
+a)  
+Gegeben sind die folgenden Daten:
+Festplatte: 250 GiB
+Auflösung: 1920 x 1080
+Farbtiefe: 3 Byte
+Wie viele Bilder können auf der Festplatte gespeichert werden?
+Gib das Ergebnis in ganzen Bilder an.
+___
+b)
+- 2 Festplatten (je 3 TB Speicherkapazität)
+- 7 Festplatten (je 2 TB Speicherkapazität)
+Berechnen Sie die Nettospeicherkapazität bei RAID 6
 
 ## Lösung der Selbsterstellten Aufgabe
 
-- Hier kommt die Lösung zur selbsterstellten Aufgabe als Bild oder Text rein
+a)  
+3B * 8 = 24bit  
+1920 * 1080 = 2.073.600pixel  
+2.073.600pixel * 24bit = 49.766.400bit/Bild  
+2^30 = 1.073.741.824bit  
+1.073.741.824bit * 250 = 268.435.456.000bit   
+268.435.456.000 / 49.766.400bit/Bild = 5.393Bilder  
+___
+b)  
+
+(9 - 2) * 2TB = 14TB 
