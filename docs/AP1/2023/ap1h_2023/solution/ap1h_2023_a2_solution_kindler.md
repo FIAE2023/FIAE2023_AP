@@ -18,7 +18,7 @@ Nennen und begründen Sie zwei weitere Anschaffungen oder Maßnahmen.
 
 ### Lösung zur AP1 Aufgabe 2a)
 
-- - Sichere VPN-Verbindung zum Unternehmensnetzwerk, wird benötigt um von zu Hause auf sensible 
+- Sichere VPN-Verbindung zum Unternehmensnetzwerk, wird benötigt um von zu Hause auf sensible 
 Geschäftsdaten zuzugreifen
 - Ergonomischer Schreibtisch und Office-Stuhl, wird benötigt um die Arbeitssicherheitsvorschriften zu 
 erfüllen (Ergonomie)
