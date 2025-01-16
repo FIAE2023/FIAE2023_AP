@@ -59,9 +59,9 @@ Berechnen Sie, zu welchem einheitlichen Minutensatz kalkuliert werden muss, um d
 ![Aufgabe 2 e)](/img/AP1/2023/ap1h_2023/H23A2e.png)
 
 ### Lösung zur AP1 Aufgabe 2e)
-120 + 150 + 200 = 470  
-150 * 0,50 + 100 * 1 + 50 * 1,5 = 250  
-(470 + 250) / 300 = 2,40  
+(12€/h + 15€/h + 20€/h) * 10h/d = 470€/d  
+150min/d * 0,50€/min + 100min/d * 1€/min + 50min/d * 1,5€/min = 250€/d  
+(470€/d + 250€/d) / 300min/d = 2,40€/min  
 
 ### Aufgabe 2f)
 Die Kostenpflichtigkeit der Hotline muss dem Kunden kommuniziert werden.
