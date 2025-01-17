@@ -49,17 +49,17 @@ Eine grün blinkende LED zeigt einen Datenaustausch an. Je nach Gerät, kann die
 ---
 
 ### Aufgabe 2c)
-*Länge der IPv6 Adresse in Bits:
+* Länge der IPv6 Adresse in Bits:
 128
 
-*Ungekürzte Darstellung der IPv6-Adresse in Hexadezimalschreibweise:
+* Ungekürzte Darstellung der IPv6-Adresse in Hexadezimalschreibweise:
 fe80:0000:0000:0000:521a:c5ff:fef2:38b7
 
-*Präfixlänge:
+* Präfixlänge:
 fe80::
 Link-Local Adressen sind meist 64 Bits, automatisch konfiguriert und nur in einem lokalen Netzwerk erreichbar
 
-*Interface-Identifier:
+* Interface-Identifier:
 521a:c5ff:fef2:38b7
 Restbits sind 64
 
