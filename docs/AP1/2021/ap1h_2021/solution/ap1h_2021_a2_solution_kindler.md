@@ -103,8 +103,24 @@ Get-Volume return a Volume object that match the specified criteria.
 
 ## Selbsterstellte Aufgabe
 
-- Hier kommt die selbsterstellte Aufgabe als Bild oder Text rein
+a)   
+Gegeben sind die folgenden Werte:  
+- Stromkosten pro Jahr: 148,74€  
+- Arbeitsstunden pro Jahr: 1.190h  
+- Kosten pro kWh: 30cent  
+Wie viel Watt wird pro Arbeitsstunde verbraucht?  
+
+___
+b)   
+Der PC braucht duchschnittlich 300W im Betrieb, wie effizient ist das Netzteil?  
 
 ## Lösung der Selbsterstellten Aufgabe
 
-- Hier kommt die Lösung zur selbsterstellten Aufgabe als Bild oder Text rein
+a)  
+148,74€ * 100 = 14.874cent  
+14.874cent / 30cent/W = 495,8kW  
+495,8kW * 1.000 = 495.800W  
+495.800W / 1.190h = 416,64W  
+___
+b)  
+300W / 416,64W = 0,72 = 72%
