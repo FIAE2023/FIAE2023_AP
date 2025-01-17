@@ -52,6 +52,7 @@ class Immobilie extends Versicherungsobjekt{
     public function getLagebewertung(){}  
 }
 ```
+
 ### Aufgabe 4 da:
 
 Select AVG(Versicherung_Summe) from KFZ_Versicherung 

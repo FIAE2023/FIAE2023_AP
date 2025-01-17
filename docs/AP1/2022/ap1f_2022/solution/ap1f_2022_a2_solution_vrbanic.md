@@ -103,6 +103,34 @@ Ein GHz sind 1 Milliarden Hertz. Bedeutet 3,4 GHz entsprechen 3,4 Milliarden Her
 ----
 
 ## Test Aufgabe:
+### Aufgabe Xa)
+>Xa) Sie möchten ihr veraltetes Mainboard gegen ein neueres austauschen und bestellen sich somit ein hochwertiges aus dem Internet.
+
+### Aufgabe Xaa)
+>Xaa) Beschreiben sie, auf welche zwei Punkte bei dem Kauf eines neuen Mainboards geachtet werden soll.
+
+### Aufgabe Xab)
+>Xab) Nach dem öffnen des Pakets fällt ihnen auf das zu ihrem Mainboard ebenfalls ein Päckchen mit Abstandshaltern geliefert worden ist.
+>
+>Erläutern sie, welche Aufgabe die Abstandshalter haben.
+
+### Aufgabe Xb)
+>Xb) Sie haben sich dazu entschieden ihre Stromversorgung aufzustocken. Diese kommt versehen mit einem "80 Plus Gold" Sticker.
+
+### Aufgabe Xba)
+>Xba) Erläutern sie, welche Bedeutung dieser Sticker beinhaltet.
+
+### Aufgabe Xbb)
+>Xbb) In der Produktbeschreibung wurde groß ausgeschrieben das es sich hierbei um ein Modullares Netzteil handelt.
+>
+>Was ist der Unterschied zwischen einem Moddularen und einem nicht Moddularen Netzteil.
+
+### Aufgabe Xc)
+[Picture missing!]
+>Xc) Um welche Schnittstellen handelt es sich?
+
+### Aufgabe Xd)
+>Xd) Um welche Kerne handelt es sich bei einem Prozessor?
 
 ----
 
