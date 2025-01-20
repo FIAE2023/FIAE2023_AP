@@ -136,6 +136,16 @@ b)
 - 2 Festplatten (je 3 TB Speicherkapazität)
 - 7 Festplatten (je 2 TB Speicherkapazität)
 Berechnen Sie die Nettospeicherkapazität bei RAID 6
+___
+c)  
+Beschreiben sie den Unterschied zwischen JBOD und RAID 0.  
+___
+d)  
+Was sind drei Vorteile die NAS gegenüber SAN hat?  
+___
+e)  
+Welche Vorteile haben RFID-Chips beim Tracken von Produkten in der Logistik um höhren Aufwand und Kosten zu rechtfertigen.  
+Nennen Sie drei Vorteile die RFID-Chips gegenüber herkömmlichen Methoden (Barcode, QR-Code) haben.
 
 ## Lösung der Selbsterstellten Aufgabe
 
@@ -148,5 +158,18 @@ a)
 268.435.456.000 / 49.766.400bit/Bild = 5.393Bilder  
 ___
 b)  
-
 (9 - 2) * 2TB = 14TB 
+___
+c)  
+JBOD ist einfach der Zusammenschluss mehrerer Festplatten zu einer Einheit, dabei wird 100% der Speicherkapazität genutzt.  
+RAID 0 nutzt das Stripe-Prinzip um schnelleren lese und schreibzugriff zu ermöglichen, als Konsequenz werden alle Festplatten auf die Größe der kleinsten Festplatte beschränkt und beim Verlusst einer Festplatte gehen die Daten aller Fesplatten verloren.
+___
+d)  
+- ist günstiger
+- leicht zu bedienen und zu warten
+- lässt sich leicht in bestehende Netzwerke intgrieren  
+___
+e)  
+- mehrere Artikel können gleichzeitig gescannt werden
+- Echtzeit-Tracking
+- braucht keinen Sichtkontakt  
