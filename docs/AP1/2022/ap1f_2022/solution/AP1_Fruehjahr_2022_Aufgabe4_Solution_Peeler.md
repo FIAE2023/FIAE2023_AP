@@ -114,3 +114,35 @@ Kosten Eigenentwicklung gesamt = 144.000 + 1.260.000
 1.404.000 / 300,00 EUR = 4.680 
 
 Antwort = Ab einer Lizenzanzahl von 4.681 ist die Eigenentwicklung günstiger  
+
+#### Test Aufgabe zu 4 e):
+
+Gegeben:  
+Dateigröße = 200MiByte  
+Download = 100Mbit/s   
+Upload = 60 Mbit/s 
+
+Datenmende in MBit
+
+200MiByte = 200 * 1.048.576
+          = 209.715.200 Byte
+          = 209.715.200 * 8 
+          = 1.677.721.600 bit 
+          =1.677,7216 Mbit
+
+Download Zeit 
+t = Datenmenge(Mbit) / Geschwindigkeit(Mbit/s
+
+t = 1.677,7216 / 100
+t = 16,777216s 
+t = 17 s
+t = 0,283 min
+
+Upload Zeit 
+t = 1.677,7216 / 60 
+t = 27,96202666666667 s
+t = 28 s
+t = 0,467 min
+          
+
+
