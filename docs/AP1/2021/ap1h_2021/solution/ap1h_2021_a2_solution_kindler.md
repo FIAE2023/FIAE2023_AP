@@ -1,6 +1,6 @@
 ---
 id: ap1h_2021_a2_solution
-title: AP1 Herbst 2021 Aufgabe 2 - Lösung Kindler
+title: AP1 Herbst 2021 Aufgabe 2 - Lösung Tobias Kindler
 description: My document description
 ---
 
@@ -31,8 +31,8 @@ Efficiency = Useful power output/Total power input
 
 9h/d * 20d/m = 180h/m  
 60W / 0,76 = 78,94W  
-78,94W * 180h = 14.209W = 14,2kW 
-14,2kW * 30cent = 426cent = 4,26€    
+78,94W * 180h = 14.209Wh = 14,2kWh  
+14,2kW * 30cent = 426cent = 4,26€  
   
 139,53W * 180h = 25.115W = 25,1kW  
 25,1kW * 30cent = 753cent = 7,53€
