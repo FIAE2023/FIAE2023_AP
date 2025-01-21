@@ -5,7 +5,7 @@ description: Lösung zur AP1 im Frühjahr 2022 Aufgabe 2
 ---
 
 # AP1 Fruehjahr 2022 Aufgabe 2 Lösung
-#### Von [Vrbanic](<../../../user/Auszubildende Michel/vrbanic.md>)
+#### Von [Vrbanic](<../../../../user/Auszubildende Michel/vrbanic.md>)
 
 ----
 
@@ -94,47 +94,47 @@ Ein GHz sind 1 Milliarden Hertz. Bedeutet 3,4 GHz entsprechen 3,4 Milliarden Her
 
 ## Selbsterstellte Aufgabe:
 ### Aufgabe Xa)
->Xa) Sie möchten ihr veraltetes Mainboard gegen ein neueres austauschen und bestellen sich somit ein hochwertiges aus dem Internet.
+>**Xa)** Sie möchten ihr veraltetes Mainboard gegen ein neueres austauschen und bestellen sich somit ein hochwertiges aus dem Internet.
 
 ### Aufgabe Xaa)
->Xaa) Beschreiben sie, auf welche zwei Punkte bei dem Kauf eines neuen Mainboards geachtet werden soll.
+>**Xaa)** Beschreiben sie, auf welche zwei Punkte bei dem Kauf eines neuen Mainboards geachtet werden soll.
 
 ### Aufgabe Xab)
->Xab) Nach dem öffnen des Pakets fällt ihnen auf das zu ihrem Mainboard ebenfalls ein Päckchen mit Abstandshaltern geliefert worden ist.
+>Nach dem öffnen des Pakets fällt ihnen auf das zu ihrem Mainboard ebenfalls ein Päckchen mit Abstandshaltern geliefert worden ist.
 >
->Erläutern sie, welche Aufgabe die Abstandshalter haben.
+>**Xab)** Erläutern sie, welche Aufgabe die Abstandshalter haben.
 
 ### Aufgabe Xb)
->Xb) Sie haben sich dazu entschieden ihre Stromversorgung aufzustocken. Diese kommt versehen mit einem "80 Plus Gold" Sticker.
+>**Xb)** Sie haben sich dazu entschieden ihre Stromversorgung aufzustocken. Diese kommt versehen mit einem "80 Plus Gold" Sticker.
 
 ### Aufgabe Xba)
->Xba) Erläutern sie, welche Bedeutung dieser Sticker beinhaltet.
+>**Xba)** Erläutern sie, welche Bedeutung dieser Sticker beinhaltet.
 
 ### Aufgabe Xbb)
->Xbb) In der Produktbeschreibung wurde groß ausgeschrieben das es sich hierbei um ein Modullares Netzteil handelt.
+>In der Produktbeschreibung wurde groß ausgeschrieben das es sich hierbei um ein Modullares Netzteil handelt.
 >
->Was ist der Unterschied zwischen einem Moddularen und einem nicht Moddularen Netzteil.
+>**Xbb)** Was ist der Unterschied zwischen einem Moddularen und einem nicht Moddularen Netzteil.
 
 ### Aufgabe Xc)
->Xc) Zur Erweiterung der Speicherkapazität wurden die Begriffe HDD und SSD genutzt.
+>Zur Erweiterung der Speicherkapazität wurden die Begriffe HDD und SSD genutzt.
 >
->Für was stehen diese Abkürzungen und was ist ein Vorteil und Nachteil einer SSD?
+>**Xc)** Für was stehen diese Abkürzungen und was ist ein Vorteil und Nachteil einer SSD?
 
 ### Aufgabe Xd)
 ![Aufgabe 2gc](/img/AP1/2022/ap1f_2022/solution/AP1_2022_Fruehjahr_TaskXd.png)
->Xd) Um welche Schnittstellen handelt es sich?
+>**Xd)** Um welche Schnittstellen handelt es sich?
 
 ### Aufgabe Xe)
->Xe) Sie legen sich einen neuen Prozessor passend zu ihrem neuen Mainboard zu, jedoch wirft das Spezifikationenblatt Fragen auf.
+>**Xe)** Sie legen sich einen neuen Prozessor passend zu ihrem neuen Mainboard zu, jedoch wirft das Spezifikationenblatt Fragen auf.
 
 ### Aufgabe Xea)
->Xea) Um welche Kerne handelt es sich bei einem Prozessor?
+>**Xea)** Um welche Kerne handelt es sich bei einem Prozessor?
 
 ### Aufgabe Xeb)
->Xeb) Was ist Übertakten und welche Risiken birgt es?
+>**Xeb)** Was ist Übertakten und welche Risiken birgt es?
 
 ### Aufgabe Xec)
->Xec) Was sind die bekanntesten Arten von CPU-Kühlern und wie funktionieren sie?
+>**Xec)** Was sind die bekanntesten Arten von CPU-Kühlern und wie funktionieren sie?
 
 ----
 
