@@ -76,3 +76,40 @@ Nachteile:
 ## Lösung zur AP1 Aufgabe 1 f)
 
 Mit dem Projektberater sollte ein Dienstvertrag abgeschlossen werden, da es sich hier um eine Dienstleistung handelt. Es werden keine Produkte angefertigt oder verändert.
+
+## Selbsterstellte Aufgabe
+
+![AP1h 2022 Aufgabe Übung Rücker](</img/AP1/2022/ap1h_2022/AP1h_2022_a1_exercise-1.jpg>)
+
+![AP1h 2022 Aufgabe Übung Rücker](</img/AP1/2022/ap1h_2022/AP1h_2022_a1_exercise-2.jpg>)
+
+## Lösung der Selbsterstellten Aufgabe
+
+## Lösung zur AP1 Übungsaufgabe 1 aa)
+
+Zweiseitiges Polypol
+
+## Lösung zur AP1 Übungsaufgabe 1 ab)
+
+Nachfrageoligopol
+
+## Lösung zur AP1 Übungsaufgabe 1 b)
+
+* Kreuzfahrtschiffbranche, da diese die zukünftigen Kunden sind.
+* Die externe Firma, da diese die Software entwickeln.
+* Die Gesellschafter der GmbH, die vom Projekt überzeugt werden müssen. 
+
+## Lösung zur AP1 Übungsaufgabe 1 c)
+
+Berechnung der Arbeitsstunden im Jahr:
+
+260d-28d-4d-6d = 222 Tage
+
+222d × 7,5 h/d = 1.665 Arbeitsstunden
+
+effektiver Stundensatz = 130.000 € / 1.665 h = 180,18 €/h
+
+## Lösung zur AP1 Übungsaufgabe 1 d)
+
+Der Firma sollte ein Werkvertrag gestellt werden, da es sich um die Herrstellung eines Produkts handelt und nicht
+um eine Dienstleistung.
