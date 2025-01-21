@@ -16,7 +16,7 @@ description: My document description
 
 ## Aufgabe:
 
-![AP1 Frühjahr 2023 Aufgabe 1a](img/AP1/2023/ap1f_2023/AP1f_2023_a2.png)
+![AP1 Frühjahr 2023 Aufgabe 1a](img/AP1/2023/AP1_2023_Frühjahr-a2.jpg)
 
 ---
 
