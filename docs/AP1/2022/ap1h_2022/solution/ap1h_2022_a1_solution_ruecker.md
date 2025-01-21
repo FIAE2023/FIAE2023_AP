@@ -31,7 +31,7 @@ Bei großer Nachfrage und großem Angebote ist es ein bilaterales (zweiseitiges)
 
 ## Lösung zur AP1 Aufgabe 1 b)
 
-![AP1h 2022 Aufgabe 1 b Lösung](</img/AP1/2022/ap1h_2022/AP1h_2022_a1b_solution_ruecker.jpg>)
+![AP1h 2022 Aufgabe 1 b Lösung](</img/AP1/2022/ap1h_2022/solution/AP1h_2022_a1b_solution_ruecker.jpg>)
 
 ## AP1 Aufgabe 1 c)
 
