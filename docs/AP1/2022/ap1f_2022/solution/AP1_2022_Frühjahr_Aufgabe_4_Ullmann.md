@@ -9,7 +9,7 @@ available and actually used licenses and can thus not only prevent the procureme
 many software licenses. The data collection during the inventory is done remotely. It can also make use of
 proven network management tools such as SNMP. It is therefore not necessary for the responsible personnel to
 obtain physical access to the individual devices, as it is the case with an inventory. The data stock can be
-continuously updated by the automatic collection and not only once a year.
+continuously updated by the automatic collection and not only once a year.*
 
 
 a. Nennen Sie vier Leistungsmerkmale einer Workspace-Management-Software anhand des oben
@@ -62,7 +62,7 @@ Lizenzanzahl = (12.000 Stunden + 1.400 Stunden) * 75,00 EUR = 1.050.000 EUR / 25
 
 Ab einer von 4.021 Lizenzen ist die Eigenentwicklung günstiger als die vom externen Anbieter.
 
-![Aufgabe_4_c)](../../../../../static/img/AP1/2022/ap1f_2022/solution/AP1_2022_Frühjahr_Aufgabe_4_c\)_Break-Even-Point-Diagramm.png) 
+![Aufgabe_4_c)](../../../../../static/img/AP1/2022/ap1f_2022/AP1_2022_Frühjahr_Aufgabe_4_c\)_Break-Even-Point-Diagramm.png) 
 
 d. Sie planen, eine eigene Lösung für eine automatisierte Konfiguration der Standardarbeitspätze zu
 programmieren. Aus einer Datenbank werden alle zu konfigurierenden PCs ausgelesen. Danach
@@ -100,7 +100,7 @@ Tragen Sie die Anweisungen folgerichtig in das nebenstehende Struktogramm ein.
 8. SoftwareNr = SoftwareNr + 1
 9. Solange PCnr < Anzahl der Elemente in PCListe()
 
-![Aufgabe_4_d)](../../../../../static/img/AP1/2022/ap1f_2022/solution/AP1_2022_Frühjahr_Aufgabe_4_d\)_Struktogramm.png)
+![Aufgabe_4_d)](../../../../../static/img/AP1/2022/ap1f_2022/AP1_2022_Frühjahr_Aufgabe_4_d\)_Struktogramm.png)
 
 e. Die Datenbank soll in der Cloud gesichert werden.
 
