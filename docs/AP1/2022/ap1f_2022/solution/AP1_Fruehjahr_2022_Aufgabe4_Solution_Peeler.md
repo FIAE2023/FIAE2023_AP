@@ -89,6 +89,13 @@ t= 0,15 min
 
 ## Lösung Test Aufgaben:
 
+#### Test Aufgabe zu 4 a): 
+1. Zeitersparnis: Automatische Installation und Konfiguration von Programmen ohne manuelles Eingreifen
+2. Remote-Zugriff: Inventarisierung und Verwaltung der Geräte aus der Ferne, kein physischer Zugang erforderlich.
+3. Sicherheit: Automatische Installation von Patches und Updates schützt vor Sicherheitslücken
+4. Lizenzmanagement: Verhindert Über- oder Unterbeschaffung von Softwarelizenzen, spart Kosten und gewähleistet REchtskonformität.
+
+
 #### Test Aufgabe zu 4 c):
 Gegeben: 
 Fremdbezug = 30,00 EUR pro Jahr pro Lizenz  
