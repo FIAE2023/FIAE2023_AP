@@ -114,6 +114,11 @@ ___
 b)   
 Der PC braucht duchschnittlich 300W im Betrieb, wie effizient ist das Netzteil?  
 
+___
+c)  
+Der europäische Standard für Haushaltssteckdosen sind 230 Volt und 16 Ampere.  
+Wie viel Leistung kann man maximal aus einer Haushaltsstecksose ziehen.  
+
 ## Lösung der Selbsterstellten Aufgabe
 
 a)  
@@ -124,3 +129,8 @@ a)
 ___
 b)  
 300W / 416,64W = 0,72 = 72%
+___
+c)  
+P = I * U
+
+16A * 230V = 3.680W  

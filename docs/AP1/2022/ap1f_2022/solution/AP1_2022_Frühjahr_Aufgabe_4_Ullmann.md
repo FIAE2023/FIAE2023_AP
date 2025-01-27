@@ -11,6 +11,7 @@ proven network management tools such as SNMP. It is therefore not necessary for 
 obtain physical access to the individual devices, as it is the case with an inventory. The data stock can be
 continuously updated by the automatic collection and not only once a year.*
 
+
 a. Nennen Sie vier Leistungsmerkmale einer Workspace-Management-Software anhand des oben
 zitierten Texts.
 
@@ -23,6 +24,7 @@ und Updates.
 4. Die integrated-license kombiniert die Daten von verfügbaren und aktuell benutzten
 Lizenzen und kann daher nicht nur die Beschaffung von zu wenig oder zu vielen Lizenzen liefern.
 
+
 b. Die Workspace-Management-Software wird cloudbasiert oder on-premises angeboten.
 Nennen Sie zwei Vor- und Nachteile einer cloudbasierten Software gegenüber der on-premises.
 
@@ -30,9 +32,11 @@ Vorteile:
 - Überall zugänglich
 - Einfache Skalierung
 
+
 Nachteile:
 - Nur möglich, wenn eine stabile Internetverbindung besteht
 - Gehostete Daten können den Gesetzen der Länder unterliegen, in denen der Anbieter liegt
+
 
 c. Für die Workspace-Management-Software können die Lizenzen von einem externen Anbieter für
 25,00 EUR je Lizenz und Jahr bezogen werden.
@@ -45,6 +49,7 @@ Ab welcher Lizenzanzahl ist die Eigenentwicklung über einen Zeitraum von zehn J
 als der Fremdbezug? (Lohnsteigerungen und Erhöhung der Lizenzpreise sollen nicht berücksichtigt
 werden.)
 
+
 Externer Anbieter:
 \- 25,00 EUR pro Lizenz * 10 Jahre = 250,00 EUR
 
@@ -53,11 +58,11 @@ Eigenentwicklung:
 \- Wartung = 140 Stunden * 10 Jahre = 1.400 Stunden
 \- 1 Mitarbeiterstunde = 75,00 EUR
 
-Lizenzanzahl = (12.000 Stunden + 1.400 Stunden) * 75,00 EUR = 1.050.000 EUR / 250,00 EUR = <u>4200 Lizenzen</u>
+Lizenzanzahl = (12.000 Stunden + 1.400 Stunden) * 75,00 EUR = 1.050.000 EUR / 250,00 EUR = **4200 Lizenzen**
 
 Ab einer von 4.021 Lizenzen ist die Eigenentwicklung günstiger als die vom externen Anbieter.
 
-![Aufgabe 4c)](/img/AP1_2022_Frühjahr_Aufgabe_4_c\).png) 
+![Aufgabe_4_c)](../../../../../static/img/AP1/2022/ap1f_2022/AP1_2022_Frühjahr_Aufgabe_4_c\)_Break-Even-Point-Diagramm.png) 
 
 d. Sie planen, eine eigene Lösung für eine automatisierte Konfiguration der Standardarbeitspätze zu
 programmieren. Aus einer Datenbank werden alle zu konfigurierenden PCs ausgelesen. Danach
@@ -95,7 +100,7 @@ Tragen Sie die Anweisungen folgerichtig in das nebenstehende Struktogramm ein.
 8. SoftwareNr = SoftwareNr + 1
 9. Solange PCnr < Anzahl der Elemente in PCListe()
 
-![Aufgabe 4d)](/img/AP1_2022_Frühjahr_Aufgabe_4_d\).png)
+![Aufgabe_4_d)](../../../../../static/img/AP1/2022/ap1f_2022/AP1_2022_Frühjahr_Aufgabe_4_d\)_Struktogramm.png)
 
 e. Die Datenbank soll in der Cloud gesichert werden.
 
@@ -106,7 +111,7 @@ Das Ergebnis ist auf volle Sekunden aufzurunden.
 
 Der Rechenweg ist anzugeben.
 
-Download: 100 MiByte * 2<sup>20</sup> = 104.857.600 Byte * 8 = 838.860.800 Bit / 10<sup>6</sup> = 838,8608 Mbit
+Download: 100 MiByte * 2 ^ 20 = 104.857.600 Byte * 8 = 838.860.800 Bit / 10 ^ 6 = 838,8608 Mbit
 838 Mbit / 100 Bit/s = 8,38 Sekunden
 ~ 8,38 Sekunden = 9 Sekunden
 

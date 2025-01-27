@@ -51,9 +51,7 @@ description: Lösung zur AP1 im Frühjahr 2022 Aufgabe 2
 ### Aufgabe 2ab)
 * Die Orientierung des Prozessors muss beachtet werden. (Pfeil zu Pfeil)
 * Der Prozessor muss mit Vorsicht, nicht mit Druck eingesetzt werden.
-Nicht Befolgung kann zu Schäden führen.
-
----
+*Nicht Befolgung kann zu Schäden führen.*
 
 ### Aufgabe 2b)
 * Wärmeleitpaste wird genutzt um die Übergabe von Hitze zwischen zwei Oberflächen zu fördern. 
@@ -64,23 +62,17 @@ Nicht Befolgung kann zu Schäden führen.
 * Dual Channel Paare müssen die selbe Speichergröße besitzen.
 * Haben sie unterschiedliche Geschwindigkeiten, wird auf das langsamere angepasst.
 
----
-
 ### Aufgabe 2d)
-Vorteil:
+**Vorteil**
 Erheblich größere Verarbeitungsgeschwindigkeiten und kleiner Formfaktor
 
-Nachteil:
+**Nachteil**
 Hohe Anschaffungskosten und nicht jedes Mainboard unterstütz M.2
 
----
-
 ### Aufgabe 2e)
-A - DisplayPort / DP
-B - High Definition Multimedia Interface / HDMI
-C - Digital Visual Interface / DVI
-
----
+* **A.** DisplayPort / DP
+* **B.** High Definition Multimedia Interface / HDMI
+* **C.** Digital Visual Interface / DVI
 
 ### Aufgabe 2fa)
 In diesen Slot kann ein USB mit Bios Daten eingeführt werden, welcher per drücken des "BIOS FLBK" Knopfes diese Daten dem Computer aufspielt selbst wenn dieser nicht mehr startfähig ist.
@@ -88,8 +80,6 @@ In diesen Slot kann ein USB mit Bios Daten eingeführt werden, welcher per drüc
 ### Aufgabe 2fb)
 * Vereint viele verschiedene Steckertypen und Protokolle in einem und ist somit Universal nutzbar
 * Höhere Leistungskapazität (100W gegenüber 5W)
-
----
 
 ### Aufgabe 2ga)
 Summe der physischen und durch Hyper-Threading erzeugten virtuellen Kerne, die durch mehr parallele Arbeit die Leistung potenziell steigern.
@@ -100,38 +90,124 @@ Der Cache speichert häuft benötigte Daten in der Nähe des Prozessors um Zugri
 ### Aufgabe 2gc)
 Ein GHz sind 1 Milliarden Hertz. Bedeutet 3,4 GHz entsprechen 3,4 Milliarden Hertz.
 
-----
+---
 
-## Test Aufgabe:
+## Selbsterstellte Aufgabe:
 ### Aufgabe Xa)
->Xa) Sie möchten ihr veraltetes Mainboard gegen ein neueres austauschen und bestellen sich somit ein hochwertiges aus dem Internet.
+>**Xa)** Sie möchten ihr veraltetes Mainboard gegen ein neueres austauschen und bestellen sich somit ein hochwertiges aus dem Internet.
 
 ### Aufgabe Xaa)
->Xaa) Beschreiben sie, auf welche zwei Punkte bei dem Kauf eines neuen Mainboards geachtet werden soll.
+>**Xaa)** Beschreiben sie, auf welche zwei Punkte bei dem Kauf eines neuen Mainboards geachtet werden soll.
 
 ### Aufgabe Xab)
->Xab) Nach dem öffnen des Pakets fällt ihnen auf das zu ihrem Mainboard ebenfalls ein Päckchen mit Abstandshaltern geliefert worden ist.
+>Nach dem öffnen des Pakets fällt ihnen auf das zu ihrem Mainboard ebenfalls ein Päckchen mit Abstandshaltern geliefert worden ist.
 >
->Erläutern sie, welche Aufgabe die Abstandshalter haben.
+>**Xab)** Erläutern sie, welche Aufgabe die Abstandshalter haben.
 
 ### Aufgabe Xb)
->Xb) Sie haben sich dazu entschieden ihre Stromversorgung aufzustocken. Diese kommt versehen mit einem "80 Plus Gold" Sticker.
+>**Xb)** Sie haben sich dazu entschieden ihre Stromversorgung aufzustocken. Diese kommt versehen mit einem "80 Plus Gold" Sticker.
 
 ### Aufgabe Xba)
->Xba) Erläutern sie, welche Bedeutung dieser Sticker beinhaltet.
+>**Xba)** Erläutern sie, welche Bedeutung dieser Sticker beinhaltet.
 
 ### Aufgabe Xbb)
->Xbb) In der Produktbeschreibung wurde groß ausgeschrieben das es sich hierbei um ein Modullares Netzteil handelt.
+>In der Produktbeschreibung wurde groß ausgeschrieben das es sich hierbei um ein Modullares Netzteil handelt.
 >
->Was ist der Unterschied zwischen einem Moddularen und einem nicht Moddularen Netzteil.
+>**Xbb)** Was ist der Unterschied zwischen einem Moddularen und einem nicht Moddularen Netzteil.
 
 ### Aufgabe Xc)
-[Picture missing!]
->Xc) Um welche Schnittstellen handelt es sich?
+>Zur Erweiterung der Speicherkapazität wurden die Begriffe HDD und SSD genutzt.
+>
+>**Xc)** Für was stehen diese Abkürzungen und was ist ein Vorteil und Nachteil einer SSD?
 
 ### Aufgabe Xd)
->Xd) Um welche Kerne handelt es sich bei einem Prozessor?
+![Aufgabe 2gc](/img/AP1/2022/ap1f_2022/solution/AP1_2022_Fruehjahr_TaskXd.png)
+>**Xd)** Um welche Schnittstellen handelt es sich?
+
+### Aufgabe Xe)
+>**Xe)** Sie legen sich einen neuen Prozessor passend zu ihrem neuen Mainboard zu, jedoch wirft das Spezifikationenblatt Fragen auf.
+
+### Aufgabe Xea)
+>**Xea)** Um welche Kerne handelt es sich bei einem Prozessor?
+
+### Aufgabe Xeb)
+>**Xeb)** Was ist Übertakten und welche Risiken birgt es?
+
+### Aufgabe Xec)
+>**Xec)** Was sind die bekanntesten Arten von CPU-Kühlern und wie funktionieren sie?
 
 ----
 
 ## Lösung zur Selbsterstellten Aufgabe:
+### Aufgabe Xaa)
+* **Formfaktor**
+Die Form des Mainboards sollte an das Gehäuse und Komponenten angepasst sein.
+
+* **Kompatibilität**
+Das neue Mainboard sollte zu alle anderen Komponenten passen.
+
+* **Ausstattung**
+Es sollte über genügend Anschlüsse für alle benötigten Geräten vorhanden sein.
+
+* **Erweiterbarkeit**
+Für zukünftige Upgrade sollten freie Steckplätze vorhanden sein.
+
+* **Features**
+Es sollte über die gewünschten Features verfügen. (z.b. WLAN)
+
+### Aufgabe Xab)
+Abstandshalter sorgen für den richtigen Abstand zwischen Mainboard und Gehäuse um Kurzschlüsse zu vermeiden und optimale Kühlung zu gewährleisten.
+
+### Aufgabe Xba)
+Der 80-Plus Sticker besagt das ein Netzteil mindestens 90% der aufgenommenen Energie in nutzbare Energie umwandelt.
+
+### Aufgabe Xbb)
+Bei einem modularen Netzteil können Kabel nach Bedarf angeschlossen werden. Nicht modulare Netzteile haben fest verbaute Kabel.
+
+### Aufgabe Xc)
+* **HDD** steht für **Hard Drive Disk**
+* **SSD** steht für **Solid State Drive**
+
+#### Vorteile
+* **Geschwindigkeit**
+SSDs sind deutlich schneller als HDDs beim Lesen und Schreiben von Daten.
+
+* **Langlebigkeit**
+SSDs besitzen keine beweglichen Teile und sind daher weniger anfällig auf Schäden.
+
+* **Lautstärke**
+SSDs sind lautlos im Betrieb das sie keine rotierenden Teile besitzen.
+
+* **Energieeffizienz**
+SSDs verbrauchen weniger Strom als HDDs.
+
+* **Robustheit**
+SSDs sind robuster gegenüber Magnetfeldern, was sie im mobilen Einsatz nützlich macht.
+
+#### Nachteile
+* **Preis**
+SSDs sind in der Regel teurer pro Gigabyte als HDDs.
+
+* **Wiederherstellung**
+Durch das Elektronische Speichersystem sind Daten bei Fehler meist nicht wiederherstellbar im Gegensatz zu einer HDD.
+
+* **Lebensdauer**
+SSDs haben eine begrenzte Anzahl von Schreibzyklen. Bei intensiver Nutzung kann dies die Lebensdauer verkürzen.
+
+### Aufgabe Xd)
+* **A.** Digital Visual Interface / DVI
+* **B.** VGA / Video Graphics Array
+* **C.** PS/2 / Personal System/2
+
+### Aufgabe Xea)
+Prozessorkerne sind die Recheneinheiten innerhalb eines Prozessors. Sie führen die Befehle aus die den Computer zum Arbeiten bringen.
+
+### Aufgabe Xeb)
+Übertakten bedeutet den Prozessor mit einer höheren Taktrate zu betreiben als vom Hersteller spezifiziert. Dies erhöht dessen Leistung, sort dabei aber für eine höhere Hitzeentwicklung und eine kürzere Lebensdauer.
+
+### Aufgabe Xec)
+* **Luftkühler**
+Nutzen Lüfter und Kühlkörper um die Wärme abzuführen.
+
+* **Wasserkühler**
+Verwenden Flüssigkeit, die die Wärme vom Prozessor zu einem Kühler transportiert.

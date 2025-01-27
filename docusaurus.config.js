@@ -155,7 +155,7 @@ const config = {
             title: 'Wissenswertes',
             items: [
               {
-                label: 'Letztes Update: 11.12.2024',
+                label: 'Letztes Update: 20.01.2025',
                 href: '#',
               },
             ],

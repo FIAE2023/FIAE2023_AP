@@ -124,3 +124,4 @@ Der Gesamtpuffer von Vorgang H beträgt 9 Stunden. Bei einer Verzögerung von 4 
 
 Der Vorgang E hat einen Gesamtpuffer von 2 Stunden. Bei einer verzögerung von 5 Stunden wird sich der Vorgang H um 3 Stunden verzögern.
 Dadurch, dass Vorgang H auf dem kritischen Pfad liegt und einen Gesamtpuffer von 0 hat, verzögert sich das Projektende um 3 Stunden.
+

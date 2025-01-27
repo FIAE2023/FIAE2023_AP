@@ -2,7 +2,7 @@
 
 a. Geben Sie in jedem Feld ein zutreffendes Argument ein.
 
-### KI unterstützter Chatbot
+## KI unterstützter Chatbot
 
 #### wirtschaftliche Aspekte
 Vorteile:
@@ -63,16 +63,16 @@ Die Klasse Immobilie hat die Eigenschaften:
 
 und Methoden:
 \- restwertBerechnen()
-\- getLagebewertung()
+\-getLagebewertung()
 \- auszahlen()
 
-__Aufgabe:__ Erstellen Sie eine sinnvolle Klassenhierarchie mit einer gemeinsamen Oberklasse
+**Aufgabe:** Erstellen Sie eine sinnvolle Klassenhierarchie mit einer gemeinsamen Oberklasse
 "Versicherungsobjekt".
 
-__Hinweis:__ Die Restwertberechnung erfolgt beim KFZ und bei der Immobilie unterschiedlich.
+**Hinweis:** Die Restwertberechnung erfolgt beim KFZ und bei der Immobilie unterschiedlich.
 Zusätzliche Methoden, Konstruktoren und Zugriffsmodifikatoren sind nicht erforderlich.
 
-![Aufgabe 4c](/img/AP1_2023_Frühjahr_Aufgabe_4_c\).png) 
+![Aufgabe 4c)](/static/img/AP1/2023/ap1f_2023/AP1_2023_Frühjahr_Aufgabe_4_c\)_Klassendiagramm.png) 
 
 d. Bei der Schadensregulierung im KFZ-Bereich werden die notwendigen Informationen in einer
 relationalen Datenbank gespeichert. Wichtig dabei ist die Zuordnung der Versicherungsnehmer
@@ -81,11 +81,9 @@ Fahrzeuge nach SUV, Limousine, Geländewagen oder Cabriolet unterschieden. Das A
 "Garage" wird mit dem Datentyp BOOLEAN abgespeichert. Ein Teilauszug aus dieser Datenbank
 sehen Sie in dem untenstehenden Entity-Relationship-Modell.
 
-![Aufgabe 4d](/img/AP1_2023_Frühjahr_Aufgabe_4_d\)_relationale_Datenbank.png)
-
-
-__PK__ bezeichnet ein Primärschlüsselattribut, Primärschlüsselattribute werden unterstrichen.
-__FK__ bezeichnet ein Fremdschlüsselattribut, Fremdschlüsselattribute werden durch ein
+![](AP1_2023_Frühjahr_Aufgabe_4_d\)_relationale_Datenbank.png)
+**PK** bezeichnet ein Primärschlüsselattribut, Primärschlüsselattribute werden unterstrichen.
+**FK** bezeichnet ein Fremdschlüsselattribut, Fremdschlüsselattribute werden durch ein
 nachgestelltes Hash-Zeichen (#) kenntlich gemacht.
 
 da. Sie erhalten von der Versicherungszentrale den Auftrag, die durchschnittliche
@@ -94,5 +92,14 @@ Versicherungssumme über alle KFZ-Versicherungsverträge zu ermitteln.
 Erstellen Sie dazu eine geeignete SQL-Abfrage.
 
 SQL: SELECT AVG(Versicherung_Summe)
-
 FROM KFZ_Versicherung;
+
+db. Sie erhalten von der Versicherungszentrale den Auftrag, die Versicherungsnummern (VID) zu ermitteln, welche im Mai 2022 abgeschlossen wurden und eine maximale Versicherungssumme von über 100.000,00 EUR beinhalten. Alle Fahrzeuge, die in einer Garage abgestellt werden, sollen in dieser Abfrage nicht angezeigt werden.
+Erstellen Sie dazu eine geeignete SQL-Abfrage.
+
+SQL: SELECT VID 
+FROM kfz_versicherung 
+WHERE Versicherung_Summe > 100000.00 
+AND Garage = 0 
+AND MONTH(Vertragsbeginn) = 05 
+AND YEAR(Vertragsbeginn) = 2022;

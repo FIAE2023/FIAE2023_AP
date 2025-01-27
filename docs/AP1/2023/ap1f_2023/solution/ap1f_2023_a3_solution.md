@@ -16,6 +16,7 @@ description: Dies ist die Lösungseite für die Nr3
 
 ## Lösung AP1 Aufgabe:
 
+![Musterlösung 3 Teil 1](/img/AP1/2023/ap1f_2023/solution/AP1_2023_Fruehjahr_Aufgabe3_Holldack_Musterloesung_1.pdf)  
 ![Musterlösung 3 Teil 1](/img/AP1/2023/ap1f_2023/solution/AP1_2023_Fruehjahr_Aufgabe3_Holldack_Musterloesung_1.jpg)  
 ![Musterlösung 3 Teil 2](/img/AP1/2023/ap1f_2023/solution/AP1_2023_Fruehjahr_Aufgabe3_Holldack_Musterloesung_2.jpg)  
 ![Musterlösung 3 Teil 3](/img/AP1/2023/ap1f_2023/solution/AP1_2023_Fruehjahr_Aufgabe3_Holldack_Musterloesung_3.jpg)  
