@@ -95,6 +95,13 @@ t= 0,15 min
 3. Sicherheit: Automatische Installation von Patches und Updates schützt vor Sicherheitslücken
 4. Lizenzmanagement: Verhindert Über- oder Unterbeschaffung von Softwarelizenzen, spart Kosten und gewähleistet REchtskonformität.
 
+#### Test Aufgabe zu 4 b): 
+Die Entscheidung zwischen cloudbasierter und on-premises Workspace-Management-Software hängt von den folgenden Faktoren ab: 
+1. Kosten: Cloudlösungen haben niedrigere Anfangskosten, währen On-Premises langfristig günstiger sein kann.
+2. IT-Ressourcen: Begrentzte Ressourcen sprechen für Cloudlösungen, da Wartung und Updates vom Anbieter übernommen werden.
+3. Datensicherheit: On-Premises bietet mehr Kontrolle über sensible Daten, während Cloudlösungen Datenschutzbedenken bei externer Speicherung aufwerfen können.
+
+Cloudlösungen eignen sich für Unternehmen mit wenig IT-Kapazitäten und begrenztem Budget. Für Unternehmen mit sensiben Daten oder hohen Sicherheitsanforderungen ist On-Premisesbesser geeignet. 
 
 #### Test Aufgabe zu 4 c):
 Gegeben: 
