@@ -30,11 +30,11 @@ Efficiency = Useful power output/Total power input
 ### Lösung zur AP1 Aufgabe 2a)
 
 9h/d * 20d/m = 180h/m  
-60W * 0,76 = 78,94W  
+60W / 0,76 = 78,94W  
 78,94W * 180h = 14.209Wh = 14,2kWh  
-14,2kW * 30cent = 426cent = 4,26€    
+14,2kW * 30cent = 426cent = 4,26€  
   
-139,53W * 180 = 25.115W = 25,1kW  
+139,53W * 180h = 25.115W = 25,1kW  
 25,1kW * 30cent = 753cent = 7,53€
   
 ![Aufgabe 2 a Lösung](/img/AP1/2021/ap1h_2021/solution/H21A2aL.png)

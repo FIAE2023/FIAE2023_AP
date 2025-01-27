@@ -5,7 +5,7 @@ description: Dies ist die Lösung zu AP1 Herbst 2021 Aufgabe 1
 ---
 
 # 
-## AP 1 Herbst 2021 A1 Lösung Mia Rücker
+## AP 1 Herbst 2021 A1 Lösung [Mia Rücker](<../../../../user/Auszubildende Michel/ruecker.md>)
 
 
 
