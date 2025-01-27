@@ -91,6 +91,7 @@ SELECT SUM(Quantity) FROM ProductionData WHERE Thickness = 2 AND Width = 200 AND
 > Erstellen sie die Funktion createOrderList(products[])
 >
 > **fetchMinStock(int)** - Übergeben wird ein Produkt. Gibt den Minimumswert eines Produkts wieder.
+> 
 > **fetchStock(int)** - Übergeben wird ein Produkt. Gibt den momentanen Inventarstand wieder.
 >
 > Ergänzen sie das gegebene Struktogramm durch die entsprechenden Befehle um eine Liste zum Bestellen von Produkten zu erstellen.
