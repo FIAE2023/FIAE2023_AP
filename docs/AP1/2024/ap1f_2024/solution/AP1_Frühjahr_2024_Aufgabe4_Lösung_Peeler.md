@@ -60,3 +60,40 @@ t= 8192/75.78
 t= 108,1024016891s 
 t= 108s
 t= 1min 48s
+
+
+### Lösung Test Aufgaben:
+
+#### Lösung zur Test Aufgabe 4 a) 
+
+| Maßnahmen oder Verhaltensweisen | Folge der Nichtbeachtung |
+| ------------------------------- | ------------------------ |
+| Festplattenverschlüsselung aktivieren| Bei Diebstahl ode Verlust des Laptops könnten Unbefugte <br> sensible Konstrukionsdaten auslesen |
+| Regelmäßige Backups auf einem <br> siceren Firmenserver | Date könnten verloren gehen, wenn der Laptop <br> beschädigt oder gestohlen wird |
+| Passwortschutz und automatische <br> Bildschirmsperre einrichten | Unbefugte könnten den Laptop nutzen und auf <br> vertrauliche Unternehmensdaten zugreifen |
+
+#### Lösung zur Test Aufgabe 4 b) 
+
+1. Verschlüsselung der Daten: VPN verschlüsselt den gesamten DAtenverkehr in Echtzeit, was zusätzliche Rechenleistung erfordert und die Verbindungsgeschwindigkeit verlangsamen kann.
+2. Lange Distanz zum VPN Server: Wenn sich der VPN-Server weit entfertn befindet, müssen die Daten über eine größere Strecke geleitet werden, was zu höheren Latenzen und langsameren Verbindungen führt.
+3. Überlasteter VPN-Server: Wenn viele Nutzer gleichzeitig denselben VPN-Server verwenden, kann es zu Engpässen kommen, wodurch die GEschwindigeit reduziert wird.
+
+#### Lösung zur Test Aufgabe 4 c) 
+
+ | Maßnahme | Begründung |
+ | -------- | ---------- |
+ | Regelmäßige Integritatsprüfung <br> der Backups | Durch Hash-Werte oder Checksummen kann sichergestellt werden, dass <br> die gesicherten Daten nicht beschädigt oder manipuliert werden |
+ | Redundante Backups auf <br> mehreren Speichermedien | Falls eine Festplatte defekt ist oder veloren geht, <br> gibt es eine zusätzliche Sicherung, um Datenverluste zu vermeiden. |
+ | Physische und digitale <br> Zugriffssicherung | Die Festplatten sollten in einem sicheren Bereich aufbewahrt und mit <br> Verschlüsselung sowie Passwortschutz gesichert werden, <br> um unbefugten Zugriff zu verhindern |
+
+ #### Lösung zur Test Aufgabe 4 d) 
+
+1. Unbekannter oder gefälschter Absender: Oft stamen solche E-Mails von gefälschten oder unbekannten Adressen die seriösen Unternehmen ähneln, aber kleine Abweichungen in der Schreibweise enthalten.
+2. Dringlichkeit oder Drohungen im Betreff: Phishing-Mails versuchen, den Empfänger unter Druck zu setzen, indem sie behaupten, dass ein Konto gesperrt wird oder dringende Maßnahmen erforderlich sind.
+3. Verdächtige Anhänge oder Links: Dateien mit Endungen wie .exe, .zip oder .docm könnten Schadsoftware enthalten. Auch verkürzte oder unbekannte Links können auf manipulierte Websiten führen
+
+#### Lösung zur Test Aufgabe 4 e) 
+
+1. Antiviren-Software verwenden: Schützt den Laptop indem Malware USB-Sticks automatisch erkannt und entfernt wird.
+2. Automatishce Ausführung deativieren: Verhindert, dass sich Malware sofort ausführt, wenn der USB-Stick eingesteckt wird.
+3. USB-Sticks nur aus vertrauenswürdigen Quellen verwenen: Reduziert das Risiko, dass Malware über unsichere oder unbekannte Sticks auf das Laptop gelanft. 
