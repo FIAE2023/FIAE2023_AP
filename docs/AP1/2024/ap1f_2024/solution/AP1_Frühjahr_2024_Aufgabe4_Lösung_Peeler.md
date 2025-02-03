@@ -96,4 +96,19 @@ t= 1min 48s
 
 1. Antiviren-Software verwenden: Schützt den Laptop indem Malware USB-Sticks automatisch erkannt und entfernt wird.
 2. Automatishce Ausführung deativieren: Verhindert, dass sich Malware sofort ausführt, wenn der USB-Stick eingesteckt wird.
-3. USB-Sticks nur aus vertrauenswürdigen Quellen verwenen: Reduziert das Risiko, dass Malware über unsichere oder unbekannte Sticks auf das Laptop gelanft. 
+3. USB-Sticks nur aus vertrauenswürdigen Quellen verwenen: Reduziert das Risiko, dass Malware über unsichere oder unbekannte Sticks auf das Laptop gelanft.
+
+#### Lösung zur Test Aufgabe 4 f) 
+Gegeben: 
+Dateigröße = 3GiB
+Dowload = 300 Mbps 
+Upload = 150 Mbps
+
+Dateimenge in Bit 
+4 GiB = 25769.8 Mbit 
+
+t = Datenmenge (Mbit)/Geschwindigkeit (Mbps)
+
+t= 25769.8 / 300 
+t = 85,899s 
+t= 1min 25,899s 
