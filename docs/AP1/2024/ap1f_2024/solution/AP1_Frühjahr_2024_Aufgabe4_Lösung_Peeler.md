@@ -68,9 +68,9 @@ t= 1min 48s
 
 | Maßnahmen oder Verhaltensweisen | Folge der Nichtbeachtung |
 | ------------------------------- | ------------------------ |
-| Festplattenverschlüsselung aktivieren| Bei Diebstahl ode Verlust des Laptops könnten Unbefugte <br> sensible Konstrukionsdaten auslesen |
-| Regelmäßige Backups auf einem <br> siceren Firmenserver | Date könnten verloren gehen, wenn der Laptop <br> beschädigt oder gestohlen wird |
-| Passwortschutz und automatische <br> Bildschirmsperre einrichten | Unbefugte könnten den Laptop nutzen und auf <br> vertrauliche Unternehmensdaten zugreifen |
+| Festplattenverschlüsselung aktivieren| Bei Diebstahl ode Verlust des Laptops könnten Unbefugte <br></br> sensible Konstrukionsdaten auslesen |
+| Regelmäßige Backups auf einem <br></br> siceren Firmenserver | Date könnten verloren gehen, wenn der Laptop <br></br> beschädigt oder gestohlen wird |
+| Passwortschutz und automatische <br></br> Bildschirmsperre einrichten | Unbefugte könnten den Laptop nutzen und auf <br></br> vertrauliche Unternehmensdaten zugreifen |
 
 #### Lösung zur Test Aufgabe 4 b) 
 
@@ -82,9 +82,9 @@ t= 1min 48s
 
  | Maßnahme | Begründung |
  | -------- | ---------- |
- | Regelmäßige Integritatsprüfung <br> der Backups | Durch Hash-Werte oder Checksummen kann sichergestellt werden, dass <br> die gesicherten Daten nicht beschädigt oder manipuliert werden |
- | Redundante Backups auf <br> mehreren Speichermedien | Falls eine Festplatte defekt ist oder veloren geht, <br> gibt es eine zusätzliche Sicherung, um Datenverluste zu vermeiden. |
- | Physische und digitale <br> Zugriffssicherung | Die Festplatten sollten in einem sicheren Bereich aufbewahrt und mit <br> Verschlüsselung sowie Passwortschutz gesichert werden, <br> um unbefugten Zugriff zu verhindern |
+ | Regelmäßige Integritatsprüfung <br> der Backups | Durch Hash-Werte oder Checksummen kann sichergestellt werden, dass <br></br> die gesicherten Daten nicht beschädigt oder manipuliert werden |
+ | Redundante Backups auf <br></br> mehreren Speichermedien | Falls eine Festplatte defekt ist oder veloren geht, <br></br> gibt es eine zusätzliche Sicherung, um Datenverluste zu vermeiden. |
+ | Physische und digitale <br></br> Zugriffssicherung | Die Festplatten sollten in einem sicheren Bereich aufbewahrt und mit <br></br> Verschlüsselung sowie Passwortschutz gesichert werden, <br></br> um unbefugten Zugriff zu verhindern |
 
  #### Lösung zur Test Aufgabe 4 d) 
 
