@@ -159,7 +159,7 @@ Es sollte über die gewünschten Features verfügen. (z.b. WLAN)
 Abstandshalter sorgen für den richtigen Abstand zwischen Mainboard und Gehäuse um Kurzschlüsse zu vermeiden und optimale Kühlung zu gewährleisten.
 
 ### Aufgabe Xba)
-Der 80-Plus Sticker besagt das ein Netzteil mindestens 90% der aufgenommenen Energie in nutzbare Energie umwandelt.
+Der 80-Plus Sticker besagt das ein Netzteil mindestens 80% der aufgenommenen Energie in nutzbare Energie umwandelt.
 
 ### Aufgabe Xbb)
 Bei einem modularen Netzteil können Kabel nach Bedarf angeschlossen werden. Nicht modulare Netzteile haben fest verbaute Kabel.
