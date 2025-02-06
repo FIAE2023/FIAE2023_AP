@@ -1,0 +1,204 @@
+---
+sidebar-position: 2
+title: AP1 Frühjahr 2024 Aufgabe 3 - Lösung Löw
+description: Dies ist die Lösungsseite zu AP1 Frühjahr 2024 Aufgabe 3
+---
+
+# AP1 Frühjahr 2024 Aufgabe 3 Lösung
+## Erarbeitet von [Alicia Löw](<../../../user/Auszubildende Michel/loew.md>)
+
+----
+
+# Aufgabe 3 - Thema: Dateiformate, Speicherberechnung und Energieeffizienz (24 Punkte)
+
+----
+
+## Aufgabenstellungen
+### Aufgabenstellung 3a - Informationssuche zu unbekannten Dateiformaten (3 Punkte)
+![Aufgabe_3A_Bild](/img/AP1/2024/ap1f_2024/AP1_2024_Fruehjahr_Aufgabe3_a.png)
+
+### Aufgabenstellung 3b - Inkompatible Dateiformate im eigenen System verwenden (2 Punkte)
+![Aufgabe_3B_Bild](/img/AP1/2024/ap1f_2024/AP1_2024_Fruehjahr_Aufgabe3_b.png)
+
+### Aufgabenstellung 3c - Unterschied von Dateien im ASCII und Binär Format (4 Punkte)
+![Aufgabe_3C_Bild](/img/AP1/2024/ap1f_2024/AP1_2024_Fruehjahr_Aufgabe3_c.png)
+
+### Aufgabenstellung 3da - Speicherbedarf in Kibibyte berechnen (3 Punkte)
+![Aufgabe_3DA_Bild](/img/AP1/2024/ap1f_2024/AP1_2024_Fruehjahr_Aufgabe3_da.png)
+
+### Aufgabenstellung 3db - Farbdarstellung berechnen (2 Punkte)
+![Aufgabe_3DB_Bild](/img/AP1/2024/ap1f_2024/AP1_2024_Fruehjahr_Aufgabe3_db.png)
+
+### Aufgabenstellung 3dc - Speicherbedarf in Prozent berechnen (3 Punkt)
+![Aufgabe_3DC_Bild](/img/AP1/2024/ap1f_2024/AP1_2024_Fruehjahr_Aufgabe3_dc.png)
+
+### Aufgabenstellung 3e - Leistungsaufnahme mit Puffer berechnen und Netzteil auswählen (4 Punkte)
+![Aufgabe_3E_Bild](/img/AP1/2024/ap1f_2024/AP1_2024_Fruehjahr_Aufgabe3_e.png)
+
+### Aufgabenstellung 3f - Stromkosten berechnen (3 Punkte)
+![Aufgabe_3F_Bild](/img/AP1/2024/ap1f_2024/AP1_2024_Fruehjahr_Aufgabe3_f.png)
+
+----
+
+## Lösungen
+### Aufgabe 3a)
+#### Antwort
+1. Im Internet recherchieren
+2. In evtl. vorhandenen Büchern nachschlagen
+3. Kollegen fragen
+
+### Aufgabe 3b)
+#### Antwort
+PLY-Datei in OBJ- oder STL-Format konvertieren.
+
+### Aufgabe 3c)
+#### Antwort
+Da die Daten von Dateien im Binär Format als Sequenzen von Einsen und Nullen gespeichert werden, sind diese Dateien für Menschen i.d.R. unleserlich.\
+Bei einer Datei im ASCII Format werden die Daten als ASCII-Charaktere gespeichert, welche z.B. mit einem Texteditor für Menschen leicht zu lesen sind.
+
+### Aufgabe 3da)
+#### Antwort
+Der Gesamtspeicherbedarf beträgt __45 KiB__.
+
+#### Rechenweg
+##### Eckdaten für die Berechnung
+* 3'840 Punkte
+* x, y, z Koordinaten (3 verschiedene Koordinaten)
+* 32-Bit-Float pro Koordinate (4 Byte)
+
+##### Gesamtspeicherbedarf in Byte - Berechnung
+
+> Gesamtbedarf = n (Anzahl der Punkte) * Anzahl der Koordinaten * Speicherbedarf pro Koordinate
+
+n = _3'840_
+Anzahl der Koordinaten = x, y, z Koordinaten = _3_
+Speicherbedarf pro Koordinate = _4 Byte_
+
+Gesamtbedarf = 3'840 * 3 * 4 Byte = __46'080 Byte__
+
+##### Gesamtspeicherbedarf konvertiert in Kibibyte - Berechnung
+
+> :bulb: Umrechnung in Kibibyte = Byte / 1'024
+
+Gesamtbedarf = 46'080 Byte / 1'024 = __45 KiB__
+
+### Aufgabe 3db)
+#### Antwort
+Es lässt sich eine Anzahl von __16'777'216__ Farben darstellen.
+
+#### Rechenweg
+##### Eckdaten für die Berechnung
+* _8 Bit_ pro Farbkanal
+* RGB-Farbraum (_3 Kanäle_)
+
+##### Berechnung der Farbanzahl
+> :bulb: Eine Farbtiefe von 8 Bit ermöglicht eine Darstellung von 256 verschiedenen Farben.
+>
+> _Gratzke, Hauser, Patett, Ringhand. "IT-Berufe Grundstufe Lernfelder 1-5" (1. Auflage). westermann. S. 478_
+
+Dies kann auch wie folgt berechnet werden:
+> Anzahl der Farben pro Kanal = 2<sup>Bitanzahl</sup>
+
+Daraus ergeben sich 2<sup>8</sup> = _256_ Farben pro Kanal.
+
+[Insert Erklärung]
+> Gesamtanzahl der Farben = Anzahl der Farben pro Kanal<sup>Anzahl der Kanäle</sup>
+
+Gesamtanzahl der Farben = 256 (Rot) * 256 (Grün) * 256 (Blau) = 256<sup>3</sup> = __16'777'216__
+
+
+### Aufgabe 3dc)
+#### Antwort
+Es werden zusätzlich __25__% Speicher pro Bildpunkt benötigt.
+
+#### Rechenweg
+##### Eckdaten für die Berechnung
+* RGB-Farbraum (aus Aufgabe 3db)
+    * 3 Kanäle
+    * 8 Bit pro Kanal
+
+##### Berechnung des zusätzlichen Speicherbedarfs
+Ursprünglicher Speicherbedarf pro Bildpunkt:\
+3 Koordinaten * 4 Byte Speicherbedarf pro Koordinate = _12 Byte_
+
+Speicherbedarf der Farbwerte pro Bildpunkt:\
+3 Kanäle * 8 Bit/Kanal = 24 Bit -> _3 Byte_
+
+##### Berechnung des neuen Speicherbedarfs pro Bildpunkt: 
+> Ursprünglicher Speicherbedarf + Speicherbedarf der Farbwerte
+
+12 Byte + 3 Byte = 15 Byte
+
+##### Berechnung des prozentuellen Anstieg:
+> $$ \frac{Zusätzlicher Speicherbedarf}{Ursprünglicher Speicherbedarf} * 100 $$
+
+Dementsprechend: 
+$$
+\frac{3 Byte}{12 Byte} * 100 = \bm{25}
+$$
+
+### Aufgabe 3e)
+#### Antwort
+Die Leistungsaufnahme (inkl. Puffer) beträgt __609,4 W__ und das geeignete Netzteil dafür ist jenes mit einer Nennleistung von __650 W__.
+
+#### Rechenweg
+##### Gesamtleistungsaufnahme berechnen
+Maximale Leistungsaufnahme aller Komponenten (in Watt) addieren:
+$ 20 + 172 + 12 + (4 * 5) + 310 + (2 * 5) + (2 * 5) = 554 $
+
+##### Puffer von 10% hinzurechnen
+Puffer (Prozentwert) errechnen:
+$$ W = p * G $$
+
+Eingesetzt ergibt das:
+$$ Puffer = 0,1 * 554 = 55,4 $$
+
+Puffer auf Gesamtleistungsaufnahme addieren:
+$$ 554 W + 55,4 W = 609,4 W $$
+
+Da die Netzteile von 400 W bis 1'200 W in 50-W-Schritten zur Verfügung stehen und das Netzteil mit 600 W nicht genügend Leistung mit sich bringt, sollte das _650 W_ Netzteil gewählt werden.
+
+### Aufgabe 3f)
+#### Antwort
+Die  jährlichen Stromkosten belaufen sich auf __260,00__ EUR.
+
+#### Rechenweg
+##### Eckdaten für die Berechnung
+* 200 Arbeitstage à 9 Stunden
+* 90% Wirkungsgrad des Netzteils
+* 50% Auslastung des Netzteils im Schnitt
+* 0,40 EUR pro kWh
+* 650 W Netzteil (aus Aufgabe 3e)
+
+##### Berechnung der effektiven Leistung des Netzteils
+Das Netzteil hat eine Nennleistung von _650 Watt_. 
+Da es im Durchschnitt _50%_ ausgelastet ist, kann folgende Formel für die Berechnung verwendet werden:
+$$ Effektive Leistung = Nennleistung * Auslastung (dezimal) $$
+
+Umwandlung von Prozent in dezimale Schreibweise:
+50% = 0,5
+
+Einsetzen der Werte:
+$$ Effektive Leistung = 650 * 0,5 = 325 W $$
+
+##### Wirkungsgrad des Netzteils berechnen
+Der Wirkungsgrad des Netzteils beträgt _90%_, ergo nur 90% der zugeführten Energie wird in nützliche Arbeit umgewandelt.
+Um die tatsächliche Energieaufnahme aus dem Stromnetz zu berechnen, muss die effektive Leistung durch den Wirkungsgrad geteilt werden:
+$$ Energieaufnahme = \frac{325 W}{0,9} \approx 361,11 W $$
+
+##### Berechnung der Gesamtbetriebsstunden
+Laut Aufgabenstellung läuft der PC an _200_ Arbeitstagen je _9_ Stunden:
+
+$$ Betriebsstunden = 200 Tage * 9 Stunden/Tag = 1'800 Stunden $$
+
+##### Berechnung des Jahresenergieverbrauchs
+Um den jährlichen Energieverbrauch in kWh zu berechnen, wird die Energieaufnahme in kW umwandelt und mit den Betriebsstunden multipliziert:
+
+$$ Energieverbrauch = (\frac{361,11 W}{1'000}) * 1'800 Stunden = 649,998 kWh \approx 650 kWh $$
+
+##### Berechnung der Stromkosten
+Nachdem der Energieverbrauch ermittelt wurde, können nun die Gesamtstromkosten berechnet werden, indem der Energieverbrauch mit dem Preis pro kWh multipliziert wird:
+
+$$ Jährliche Stromkosten = 650 kWh * 0,40 EUR/kWh = 260,00€ $$
+
+----
