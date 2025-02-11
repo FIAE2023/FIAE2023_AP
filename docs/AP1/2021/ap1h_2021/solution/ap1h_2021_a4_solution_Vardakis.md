@@ -98,7 +98,15 @@ Mein Vorschlag wäre die Daten mit einer Raid5 Speicher-Lösung täglich zu sich
 
 ## Test Aufgabe:
 
-## Aufgabe 1 - Thema Schutzbedarfskategorien 
+## Aufgabe 1 - Thema Passwortsicherheit
+Nennen Sie zwei Kriterien für ein sicheres Passwort und erläutern Sie deren Bedeutung
+
+````text
+
+````
+----
+
+## Aufgabe 2 - Thema Schutzbedarfskategorien 
 Fügen Sie für die folgenden IT-Anwendungen eine Begründung für den gewählten Schutzbedarf hinzu.
 
 | **IT-Anwendung**                               | **Schutzziel**     | **Kategorie** | **Begründung**                                                                                     |
@@ -109,6 +117,7 @@ Fügen Sie für die folgenden IT-Anwendungen eine Begründung für den gewählte
 | Abrechnung von Patientenleistunge                | Vertraulichkeit     | hoch          |````   ````|
 
 ----
+
 
 ## Links zu Themen:
 
