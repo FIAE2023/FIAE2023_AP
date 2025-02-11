@@ -27,6 +27,13 @@ In einem ersten Schritt informieren Sie sich über allgemeine Grundlagen der Inf
 
 ![Aufgabe 4a](</img/AP1/2021/ap1h_2021/AP1h_2021_a4a.png>)
 
+````txt
+Regelmäßige Datensicherung der Patientendaten => Integrität => Die Daten werden vor Verlust und Beschädigung durch die Sicherung geschützt.
+Verschlüsselung der Festplatten => Vertraulichkeit => Die Verschlüsselung von Festplatten dient dazu, die auf einer Festplatte gespeicherten Daten vor unbefugtem Zugriff zu schützen.
+Zentrale Bearbeitung wichtiger Dokumente auf dem Server => Verfügbarkeit => Dokumente sind von verschiedenen Standorten und Geräten aus zugänglich.
+Hashwertüberprüfung bei Softwareinstallation => Integrität => Die Hashwertüberprüfung stellt sicher, dass die Softwaredatei während des Downloads oder der Installation nicht verändert wurde.
+````
+
 ### Aufgabe 4b) - Thema Basis-Anforderungen zur Absicherung eines PC-Clients - 2 Punkte
 Im IT-Grundschutz-Kompendium des Bundesamtes für Sicherheit in der Informationstechnik (BSI) finden Sie Basis-Anforderungen zur Absicherung eines PC-Clients.
 
