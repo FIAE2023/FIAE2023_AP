@@ -89,3 +89,55 @@ Der Kunde überlegt das Geschäftsverhältnis zu beenden.
 
 4. Appell:
 Der Kunde will ein besseres Preis-Leistungsverhältnis haben.
+
+## Selbsterstellte Aufgabe
+
+![AP1 Herbst 2023 A1 Übung Rücker Teil 1](/img/AP1/2023/ap1h_2023/ap1h_2023_a1_exercise-1.jpg)
+
+![AP1 Herbst 2023 A1 Übung Rücker Teil 2](/img/AP1/2023/ap1h_2023/ap1h_2023_a1_exercise-2.jpg)
+
+![AP1 Herbst 2023 A1 Übung Rücker Teil 3](/img/AP1/2023/ap1h_2023/ap1h_2023_a1_exercise-3.jpg)
+
+## Lösung der Selbsterstellten Aufgabe
+
+## Lösung zur AP1 Übungsaufgabe 1 a)
+
+![AP1 Herbst 2023 A1a Übung Rücker Lösung](/img/AP1/2023/ap1h_2023/ap1h_2023_a1a_exercise_solution_ruecker.jpg)
+
+## Lösung zur AP1 Übungsaufgabe 1 ba)
+
+ 1. Durch fehlenden Kontakt zu einem Menschen können abgeschreckt sein ein Problem zu melden.
+ 2. Eine KI kann nur schwer eine ordentliche Priorisierung und Kategorisierung vornehmen.
+
+## Lösung zur AP1 Übungsaufgabe 1 bb)
+
+1. Bei jeder Anfrage wird ein Ticket zu dieser erstellt.
+2. Die KI arbeitet unterstützend, aber nicht als Hauptträger des 1st Level Supports.
+
+## Lösung zur AP1 Übungsaufgabe 1 ca)
+
+Service wird als was kurzlebiges und etwas immaterielles beschrieben.
+
+## Lösung zur AP1 Übungsaufgabe 1 cb)
+
+Hohe Servicequalität führt zu loyaleren Kunden, die ihre positive Erfahrung mit dem Service verbreiten.
+
+## Lösung zur AP1 Übungsaufgabe 1 cc)
+
+1. Qualität ist, was Kunden die Erwartung eines Kunden zum Service übersteigt.
+2. Qualität ist wenn der Service mit den Anforderungen übereinstimmt.
+3. Qualität kann aus verschiedenen Blickwinkeln betrachtet werden. Z.B benutzbasiert oder produktbasiert.
+
+## Lösung zur AP1 Übungsaufgabe 1 d)
+
+1. Sachaspekt:
+Ich bin unzufrieden mit eurem neuen KI-Chatbot und würde gerne mit einem Mitarbeiter reden.
+
+2. Selbstaussage:
+Ich bin gerade sehr frustriert und bringe meinem Unmut über den Service zum Ausdruck.
+
+3. Beziehungsaspekt:
+Die Person ist Kunde unseres Services und hat aktuell ein schlechtes Verhältnis zu uns.
+
+4. Appell:
+Bitte macht es möglich bei eurem Service mit Mitarbeitern zu kommunizieren anstelle von Bots.
