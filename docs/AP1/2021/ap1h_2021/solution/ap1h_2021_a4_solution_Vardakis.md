@@ -24,6 +24,7 @@ Sie werden beauftragt, sich dieser Aufgabe anzunehmen.
 
 ### Aufgabe 4a) - Thema Allgemeine Grundlagen der Informationssicherheit - 6 Punkte
 In einem ersten Schritt informieren Sie sich über allgemeine Grundlagen der Informationssicherheit. Als wichtige Schutzziele werden hier u. a. Vertraulichkeit, Integrität und Verfügbarkeit genannt. Sie klären nun, welches Schutzziel der jeweiligen Sicherheitsmaßnahme zugeordnet werden kann. Setzen Sie dazu pro Zeile ein Kreuz und geben Sie eine Begründung für Ihre Zuordnung an.
+
 ![Aufgabe 4a](</img/AP1/2021/ap1h_2021/AP1h_2021_a4a.png>)
 
 ### Aufgabe 4b) - Thema Basis-Anforderungen zur Absicherung eines PC-Clients - 2 Punkte
