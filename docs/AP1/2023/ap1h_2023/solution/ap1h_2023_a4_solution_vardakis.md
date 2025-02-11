@@ -132,9 +132,40 @@ Quelle: Lernfeld 2 Finanzierung und Leasing
 
 ## Test Aufgabe:
 
-- Hier kommt die selbsterstellte Testaufgabe rein.
+## Aufgabe 1 - Thema Gannt-Diagramm 
 
-----
+Ein Projekt beginnt mit dem Vorgang A. Nach fünf Tagen wird A abgeschlossen. Danach folgen die parallelen Vorgänge B, C und D. B hat eine Dauer von vier Tagen, C dauert sieben Tage und D benötigt drei Tage.
+
+Vorgang B hat den Nachfolger E, der vier Tage in Anspruch nimmt. Vorgang C hat den Nachfolger F, der zwei Tage dauert. D hat keinen Nachfolger.
+
+Vorgänge E und F haben gemeinsam den Nachfolger G, der fünf Tage dauert. Nach G folgt der Abschluss des Projekts.
+
+### 1a) Ergenzes Sie das Gantt-Diagramm. 
+
+| Vorgang | Tag 1 | Tag 2 | Tag 3 | Tag 4 | Tag 5 | Tag 6 | Tag 7 | Tag 8 | Tag 9 | Tag 10 | Tag 11 | Tag 12 | Tag 13 | Tag 14 | Tag 15 |
+|---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|--------|--------|--------|
+| A       |       |       |       |       |       |       |       |       |       |        |        |        |        |        |        |
+| B       |       |       |       |       |       |       |       |       |       |        |        |        |        |        |        |
+| C       |       |       |       |       |       |       |       |       |       |        |        |        |        |        |        |
+| D       |       |       |       |       |       |       |       |       |       |        |        |        |        |        |        |
+| E       |       |       |       |       |       |       |       |       |       |        |        |        |        |        |        |
+| F       |       |       |       |       |       |       |       |       |       |        |        |        |        |        |        |
+| G       |       |       |       |       |       |       |       |       |       |        |        |        |        |        |        |
+|         |       |       |       |       |       |       |       |       |       |        |        |        |        |        |        |
+
+
+### 1b) Ermitteln Sie, nach wie vielen Tagen das Projekt frühestens beendet werden kann.
+
+````text
+
+````
+    
+### 1c) Bestimmen Sie, welcher Vorgang den größten Puffer in Tagen hat.
+
+````text
+
+````
+
 
 ## Links zu Themen:
 
