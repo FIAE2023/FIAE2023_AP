@@ -102,7 +102,7 @@ Der Kunde will ein besseres Preis-Leistungsverhältnis haben.
 
 ## Lösung zur AP1 Übungsaufgabe 1 a)
 
-![AP1 Herbst 2023 A1a Übung Rücker Lösung](/img/AP1/2023/ap1h_2023/ap1h_2023_a1a_exercise_solution_ruecker.jpg)
+![AP1 Herbst 2023 A1a Übung Rücker Lösung](/img/AP1/2023/ap1h_2023/solution/ap1h_2023_a1a_exercise_solution_ruecker.jpg)
 
 ## Lösung zur AP1 Übungsaufgabe 1 ba)
 
