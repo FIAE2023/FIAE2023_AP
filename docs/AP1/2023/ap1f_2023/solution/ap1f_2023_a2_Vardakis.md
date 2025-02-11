@@ -10,7 +10,8 @@ description: My document description
 
 ### Themen:
 
-- Example 1
+- Bezugspreis Berechnung
+- Leasing
 
 ---
 
@@ -76,10 +77,24 @@ Quelle: Lernfeld 2 Finanzierung und Leasing
 
 ## Test Aufgabe:
 
-- Hier kommt die selbsterstellte Testaufgabe rein.
+
+## Aufgabe 1 - Thema Differenzbetrag Berechnung
+Sie erhalten ein Angebot. Die Firma Tech-World GmbH bietet Ihnen 4.000 Tablets zu einem Gesamtpreis von 320.000 EUR an, alternativ einen Leasingvertrag über vier Jahre mit einer monatlichen Leasingrate von 7.500 EUR mit Kaufoption.
+
+### Vergleichen Sie den Kaufpreis mit den Gesamtkosten des Leasings. Ermitteln Sie den Differenzbetrag.
+
+````text
+
+````
+----
+## Aufgabe 2 - Thema Leasing
+Nennen Sie zwei Nachteile, die gegen einen Leasingvertrag sprechen.
+
+````text
+
+````
 
 ----
-
 
 
 ## Links zu Themen:
