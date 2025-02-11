@@ -60,9 +60,9 @@ Fügen Sie jeweils eine mögliche Begründung für den gewählten Schutzbedarf h
 |---|---|---|---|
 | |Schutzziel|Kategorie|Begründung|
 |Prüfziffernverfahren bei der Übermittlung der Krankenversicherungsnummer|Integrität|hoch|z. B.:Verfälschte Daten bei der Übertragung können zu fehlerhaften Abrechungen führen.|
-|Textverarbeitung|Verfügbarkeit|mittel|<span style="color:blue">Die verarbeiteten Informationen erhalten keine sensiblen oder vertraulichen Daten </span>.|
-|Software zur telemedizinischen Beratung über Videokonferenz|Vertraulichkeit|hoch||
-|Patientendatenverarbeitung|Integrität|sehr hoch||
+|Textverarbeitung|Verfügbarkeit|mittel|````text Die verarbeiteten Informationen erhalten keine sensiblen oder vertraulichen Daten. ````|
+|Software zur telemedizinischen Beratung über Videokonferenz|Vertraulichkeit|hoch|````Es werden sensible personenbezogene Daten genannt die unter Datenschutzrechtlinien besonders geschützt werden müssen. ````|
+|Patientendatenverarbeitung|Integrität|sehr hoch|````Falsche oder manipulierte Daten können zu falschen Diagnosen und Behandlungen führen, was die Gesundheit der Patienten gefährden kann.````|
 
 ### Aufgabe 4d) - Thema Datenschutz - 2 Punkte
 Die Arzthelferin an der Rezeption möchte von Ihnen wissen, für welche Art von Daten ein besonderer Schutz gesetzlich vorgeschrieben ist.
