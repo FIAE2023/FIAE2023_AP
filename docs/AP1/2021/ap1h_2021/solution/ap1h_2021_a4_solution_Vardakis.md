@@ -98,7 +98,15 @@ Mein Vorschlag wäre die Daten mit einer Raid5 Speicher-Lösung täglich zu sich
 
 ## Test Aufgabe:
 
-- Hier kommt die selbsterstellte Testaufgabe rein.
+## Aufgabe 1 - Thema Schutzbedarfskategorien 
+Fügen Sie für die folgenden IT-Anwendungen eine Begründung für den gewählten Schutzbedarf hinzu.
+
+| **IT-Anwendung**                               | **Schutzziel**     | **Kategorie** | **Begründung**                                                                                     |
+|------------------------------------------------|---------------------|---------------|----------------------------------------------------------------------------------------------------|
+| E-Mail-Kommunikation mit Patienten             | Vertraulichkeit     | hoch          |```` ````|
+| Kalenderverwaltung für Arzttermine              | Verfügbarkeit        | mittel        |```` ````|
+| Datenbank für medizinische Forschung            | Integrität          | sehr hoch     |```` ````|
+| Zahlungsabwicklung für Patienten                | Vertraulichkeit     | hoch          |```` ````|
 
 ----
 
