@@ -98,7 +98,7 @@ Tätigkeit – Start, Ende, MitarbeiterID (FK)
 ```
 
 ### cb) Sie erhalten von der Geschäftsleitung den Auftrag, aus statistischen Gründen die Anzahl der Tickets pro Priorität zu ermiteln.
-Die Ausgabe soll die Priorität und die dazugehörige Anzahl erhalten.
+### Die Ausgabe soll die Priorität und die dazugehörige Anzahl erhalten.
 Erstellen Sie dazu di geeignete SQL-Abfrage:
 
 ```text
@@ -106,7 +106,7 @@ SELECT Priorität, COUNT (TicketID) FROM Ticket GROUP BY Priorität;
 ```
 
 ### cc) Dem Unternehemen ist bekannt, wie viele Kunden es insgesamt hat. Nun möchte die Geschäftsleitung den Prozentsatz der Kunden ausrechnen, die Tickets haben.
-Dazu muss die Anzahl der Kunden mit einem Ticket in der Ticketdatenbank bestimmt werden.
+### Dazu muss die Anzahl der Kunden mit einem Ticket in der Ticketdatenbank bestimmt werden.
 Erstellen Sie dazu eine geeignete SQL-Abfrage.
 
 ```text
@@ -114,7 +114,7 @@ SELECT COUNT (DISTINCT KundenID) AnzahlKunden FROM Ticket;
 ```
 
 ### cd) Sie erhalten vor der Geschäftsleitung den Auftrag zu ermitteln, welche offene Tickets (Zustand=offen) einen Erfassungsmonat haben, der mehr als zwei Monate zurückliegt.
-Analysieren Sie die vorliegende Abfrage und beschreiben Sie das zu erwartende Ergebnis.
+### Analysieren Sie die vorliegende Abfrage und beschreiben Sie das zu erwartende Ergebnis.
 ### SELECT Problembeschreibung, Prioritaet, Zustand, ErfassungDatum FROM Ticket WHERE Month (NOW()) -Month(ErfassungDatum) > 2 AND Zustand="offen" ORDER BY ErfassungDatum ASC;
 
 
