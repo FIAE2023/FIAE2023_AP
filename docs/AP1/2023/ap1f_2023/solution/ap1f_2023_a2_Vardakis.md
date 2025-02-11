@@ -16,13 +16,14 @@ description: My document description
 
 ## Aufgabe:
 
-![AP1 Frühjahr 2023 Aufgabe 1a](/img/AP1/2023/ap1f_2023/AP1_2023_Frühjahr-Aufgabe_2.jpg)
+![AP1 Frühjahr 2023 Aufgabe 2a](/img/AP1/2023/ap1f_2023/solution/AP1f_2023_a2.png)
 
 ---
 
+
 ## aa) Ermitteln Sie den Bezugspreis der einzelnen Anbieter pro Notebook durch Ergänzung der leeren Felder in der folgenden Tabelle.
 
-![AP1 Frühjahr 2023 Aufgabe 1a](img/AP1/2023/ap1f_2023/solution/AP1f_2023_a2_aa_solution.png)
+![AP1 Frühjahr 2023 Aufgabe 2aa](/img/AP1/2023/ap1f_2023/solution/AP1f_2023_a2_aa_solution.png)
 
 ### ab) Es wurde ein Lieferant mit einem höheren Bezugspreis gewählt.
 Nennen Sie drei mögliche Gründe.
