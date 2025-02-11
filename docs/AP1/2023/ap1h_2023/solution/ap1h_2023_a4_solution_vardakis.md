@@ -92,6 +92,7 @@ Zu jeder Tätigkeit soll eine ausführliche Beschreibung der durchgeführten Arb
 
 ### ca) Ergänzen Sie das ERD um die fehlenden Elemente zur Abbildung der Tätigkeiten in der Datenbank.
 
+![Aufgabe 4 ca)](/img/AP1/2023/ap1h_2023/AP1_2023_Herbst_Aufgabe4_ca.png)
 
 ```text
 Tätigkeit – Start, Ende, MitarbeiterID (FK)
