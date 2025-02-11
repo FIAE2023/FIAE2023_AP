@@ -72,8 +72,20 @@ nicht um die Zahlung einer separaten Rechnung kümmern
 
 ## Selbsterstellte Aufgabe
 
-- Hier kommt die selbsterstellte Aufgabe als Bild oder Text rein
+a)
+Nennen Sie drei Sicherheitsaspekte die bei einem Telearbeitsplatz beachtet werden müssen.
+
+b)
+Nennen Sie drei Punkte die zu einem ergonomischen Bildschirmarbeitsplatz beitragen.
 
 ## Lösung der Selbsterstellten Aufgabe
 
-- Hier kommt die Lösung zur selbsterstellten Aufgabe als Bild oder Text rein
+a)
+- Eine sichere VPN-Verbindung ins Firmennetz um sicheren Datenaustausch zu gewährleisten
+- IT-Systeme (Notebooks) und Datenträger die zwischen Telearbeitsplatz und Büro transportiert werden müssen verschlüsselt werden
+- Fenster schließen und Tür abschließen, wenn der Telearbeitsplatz nicht beasetzt ist
+
+b)
+- Der Schreibtisch sollte kein Fenter vor oder hinter sich haben, sondern Fenter sollten in einem 90° Winckel zu Schreibtisch sein
+- Die Höhe des Stuhls sollte so eingestellt sein, dass die Oberschenkel wagerecht sind und in einem 90 bis 100° Winckel zu den Unterschenkeln sind
+- Höhe des Tischs so einstellen das der Winkel zwischen Ober- und Unterarm 90 bis 100° beträgt
