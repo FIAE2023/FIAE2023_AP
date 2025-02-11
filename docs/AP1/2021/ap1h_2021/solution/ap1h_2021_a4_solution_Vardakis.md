@@ -5,7 +5,7 @@ description: My document description
 ---
 ## AP1 Herbst 2021 Aufgabe 4 - 24 Punkte
 
-## Bearbeitet von [David-Paul Adams](<../../../user/Auszubildende Holldack/adams.md>)  & [Mathaios Vardakis](<../../../user/Auszubildende Michel/vardakis.md>)
+## Bearbeitet von   [Mathaios Vardakis](<../../../user/Auszubildende Michel/vardakis.md>)
 
 ### Themen:
 
@@ -31,8 +31,10 @@ Im IT-Grundschutz-Kompendium des Bundesamtes für Sicherheit in der Informations
 
 Nennen Sie je eine Maßnahme, mit denen die folgenden Anforderungen umgesetzt werden könnten.
 ```txt
-- Aktivieren von Autoupdate-Mechanismen:
-- Differenzieren von Benutzerrollen (Rollentrennung):
+-Aktivieren von Autoupdate-Mechanismen: Implementierung eines zentralen Update-Management-Systems, das automatisch Software-Updates für alle relevanten Anwendungen und Betriebssysteme auf den Endgeräten im Netzwerk herunterlädt und installiert.
+
+-Differenzieren von Benutzerrollen (Rollentrennung): Erstellen von Benutzergruppen, in denen jeder Gruppe bestimmte Rechte zugewiesen werden. Zum Beispiel könnte es eine Gruppe für Administratoren geben, die volle Zugriffsrechte hat, und eine Gruppe für normale Benutzer, die nur eingeschränkten Zugriff auf bestimmte Funktionen hat. So wird sichergestellt, dass jeder Benutzer nur das sehen und tun kann, was für seine Rolle notwendig ist.
+
 ```
 ### Aufgabe 4c) - Thema Schutzbedarfsanalyse - 6 Punkte
 Im Rahmen einer Schutzbedarfsanalyse versuchen Sie zu ermitteln, wie wichtig die verwendeten unternehmensrelevanten IT-Anwendungen für den Fortgang des Geschäftsprozesses sind, um das Maß an benötigtem Schutz zu definieren.
@@ -56,8 +58,9 @@ Fügen Sie jeweils eine mögliche Begründung für den gewählten Schutzbedarf h
 
 ### Aufgabe 4d) - Thema Datenschutz - 2 Punkte
 Die Arzthelferin an der Rezeption möchte von Ihnen wissen, für welche Art von Daten ein besonderer Schutz gesetzlich vorgeschrieben ist.
-```txt
 Geben Sie der Arzthelferin Auskunft und benennen Sie hierzu eine rechtliche Grundlage.
+```txt
+Mit sensiblen personenbezogenen Daten wie z.B Diagnose, Blutgruppe, Name, Adresse oder Telefonnummer, ist unter dem Datenschutzgesetz (Datenschutz-Grundverordnung (DSGVO) und Bundesdatenschutzgesetz (BDSG)) der Umgang mit denen exakt reguliert.
 ```
 
 ### Aufgabe 4e) - Thema Passwortsicherheit - 4 Punkte
@@ -65,19 +68,22 @@ Führen Sie zwei Kriterien an, die ein sicheres Passwort erfüllen sollte.
 Beschreiben Sie auch, warum diese Kriterien für eine höhere Sicherheit sorgen.
 
 ```txt
-
+Ein sicheres Passwort sollte mindestens 12 bis 16 Zeichen lang sein und eine Kombination aus Groß- und Kleinbuchstaben, Zahlen und Sonderzeichen enthalten. Dies erhöht die Anzahl möglicher Kombinationen und macht es schwieriger, das Passwort zu erraten oder durch Brute-Force-Angriffe zu knacken.
 ```
 
 ### Aufgabe 4f) - Thema Festplattenpartitionen - 4 Punkte
 Die Gebührenabrechnungssoftware ist so eingerichtet, dass der Datenbestand freitags beim Herunterfahren des PCs auf einer speziell eingerichteten Partition der Festplatte gesichert wird.
 #### 4fa)
 Ihr Teamleiter beauftrag Sie, der Leiterin des Praxismanagements die Risiken aufzuzeigen.
-```txt
 Beschreiben Sie zwei der Risiken.
+```txt
+•	Wenn der PC während des Herunterfahrens oder der Sicherung abstürzt, können Daten verloren gehen oder die Sicherung unvollständig sein. Dies könnte zu Inkonsistenzen im Datenbestand führen.
+•	Wenn die Sicherung nur einmal pro Woche (freitags) erfolgt, besteht das Risiko, dass zwischen den Sicherungen wichtige Daten verloren gehen, insbesondere wenn Fehler oder Probleme an anderen Tagen auftreten.
 ```
 #### 4fb)
-```txt
 Unterbreiten Sie der Leiterin einen konkreten Verbesserungsvorschlag.
+```txt
+Mein Vorschlag wäre die Daten mit einer Raid5 Speicher-Lösung täglich zu sichern, sodass genügend Backups entstehen und die Zeit zwischen Sicherungen kürzer wird.
 ```
 
 ----
@@ -97,4 +103,3 @@ Unterbreiten Sie der Leiterin einen konkreten Verbesserungsvorschlag.
 ## Links zu Themen:
 
 - Hier werden Seiten verlinkt mit denen man die Themen lernen kann.
-
