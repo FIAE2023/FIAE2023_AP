@@ -74,13 +74,13 @@ n = _3'840_
 Anzahl der Koordinaten = x, y, z Koordinaten = _3_
 Speicherbedarf pro Koordinate = _4 Byte_
 
-Gesamtbedarf = 3'840 * 3 * 4 Byte = __46'080 Byte__
+Gesamtbedarf $ = 3'840 * 3 * 4 Byte = \bm{46'080 Byte} $
 
 ##### Gesamtspeicherbedarf konvertiert in Kibibyte - Berechnung
 
 > :bulb: Umrechnung in Kibibyte = Byte / 1'024
 
-Gesamtbedarf = 46'080 Byte / 1'024 = __45 KiB__
+Gesamtbedarf $ = 46'080 Byte / 1'024 = \bm{45 KiB} $
 
 ### Aufgabe 3db)
 #### Antwort
@@ -101,10 +101,10 @@ Dies kann auch wie folgt berechnet werden:
 
 Daraus ergeben sich 2<sup>8</sup> = _256_ Farben pro Kanal.
 
-[Insert Erklärung]
 > Gesamtanzahl der Farben = Anzahl der Farben pro Kanal<sup>Anzahl der Kanäle</sup>
 
-Gesamtanzahl der Farben = 256 (Rot) * 256 (Grün) * 256 (Blau) = 256<sup>3</sup> = __16'777'216__
+Da der RGB-Farbraum 3 Kanäle besitzt (Rot, Grün, Blau), kann die Gesamtanzahl der Farben wie folgt berechnet werden:
+Gesamtanzahl der Farben = $ 256 (Rot) * 256 (Grün) * 256 (Blau) = 256^{3} = \bm{16'777'216} $
 
 
 ### Aufgabe 3dc)
@@ -116,6 +116,8 @@ Es werden zusätzlich __25__% Speicher pro Bildpunkt benötigt.
 * RGB-Farbraum (aus Aufgabe 3db)
     * 3 Kanäle
     * 8 Bit pro Kanal
+* Jeder Punkt wird durch x, y, z Koordinaten bestimmt (aus Aufgabenstellung 3d)
+* Jede Koordinate benötigt 32 Bit (= 4 Byte) 
 
 ##### Berechnung des zusätzlichen Speicherbedarfs
 Ursprünglicher Speicherbedarf pro Bildpunkt:\
@@ -125,17 +127,16 @@ Speicherbedarf der Farbwerte pro Bildpunkt:\
 3 Kanäle * 8 Bit/Kanal = 24 Bit -> _3 Byte_
 
 ##### Berechnung des neuen Speicherbedarfs pro Bildpunkt: 
+Um den gesamten Speicherbedarf pro Bildpunkt zu ermitteln, wird der Speicherbedarf der Farbwerte auf den ursprünglichen Speicherbedarf addiert:
 > Ursprünglicher Speicherbedarf + Speicherbedarf der Farbwerte
 
-12 Byte + 3 Byte = 15 Byte
+$ 12 Byte + 3 Byte = \bm{15 Byte} $
 
 ##### Berechnung des prozentuellen Anstieg:
-> $$ \frac{Zusätzlicher Speicherbedarf}{Ursprünglicher Speicherbedarf} * 100 $$
+$$ \frac{Zusätzlicher Speicherbedarf}{Ursprünglicher Speicherbedarf} * 100 $$
 
 Dementsprechend: 
-$$
-\frac{3 Byte}{12 Byte} * 100 = \bm{25}
-$$
+$ \frac{3 Byte}{12 Byte} * 100 = \bm{25\%} $
 
 ### Aufgabe 3e)
 #### Antwort
@@ -151,10 +152,10 @@ Puffer (Prozentwert) errechnen:
 $$ W = p * G $$
 
 Eingesetzt ergibt das:
-$$ Puffer = 0,1 * 554 = 55,4 $$
+Puffer $ = 0,1 * 554 = 55,4 $
 
 Puffer auf Gesamtleistungsaufnahme addieren:
-$$ 554 W + 55,4 W = 609,4 W $$
+$ 554 W + 55,4 W = 609,4 W $
 
 Da die Netzteile von 400 W bis 1'200 W in 50-W-Schritten zur Verfügung stehen und das Netzteil mit 600 W nicht genügend Leistung mit sich bringt, sollte das _650 W_ Netzteil gewählt werden.
 
@@ -175,30 +176,74 @@ Das Netzteil hat eine Nennleistung von _650 Watt_.
 Da es im Durchschnitt _50%_ ausgelastet ist, kann folgende Formel für die Berechnung verwendet werden:
 $$ Effektive Leistung = Nennleistung * Auslastung (dezimal) $$
 
-Umwandlung von Prozent in dezimale Schreibweise:
-50% = 0,5
-
 Einsetzen der Werte:
-$$ Effektive Leistung = 650 * 0,5 = 325 W $$
+Effektive Leistung $ = 650 * 0,5 = 325 W $
 
 ##### Wirkungsgrad des Netzteils berechnen
 Der Wirkungsgrad des Netzteils beträgt _90%_, ergo nur 90% der zugeführten Energie wird in nützliche Arbeit umgewandelt.
 Um die tatsächliche Energieaufnahme aus dem Stromnetz zu berechnen, muss die effektive Leistung durch den Wirkungsgrad geteilt werden:
-$$ Energieaufnahme = \frac{325 W}{0,9} \approx 361,11 W $$
+Energieaufnahme $ = \frac{325 W}{0,9} \approx 361,11 W $
 
 ##### Berechnung der Gesamtbetriebsstunden
 Laut Aufgabenstellung läuft der PC an _200_ Arbeitstagen je _9_ Stunden:
 
-$$ Betriebsstunden = 200 Tage * 9 Stunden/Tag = 1'800 Stunden $$
+$ Betriebsstunden = 200 Tage * 9 Stunden/Tag = 1'800 Stunden $
 
 ##### Berechnung des Jahresenergieverbrauchs
 Um den jährlichen Energieverbrauch in kWh zu berechnen, wird die Energieaufnahme in kW umwandelt und mit den Betriebsstunden multipliziert:
 
-$$ Energieverbrauch = (\frac{361,11 W}{1'000}) * 1'800 Stunden = 649,998 kWh \approx 650 kWh $$
+Energieverbrauch $ = (\frac{361,11 W}{1'000}) * 1'800 Stunden = 649,998 kWh \approx 650 kWh $
 
 ##### Berechnung der Stromkosten
 Nachdem der Energieverbrauch ermittelt wurde, können nun die Gesamtstromkosten berechnet werden, indem der Energieverbrauch mit dem Preis pro kWh multipliziert wird:
 
-$$ Jährliche Stromkosten = 650 kWh * 0,40 EUR/kWh = 260,00€ $$
+Jährliche Stromkosten $ = 650 kWh * 0,40 EUR/kWh = 260,00€ $
 
 ----
+
+## Selbsterstellte Aufgabe - Aufgabenstellung
+### Situation - Speicherlösungen
+Ihr Unternehmen plant die Implementierung einer neuen Speicherlösung zur Speicherung und Verwaltung von Unternehmensdaten, inklusive Dokumenten, Datenbanken und Mediendateien.
+
+Dabei werden zwei Optionen abgewogen:
+- eine SSD mit 1 TB Kapazität und einer Leistungsaufnahme von 2 Watt
+- eine HDD mit 2 TB Kapazität und einer Leistungsaufnahme von 6 Watt
+
+Die gewählte Speicherlösung wird rund um die Uhr das ganze Jahr über betrieben.
+
+### Aufgabe 1 - Energieverbrauch
+Berechnen Sie den jährlichen Energieverbrauch beider Speicherlösungen in kWh.
+
+### Aufgabe 2 - Vor- und Nachteile diskutieren
+Vergleichen Sie die beiden Speicherlösungen und beschreiben Sie jeweils einen Vor- und Nachteil beider Speicherlösungen in Bezug auf Energieeffizienz und Leistung.
+
+### Aufgabe 3 - Lösung auswählen und Meinung begründen
+Entscheiden Sie sich für eine der Speicherlösungen und begründen Sie Ihre Wahl.
+
+----
+
+## Selbsterstellte Aufgabe - Musterlösung
+### Lösung zu Aufgabe 1
+__Eckdaten für die Berechnung:__
+- Betrieb rund um die Uhr (24 Stunden)
+- Betrieb jeden Tag (356 Tage)
+- Leistungsaufnahme:
+    - SSD: 2 Watt
+    - HDD: 6 Watt
+
+__Berechnung der jährlichen Betriebsstunden:__
+$ 24 Stunden * 365 Tage = 8'760 Stunden/Jahr $
+
+__SSD:__
+$ Energieverbrauch (kWh) = 0,002 kW * 8'760 h = \bm{17,52 kWh} $
+
+__HDD:__
+$ Energieverbrauch (kWh) = 0,006 kW * 8'760 h = \bm{52,56 kWh} $
+
+### Lösung zu Aufgabe 2
+Die SSD bietet einen geringeren Energieverbrauch pro Jahr mit 17,52 kWh, was zu niedrigeren Betriebskosten führt. Allerdings hat sie nur eine Speicherkapazität von 1 TB, welche bei der Speicherung größerer Datenmengen eine Einschränkung darstellen kann.
+Im Gegensatz dazu zeichnet sich die HDD durch eine höhere Speicherkapazität von 2 TB aus. Durch ihren höheren Energieverbrauch von 52,56 kWh pro Jahr steigen allerdings auch die Stromkosten.
+
+### Lösung zu Aufgabe 3
+Dadurch, dass die SSD nur etwa 33,33% des Energieverbrauchs der HDD hat, ist sie um einiges effizienter und günstiger. Zwar bietet sie nur die Hälfte der Speicherkapazität, diese reicht allerdings zur Speicherung von Dokumenten und Datenbanken aus.
+Deshalb würde ich die SSD empfehlen.
