@@ -70,12 +70,28 @@ Besondere Anforderungen bei der Protokollierung bzgl. des Datenschutzes beinhalt
 
 ----
 
-## Selbsterstellte Aufgabe
+## Selbsterstellte Aufgabe - Aufgabenstellung
+### Situation
+Ein Mitarbeiter hat einen verdächtigen Anhang in einer E-Mail geöffnet und nun zeigt sein Computer ungewöhnliches Verhalten.
 
-- Hier kommt die selbsterstellte Aufgabe als Bild oder Text rein
+### Aufgabe 1
+Nennen Sie drei Arten von Malware und beschreiben Sie kurz, wie jede Art funktioniert
+
+### Aufgabe 2
+Beschreiben Sie zwei Sofortmaßnahmen, welche Sie ergreifen sollten, um den Vorfall zu untersuchen und zu beheben.
 
 ----
 
-## Lösung der Selbsterstellten Aufgabe
+## Selbsterstellte Aufgabe - Musterlösung
+### Lösung zu Aufgabe 1
+1. Virus\
+Viren sind Programme, welche sich in andere Dateien oder Programme einfügen und sich verbreiten, indem sie beim Öffnen oder Ausführen dieser aktiviert werden.
 
-- Hier kommt die Lösung zur selbsterstellten Aufgabe als Bild oder Text rein
+2. Wurm\
+Würmer sind selbstreplizierende Schadsoftware, welche sich ohne Benutzerinteraktion über Netzwerke verbreiten, indem sie Sicherheitslücken in Betriebssystemen oder Anwendungen ausnutzen.
+
+3. Trojaner\
+Trojaner tarnen sich als nützliche Software um Benutzer zur Installation zu verleiten. Sobald dies geschehen ist, führen sie schädliche Aktivitäten aus, wie z.B. das Stehlen von Daten oder das Öffnen von Hintertüren für Angreifer.
+
+### Lösung zu Aufgabe 2
+Der betroffene Computer sollte vom Netzwerk getrennt werden, um eine weitere Verbreitung von z.B. Viren oder Würmern zu vermeiden. Ebenfalls sollte sofort ein vollständiger Virenscan mit aktueller Antivirensoftware durchgeführt werden.
