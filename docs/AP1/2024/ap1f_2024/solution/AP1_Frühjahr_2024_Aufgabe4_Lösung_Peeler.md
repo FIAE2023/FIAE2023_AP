@@ -1,6 +1,6 @@
 ---
 sidebar-position: 2
-title: Lösungsseite
+title: AP1_Frühjahr_2024_Aufgabe_4_Lösungsseite_Peeler
 description: Dies ist die Lösungseite für die Nr4
 ---
 
