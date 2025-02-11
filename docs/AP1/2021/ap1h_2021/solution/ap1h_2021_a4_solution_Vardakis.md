@@ -118,6 +118,11 @@ Fügen Sie für die folgenden IT-Anwendungen eine Begründung für den gewählte
 
 ----
 
+## Aufgabe 3 - Thema Datensicherung
+Nennen Sie zwei Risiken, die mit der Datensicherung auf externen Speichermedien verbunden sind.
+````text
+
+````
 
 ## Links zu Themen:
 
