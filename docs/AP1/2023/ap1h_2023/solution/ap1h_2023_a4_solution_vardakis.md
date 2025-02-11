@@ -156,14 +156,18 @@ Vorgänge E und F haben gemeinsam den Nachfolger G, der fünf Tage dauert. Nach 
 
 ### 1b) Ermitteln Sie, nach wie vielen Tagen das Projekt frühestens beendet werden kann.
 
+#### Lösung
 ````text
-
+Der früheste Abschluss des Projekts erfolgt nach dem letzten Vorgang G, der am Tag 17 endet.
+Frühester Projektabschluss: Tag 17
 ````
     
 ### 1c) Bestimmen Sie, welcher Vorgang den größten Puffer in Tagen hat.
 
+#### Lösung
 ````text
-
+Da alle Vorgänge, die wir betrachtet haben, auf dem kritischen Pfad liegen, haben sie keinen Puffer.
+Größter Puffer: 0 Tage für alle Vorgänge.
 ````
 
 
