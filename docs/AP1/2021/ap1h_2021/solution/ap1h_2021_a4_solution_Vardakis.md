@@ -102,12 +102,6 @@ Mein Vorschlag wäre die Daten mit einer Raid5 Speicher-Lösung täglich zu sich
 
 ----
 
-## Erarbeitete Lösungen der Aufgaben
-
-#### Lösung von [Bearbeiter/in 1](../AP1/2021/ap1h_2021/solution/solution_name.md)  & [Bearbeiter/in 2](../AP1/2021/ap1h_2021/solution/solution_name.md)
-
-----
-
 ## Links zu Themen:
 
 - Hier werden Seiten verlinkt mit denen man die Themen lernen kann.
