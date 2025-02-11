@@ -103,10 +103,10 @@ Fügen Sie für die folgenden IT-Anwendungen eine Begründung für den gewählte
 
 | **IT-Anwendung**                               | **Schutzziel**     | **Kategorie** | **Begründung**                                                                                     |
 |------------------------------------------------|---------------------|---------------|----------------------------------------------------------------------------------------------------|
-| E-Mail-Kommunikation mit Patienten             | Vertraulichkeit     | hoch          |```` ````|
-| Kalenderverwaltung für Arzttermine              | Verfügbarkeit        | mittel        |```` ````|
-| Datenbank für medizinische Forschung            | Integrität          | sehr hoch     |```` ````|
-| Zahlungsabwicklung für Patienten                | Vertraulichkeit     | hoch          |```` ````|
+| E-Mail-Kommunikation mit Patienten             | Vertraulichkeit     | hoch          |````   ````|
+| Kalenderverwaltung für Arzttermine              | Verfügbarkeit        | mittel        |````   ````|
+| Datenbank für medizinische Forschung            | Integrität          | sehr hoch     |````   ````|
+| Abrechnung von Patientenleistunge                | Vertraulichkeit     | hoch          |````   ````|
 
 ----
 
