@@ -72,7 +72,7 @@ und Methoden:
 **Hinweis:** Die Restwertberechnung erfolgt beim KFZ und bei der Immobilie unterschiedlich.
 Zusätzliche Methoden, Konstruktoren und Zugriffsmodifikatoren sind nicht erforderlich.
 
-![Aufgabe 4c)](/static/img/AP1/2023/ap1f_2023/AP1_2023_Frühjahr_Aufgabe_4_c\)_Klassendiagramm.png) 
+![Aufgabe 4c)](../../../../../static/img/AP1/2023/ap1f_2023/AP1_2023_Frühjahr_Aufgabe_4_c\)_Klassendiagramm.png) 
 
 d. Bei der Schadensregulierung im KFZ-Bereich werden die notwendigen Informationen in einer
 relationalen Datenbank gespeichert. Wichtig dabei ist die Zuordnung der Versicherungsnehmer
