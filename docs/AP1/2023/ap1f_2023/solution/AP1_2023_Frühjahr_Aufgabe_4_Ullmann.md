@@ -81,7 +81,7 @@ Fahrzeuge nach SUV, Limousine, Geländewagen oder Cabriolet unterschieden. Das A
 "Garage" wird mit dem Datentyp BOOLEAN abgespeichert. Ein Teilauszug aus dieser Datenbank
 sehen Sie in dem untenstehenden Entity-Relationship-Modell.
 
-![](AP1_2023_Frühjahr_Aufgabe_4_d\)_relationale_Datenbank.png)
+![](../../../../../static/img/AP1_2023_Frühjahr_Aufgabe_4_d\)_relationale_Datenbank.png)
 **PK** bezeichnet ein Primärschlüsselattribut, Primärschlüsselattribute werden unterstrichen.
 **FK** bezeichnet ein Fremdschlüsselattribut, Fremdschlüsselattribute werden durch ein
 nachgestelltes Hash-Zeichen (#) kenntlich gemacht.
