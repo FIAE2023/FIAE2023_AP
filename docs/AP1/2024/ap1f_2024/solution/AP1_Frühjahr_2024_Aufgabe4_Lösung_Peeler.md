@@ -82,7 +82,7 @@ t= 1min 48s
 
  | Maßnahme | Begründung |
  | -------- | ---------- |
- | Regelmäßige Integritatsprüfung <br> der Backups | Durch Hash-Werte oder Checksummen kann sichergestellt werden, dass <br></br> die gesicherten Daten nicht beschädigt oder manipuliert werden |
+ | Regelmäßige Integritatsprüfung <br></br> der Backups | Durch Hash-Werte oder Checksummen kann sichergestellt werden, dass <br></br> die gesicherten Daten nicht beschädigt oder manipuliert werden |
  | Redundante Backups auf <br></br> mehreren Speichermedien | Falls eine Festplatte defekt ist oder veloren geht, <br></br> gibt es eine zusätzliche Sicherung, um Datenverluste zu vermeiden. |
  | Physische und digitale <br></br> Zugriffssicherung | Die Festplatten sollten in einem sicheren Bereich aufbewahrt und mit <br></br> Verschlüsselung sowie Passwortschutz gesichert werden, <br></br> um unbefugten Zugriff zu verhindern |
 
