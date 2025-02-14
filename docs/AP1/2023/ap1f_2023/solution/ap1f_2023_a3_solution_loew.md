@@ -5,7 +5,7 @@ description: Dies ist die Lösungsseite zu AP1 Frühjahr 2023 Aufgabe 3
 ---
 
 # AP1 Frühjahr 2023 Aufgabe 3 Lösung
-## Erarbeitet von [Löw](<../../../user/Auszubildende Michel/loew.md>)
+## Erarbeitet von [Löw](<../../../../user/Auszubildende%20Michel/loew.md>)
 
 ----
 
@@ -38,7 +38,7 @@ description: Dies ist die Lösungsseite zu AP1 Frühjahr 2023 Aufgabe 3
 
 ## Lösung zur AP1 Aufgabe 3
 ### Aufgabe 3a
-![Aufgabe 3a Lösung](/img/AP1/2023/ap1f_2023/solution/AP1_2022_Fruehjahr_Aufgabe3_a_solution_loew.jpg)
+![Aufgabe 3a Lösung](/img/AP1/2023/ap1f_2023/solution/AP1_2023_Fruehjahr_Aufgabe3_a_solution_loew.jpg)
 
 ### Aufgabe 3ba
 1. Präventive Förderung der Informations- und Cybersicherheit

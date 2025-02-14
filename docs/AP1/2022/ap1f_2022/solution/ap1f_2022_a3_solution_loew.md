@@ -5,7 +5,7 @@ description: Dies ist die Lösungsseite zu AP1 Frühjahr 2022 Aufgabe 3
 ---
 
 # AP1 Frühjahr 2022 Aufgabe 3 Lösung
-## Erarbeitet von [Alicia Löw](<../../../user/Auszubildende Michel/loew.md>)
+## Erarbeitet von [Alicia Löw](<../../../../user/Auszubildende%20Michel/loew.md>)
 
 ----
 
@@ -32,7 +32,7 @@ description: Dies ist die Lösungsseite zu AP1 Frühjahr 2022 Aufgabe 3
 ![Aufgabe_3FA_Bild](/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe3_fa.jpg)
 
 ### Aufgabenstellung 3fb - Netz-, Host- und Broadcastadresse (3 Punkte)
-![Aufgabe_3FB_Bild](/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe3_tb.jpg)
+![Aufgabe_3FB_Bild](/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe3_fb.jpg)
 
 ### Aufgabenstellung 3fc - Gesamtanalyse der Fehlersuche (2 Punkte)
 ![Aufgabe_3FC_Bild](/img/AP1/2022/ap1f_2022/AP1_2022_Fruehjahr_Aufgabe3_fc.jpg)
@@ -200,7 +200,7 @@ Nennen Sie zwei relevante Protokolle und erklären Sie, wie diese bei der Fehler
 _Erklärung:_
 TCP ist für die zuverlässige Datenübertragung zwischen Geräten im Netzwerk verantwortlich. Gibt es Probleme mit dieser Datenübertragung, z.B. Paketverlust oder Zeitüberschreitungen, kann dies durch die Analyse von TCP festgestellt werden.
 
-<br>
+<br />
 
 2. ICMP (Internet Control Message Protocol)
 _Erklärung:_

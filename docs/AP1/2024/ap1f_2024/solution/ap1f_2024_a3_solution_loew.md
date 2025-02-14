@@ -5,7 +5,7 @@ description: Dies ist die Lösungsseite zu AP1 Frühjahr 2024 Aufgabe 3
 ---
 
 # AP1 Frühjahr 2024 Aufgabe 3 Lösung
-## Erarbeitet von [Alicia Löw](<../../../user/Auszubildende Michel/loew.md>)
+## Erarbeitet von [Alicia Löw](<../../../../user/Auszubildende%20Michel/loew.md>)
 
 ----
 
@@ -74,13 +74,13 @@ n = _3'840_
 Anzahl der Koordinaten = x, y, z Koordinaten = _3_
 Speicherbedarf pro Koordinate = _4 Byte_
 
-Gesamtbedarf $ = 3'840 * 3 * 4 Byte = \bm{46'080 Byte} $
+Gesamtbedarf $ = 3'840 * 3 * 4 Byte = 46'080 Byte $
 
 ##### Gesamtspeicherbedarf konvertiert in Kibibyte - Berechnung
 
 > :bulb: Umrechnung in Kibibyte = Byte / 1'024
 
-Gesamtbedarf $ = 46'080 Byte / 1'024 = \bm{45 KiB} $
+Gesamtbedarf $ = 46'080 Byte / 1'024 = 45 KiB $
 
 ### Aufgabe 3db)
 #### Antwort
@@ -104,7 +104,7 @@ Daraus ergeben sich 2<sup>8</sup> = _256_ Farben pro Kanal.
 > Gesamtanzahl der Farben = Anzahl der Farben pro Kanal<sup>Anzahl der Kanäle</sup>
 
 Da der RGB-Farbraum 3 Kanäle besitzt (Rot, Grün, Blau), kann die Gesamtanzahl der Farben wie folgt berechnet werden:
-Gesamtanzahl der Farben = $ 256 (Rot) * 256 (Grün) * 256 (Blau) = 256^{3} = \bm{16'777'216} $
+Gesamtanzahl der Farben = $ 256 (Rot) * 256 (Grün) * 256 (Blau) = 256^{3} = 16'777'216 $
 
 
 ### Aufgabe 3dc)
@@ -130,13 +130,13 @@ Speicherbedarf der Farbwerte pro Bildpunkt:\
 Um den gesamten Speicherbedarf pro Bildpunkt zu ermitteln, wird der Speicherbedarf der Farbwerte auf den ursprünglichen Speicherbedarf addiert:
 > Ursprünglicher Speicherbedarf + Speicherbedarf der Farbwerte
 
-$ 12 Byte + 3 Byte = \bm{15 Byte} $
+$ 12 Byte + 3 Byte = 15 Byte $
 
 ##### Berechnung des prozentuellen Anstieg:
-$$ \frac{Zusätzlicher Speicherbedarf}{Ursprünglicher Speicherbedarf} * 100 $$
+$$ Zusätzlicher Speicherbedarf Ursprünglicher Speicherbedarf * 100 $$
 
 Dementsprechend: 
-$ \frac{3 Byte}{12 Byte} * 100 = \bm{25\%} $
+$ 3 Byte12 Byte * 100 = 25\% $
 
 ### Aufgabe 3e)
 #### Antwort
@@ -182,7 +182,7 @@ Effektive Leistung $ = 650 * 0,5 = 325 W $
 ##### Wirkungsgrad des Netzteils berechnen
 Der Wirkungsgrad des Netzteils beträgt _90%_, ergo nur 90% der zugeführten Energie wird in nützliche Arbeit umgewandelt.
 Um die tatsächliche Energieaufnahme aus dem Stromnetz zu berechnen, muss die effektive Leistung durch den Wirkungsgrad geteilt werden:
-Energieaufnahme $ = \frac{325 W}{0,9} \approx 361,11 W $
+Energieaufnahme $ = 325 W 0,9 \approx 361,11 W $
 
 ##### Berechnung der Gesamtbetriebsstunden
 Laut Aufgabenstellung läuft der PC an _200_ Arbeitstagen je _9_ Stunden:
@@ -192,7 +192,7 @@ $ Betriebsstunden = 200 Tage * 9 Stunden/Tag = 1'800 Stunden $
 ##### Berechnung des Jahresenergieverbrauchs
 Um den jährlichen Energieverbrauch in kWh zu berechnen, wird die Energieaufnahme in kW umwandelt und mit den Betriebsstunden multipliziert:
 
-Energieverbrauch $ = (\frac{361,11 W}{1'000}) * 1'800 Stunden = 649,998 kWh \approx 650 kWh $
+Energieverbrauch $ = 361,11 W1'000 * 1'800 Stunden = 649,998 kWh \approx 650 kWh $
 
 ##### Berechnung der Stromkosten
 Nachdem der Energieverbrauch ermittelt wurde, können nun die Gesamtstromkosten berechnet werden, indem der Energieverbrauch mit dem Preis pro kWh multipliziert wird:
@@ -235,10 +235,10 @@ __Berechnung der jährlichen Betriebsstunden:__
 $ 24 Stunden * 365 Tage = 8'760 Stunden/Jahr $
 
 __SSD:__
-$ Energieverbrauch (kWh) = 0,002 kW * 8'760 h = \bm{17,52 kWh} $
+$ Energieverbrauch (kWh) = 0,002 kW * 8'760 h = 17,52 kWh $
 
 __HDD:__
-$ Energieverbrauch (kWh) = 0,006 kW * 8'760 h = \bm{52,56 kWh} $
+$ Energieverbrauch (kWh) = 0,006 kW * 8'760 h = 52,56 kWh $
 
 ### Lösung zu Aufgabe 2
 Die SSD bietet einen geringeren Energieverbrauch pro Jahr mit 17,52 kWh, was zu niedrigeren Betriebskosten führt. Allerdings hat sie nur eine Speicherkapazität von 1 TB, welche bei der Speicherung größerer Datenmengen eine Einschränkung darstellen kann.
