@@ -70,17 +70,17 @@ Der Gesamtspeicherbedarf beträgt __45 KiB__.
 
 > Gesamtbedarf = n (Anzahl der Punkte) * Anzahl der Koordinaten * Speicherbedarf pro Koordinate
 
-n = _3'840_
-Anzahl der Koordinaten = x, y, z Koordinaten = _3_
+n = _3'840_\
+Anzahl der Koordinaten = x, y, z Koordinaten = _3_\
 Speicherbedarf pro Koordinate = _4 Byte_
 
-Gesamtbedarf $ = 3'840 * 3 * 4 Byte = 46'080 Byte $
+Gesamtbedarf = 3'840 * 3 * 4 Byte = __46'080 Byte__
 
 ##### Gesamtspeicherbedarf konvertiert in Kibibyte - Berechnung
 
 > :bulb: Umrechnung in Kibibyte = Byte / 1'024
 
-Gesamtbedarf $ = 46'080 Byte / 1'024 = 45 KiB $
+Gesamtbedarf = 46'080 Byte / 1'024 = __45 KiB__
 
 ### Aufgabe 3db)
 #### Antwort
@@ -103,8 +103,8 @@ Daraus ergeben sich 2<sup>8</sup> = _256_ Farben pro Kanal.
 
 > Gesamtanzahl der Farben = Anzahl der Farben pro Kanal<sup>Anzahl der Kanäle</sup>
 
-Da der RGB-Farbraum 3 Kanäle besitzt (Rot, Grün, Blau), kann die Gesamtanzahl der Farben wie folgt berechnet werden:
-Gesamtanzahl der Farben = $ 256 (Rot) * 256 (Grün) * 256 (Blau) = 256^{3} = 16'777'216 $
+Da der RGB-Farbraum 3 Kanäle besitzt (Rot, Grün, Blau), kann die Gesamtanzahl der Farben wie folgt berechnet werden:\
+Gesamtanzahl der Farben = 256 (Rot) * 256 (Grün) * 256 (Blau) = 256<sup>3</sup> = __16'777'216__
 
 
 ### Aufgabe 3dc)
@@ -130,13 +130,13 @@ Speicherbedarf der Farbwerte pro Bildpunkt:\
 Um den gesamten Speicherbedarf pro Bildpunkt zu ermitteln, wird der Speicherbedarf der Farbwerte auf den ursprünglichen Speicherbedarf addiert:
 > Ursprünglicher Speicherbedarf + Speicherbedarf der Farbwerte
 
-$ 12 Byte + 3 Byte = 15 Byte $
+12 Byte + 3 Byte = __15 Byte__
 
 ##### Berechnung des prozentuellen Anstieg:
-$$ Zusätzlicher Speicherbedarf Ursprünglicher Speicherbedarf * 100 $$
+> Zusätzlicher Speicherbedarf Ursprünglicher Speicherbedarf * 100
 
-Dementsprechend: 
-$ 3 Byte12 Byte * 100 = 25\% $
+Dementsprechend:\
+3 Byte / 12 Byte * 100 = __25%__
 
 ### Aufgabe 3e)
 #### Antwort
@@ -145,17 +145,17 @@ Die Leistungsaufnahme (inkl. Puffer) beträgt __609,4 W__ und das geeignete Netz
 #### Rechenweg
 ##### Gesamtleistungsaufnahme berechnen
 Maximale Leistungsaufnahme aller Komponenten (in Watt) addieren:
-$ 20 + 172 + 12 + (4 * 5) + 310 + (2 * 5) + (2 * 5) = 554 $
+20 + 172 + 12 + (4 * 5) + 310 + (2 * 5) + (2 * 5) = __554__
 
 ##### Puffer von 10% hinzurechnen
 Puffer (Prozentwert) errechnen:
-$$ W = p * G $$
+> W = p * G
 
-Eingesetzt ergibt das:
-Puffer $ = 0,1 * 554 = 55,4 $
+Eingesetzt ergibt das:\
+Puffer = 0,1 * 554 = __55,4__
 
-Puffer auf Gesamtleistungsaufnahme addieren:
-$ 554 W + 55,4 W = 609,4 W $
+Puffer auf Gesamtleistungsaufnahme addieren:\
+554 W + 55,4 W = __609,4 W__
 
 Da die Netzteile von 400 W bis 1'200 W in 50-W-Schritten zur Verfügung stehen und das Netzteil mit 600 W nicht genügend Leistung mit sich bringt, sollte das _650 W_ Netzteil gewählt werden.
 
@@ -174,30 +174,31 @@ Die  jährlichen Stromkosten belaufen sich auf __260,00__ EUR.
 ##### Berechnung der effektiven Leistung des Netzteils
 Das Netzteil hat eine Nennleistung von _650 Watt_. 
 Da es im Durchschnitt _50%_ ausgelastet ist, kann folgende Formel für die Berechnung verwendet werden:
-$$ Effektive Leistung = Nennleistung * Auslastung (dezimal) $$
+> Effektive Leistung = Nennleistung * Auslastung (dezimal)
 
-Einsetzen der Werte:
-Effektive Leistung $ = 650 * 0,5 = 325 W $
+Einsetzen der Werte:\
+Effektive Leistung = 650 * 0,5 = __325 W__
 
 ##### Wirkungsgrad des Netzteils berechnen
 Der Wirkungsgrad des Netzteils beträgt _90%_, ergo nur 90% der zugeführten Energie wird in nützliche Arbeit umgewandelt.
-Um die tatsächliche Energieaufnahme aus dem Stromnetz zu berechnen, muss die effektive Leistung durch den Wirkungsgrad geteilt werden:
-Energieaufnahme $ = 325 W 0,9 \approx 361,11 W $
+Um die tatsächliche Energieaufnahme aus dem Stromnetz zu berechnen, muss die effektive Leistung durch den Wirkungsgrad geteilt werden:\
+
+Energieaufnahme = 325 W / 0,9 = __361,11 W__
 
 ##### Berechnung der Gesamtbetriebsstunden
 Laut Aufgabenstellung läuft der PC an _200_ Arbeitstagen je _9_ Stunden:
 
-$ Betriebsstunden = 200 Tage * 9 Stunden/Tag = 1'800 Stunden $
+Betriebsstunden = 200 Tage * 9 Stunden/Tag = __1'800 Stunden__
 
 ##### Berechnung des Jahresenergieverbrauchs
 Um den jährlichen Energieverbrauch in kWh zu berechnen, wird die Energieaufnahme in kW umwandelt und mit den Betriebsstunden multipliziert:
 
-Energieverbrauch $ = 361,11 W1'000 * 1'800 Stunden = 649,998 kWh \approx 650 kWh $
+Energieverbrauch = 361,11 W / 1'000 * 1'800 Stunden = 649,998 kWh = __650 kWh__
 
 ##### Berechnung der Stromkosten
 Nachdem der Energieverbrauch ermittelt wurde, können nun die Gesamtstromkosten berechnet werden, indem der Energieverbrauch mit dem Preis pro kWh multipliziert wird:
 
-Jährliche Stromkosten $ = 650 kWh * 0,40 EUR/kWh = 260,00€ $
+Jährliche Stromkosten = 650 kWh * 0,40 EUR/kWh = __260,00 EUR__
 
 ----
 
@@ -232,13 +233,13 @@ __Eckdaten für die Berechnung:__
     - HDD: 6 Watt
 
 __Berechnung der jährlichen Betriebsstunden:__
-$ 24 Stunden * 365 Tage = 8'760 Stunden/Jahr $
+24 Stunden * 365 Tage = __8'760 Stunden/Jahr__
 
 __SSD:__
-$ Energieverbrauch (kWh) = 0,002 kW * 8'760 h = 17,52 kWh $
+Energieverbrauch (kWh) = 0,002 kW * 8'760 h = __17,52 kWh__
 
 __HDD:__
-$ Energieverbrauch (kWh) = 0,006 kW * 8'760 h = 52,56 kWh $
+Energieverbrauch (kWh) = 0,006 kW * 8'760 h = __52,56 kWh__
 
 ### Lösung zu Aufgabe 2
 Die SSD bietet einen geringeren Energieverbrauch pro Jahr mit 17,52 kWh, was zu niedrigeren Betriebskosten führt. Allerdings hat sie nur eine Speicherkapazität von 1 TB, welche bei der Speicherung größerer Datenmengen eine Einschränkung darstellen kann.
