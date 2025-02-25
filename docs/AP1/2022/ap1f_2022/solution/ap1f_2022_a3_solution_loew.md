@@ -70,24 +70,30 @@ Link-lokale Verbindungen sind direkte Verbindungen, d.h. sie agieren direkt auch
 DHCP-Server
 
 ### Aufgabe 3fb)
-__Netzadresse:__
+__Netzadresse:__\
 192.168.0.0
-__Hostadresse:__
+
+__Hostadresse:__\
 192.168.0.1
-__Broadcastadresse:__
+
+__Broadcastadresse:__\
 192.168.0.255
 
 #### Rechenweg
 ##### Übersicht der Adressen in Binär
-__IPv4:__
+__IPv4:__\
 1100 0000 . 1010 1000 . 0000 0000 . 0011 0100
-__Subnetzmaske:__
+
+__Subnetzmaske:__\
 1111 1111 . 1111 1111 . 1111 1111 . 0000 0000
-__Netzadresse:__
+
+__Netzadresse:__\
 1100 0000 . 1010 1000 . 0000 0000 . 0000 0000
-__Hostadresse:__
+
+__Hostadresse:__\
 1100 0000 . 1010 1000 . 0000 0000 . 0000 0001
-__Broadcastadresse:__
+
+__Broadcastadresse:__\
 1100 0000 . 1010 1000 . 0000 0000 . 1111 1111
 
 ##### Berechnung der Netzadresse
@@ -114,11 +120,11 @@ _Tabelle_
 |    0    |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 |   52    |  0  |  0  |  1  |  1  |  0  |  1  |  0  |  0  |
 
-Ergebnis:
+Ergebnis:\
 1100 0000 . 1010 1000 . 0000 0000 . 0011 0100
 
-__Subnetzmaske in binär__
-_Dezimale Schreibweise_
+__Subnetzmaske in binär__\
+_Dezimale Schreibweise_\
 255.255.255.0
 
 _Tabelle_
@@ -127,17 +133,17 @@ _Tabelle_
 |   255   |  1  |  1  |  1  |  1  |  1  |  1  |  1  |  1  |
 |    0    |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 
-_Ergebnis_
+_Ergebnis_\
 1111 1111 . 1111 1111 . 1111 1111 . 0000 0000
 
-__UND-Verknüpfung__
-1 1 0 0 0 0 0 0 . 1 0 1 0 1 0 0 0 . 0 0 0 0 0 0 0 0 . 0 0 1 1 0 1 0 0
-UND 
-1 1 1 1 1 1 1 1 . 1 1 1 1 1 1 1 1 . 1 1 1 1 1 1 1 1 . 0 0 0 0 0 0 0 0
-\=
+__UND-Verknüpfung__\
+1 1 0 0 0 0 0 0 . 1 0 1 0 1 0 0 0 . 0 0 0 0 0 0 0 0 . 0 0 1 1 0 1 0 0 \
+UND\
+1 1 1 1 1 1 1 1 . 1 1 1 1 1 1 1 1 . 1 1 1 1 1 1 1 1 . 0 0 0 0 0 0 0 0 \
+=\
 _1 1 0 0 0 0 0 0 . 1 0 1 0 1 0 0 0 . 0 0 0 0 0 0 0 0 . 0 0 0 0 0 0 0 0_
 
-__Netzadresse von binär in dezimal__
+__Netzadresse von binär in dezimal__\
 _Tabelle_
 | Dezimal | 128 | 64  | 32  | 16  |  8  |  4  |  2  |  1  |
 |:-------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -145,8 +151,8 @@ _Tabelle_
 |   168   |  1  |  0  |  1  |  0  |  1  |  0  |  0  |  0  |
 |    0    |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 
-_Dezimale Schreibweise_
-$ 192.168.0.0 $
+_Dezimale Schreibweise_\
+__192.168.0.0__
 
 ##### Berechnung der Hostadresse
 > :bulb: Zur Erinnerung:
@@ -155,22 +161,23 @@ $ 192.168.0.0 $
 >
 > Hostadresse = Netzadresse + 1
 
-192.168.0.0 + 1 = $ 192.168.0.1 $
+192.168.0.0 + 1 = __192.168.0.1__
 
 ##### Berechnung der Broadcastadresse
 > :bulb: Zur Erinnerung:
 > 
 > Die Broadcastadresse ist die _letzte_ Adresse im (Sub-)Netz und wird durch das Setzen aller Host-Bits der Netzadresse auf 1 ermittelt.
 
-Durch die Subnetzmaske $ 255.255.255.0 $ steht fest, dass die CIDR-Notation _/24_ ist. Dies bedeutet, dass die ersten 24 Bits für den Netzanteil und die restlichen 8 Bits (Differenz zu 32 Bit, der Größe einer IPv4-Adresse) für den Hostanteil verwendet werden.
+Durch die Subnetzmaske __255.255.255.0__ steht fest, dass die CIDR-Notation _/24_ ist. Dies bedeutet, dass die ersten 24 Bits für den Netzanteil und die restlichen 8 Bits (Differenz zu 32 Bit, der Größe einer IPv4-Adresse) für den Hostanteil verwendet werden.
 
-Dadurch, dass die Broadcastadresse die letzte Adresse im (Sub-)Netz ist, könnte hier direkt logisch geschlussfolgert werden, dass die Broadcastadresse $ 192.168.0.255 $ sein sollte.
+Dadurch, dass die Broadcastadresse die letzte Adresse im (Sub-)Netz ist, könnte hier direkt logisch geschlussfolgert werden, dass die Broadcastadresse __192.168.0.255__ sein sollte.
 
-Aus der Berechnung der Netzadresse ist bekannt, dass diese in binär $ 1 1 0 0 0 0 0 0 . 1 0 1 0 1 0 0 0 . 0 0 0 0 0 0 0 0 . 0 0 0 0 0 0 0 0 $ ist. Wie gerade festgestellt, sind die ersten 24 Bits für den Netzanteil reserviert. Da die restlichen 8 Bits das letzte Oktett darstellen, können hier die Nullen in Einser umgewandelt werden:
+Um sicherzustellen, dass dies korrekt ist, kann wie folgt vorgegangen werden:\
+Aus der Berechnung der Netzadresse ist bekannt, dass diese in binär 1 1 0 0 0 0 0 0 . 1 0 1 0 1 0 0 0 . 0 0 0 0 0 0 0 0 . 0 0 0 0 0 0 0 0 ist. Wie gerade festgestellt, sind die ersten 24 Bits für den Netzanteil reserviert. Da die restlichen 8 Bits das letzte Oktett darstellen, können hier die Nullen in Einser umgewandelt werden:
 
-$ 1 1 0 0 0 0 0 0 . 1 0 1 0 1 0 0 0 . 0 0 0 0 0 0 0 0 . 1 1 1 1 1 1 1 1 $
+1 1 0 0 0 0 0 0 . 1 0 1 0 1 0 0 0 . 0 0 0 0 0 0 0 0 . 1 1 1 1 1 1 1 1
 
-Ein Oktett von nur Einsen besitzt in Dezimalschreibweise immer den Wert _255_. Deswegen ergibt sich hier die Broadcastadresse $ 192.168.0.255 $.
+Ein Oktett von nur Einsen besitzt in Dezimalschreibweise immer den Wert _255_. Deswegen ergibt sich hier die Broadcastadresse __192.168.0.255__.
 
 
 ### Aufgabe 3fc)
@@ -196,12 +203,10 @@ Nennen Sie zwei relevante Protokolle und erklären Sie, wie diese bei der Fehler
 2. Zeitstempel der Verbindungsversuche und -abbrüche
 
 ### Lösung zu Aufgabe 2
-1. TCP (Transmission Control Protokoll)
-_Erklärung:_
+1. TCP (Transmission Control Protokoll)\
+_Erklärung:_\
 TCP ist für die zuverlässige Datenübertragung zwischen Geräten im Netzwerk verantwortlich. Gibt es Probleme mit dieser Datenübertragung, z.B. Paketverlust oder Zeitüberschreitungen, kann dies durch die Analyse von TCP festgestellt werden.
 
-<br />
-
-2. ICMP (Internet Control Message Protocol)
-_Erklärung:_
+2. ICMP (Internet Control Message Protocol)\
+_Erklärung:_\
 ICMP wird verwendet, um Fehler- und Statusmeldungen im Netzwerk zu senden und dient ebenfalls mithilfe des "Ping"-Tools zur Überprüfung und Erreichbarkeit von Hosts. Durch die Analyse von ICMP-Nachrichten können Probleme mit der Erreichbarkeit bestimmter IP-Adressen sowie Informationen über Netzwerküberlastungen oder Routing-Probleme identifiziert werden.
