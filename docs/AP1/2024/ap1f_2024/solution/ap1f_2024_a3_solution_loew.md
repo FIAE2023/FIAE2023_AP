@@ -232,13 +232,13 @@ __Eckdaten für die Berechnung:__
     - SSD: 2 Watt
     - HDD: 6 Watt
 
-__Berechnung der jährlichen Betriebsstunden:__
+__Berechnung der jährlichen Betriebsstunden:__\
 24 Stunden * 365 Tage = __8'760 Stunden/Jahr__
 
-__SSD:__
+__SSD:__\
 Energieverbrauch (kWh) = 0,002 kW * 8'760 h = __17,52 kWh__
 
-__HDD:__
+__HDD:__\
 Energieverbrauch (kWh) = 0,006 kW * 8'760 h = __52,56 kWh__
 
 ### Lösung zu Aufgabe 2
