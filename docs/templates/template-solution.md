@@ -5,15 +5,15 @@ description: Dies ist eine Vorlage für alle Lösungseiten Seiten
 ---
 
 # 
-## AP Nummer Jahreszeit Jahr Aufgabe Nr Lösung Herr/Frau Nachname (z.B. AP1 Herbst 2022 A1 Lösung)
+## AP Nummer Jahreszeit Jahr GA?/WiSo Aufgabe Nr Lösung Herr/Frau Nachname (z.B. AP2 Herbst 2022 GA1 A1 Lösung)
 
-## AP1 Aufgabe
+## AP2 Aufgabe
 
-- Hier kommt die AP1 Aufgabe als Bild oder Text rein
+- Hier kommt die AP2 Aufgabe als Bild oder Text rein
 
-## Lösung zur AP1 Aufgabe
+## Lösung zur AP2 Aufgabe
 
-- Hier kommt die AP1 Aufgabe als Bild oder Text rein
+- Hier kommt die AP2 Aufgabe als Bild oder Text rein
 
 ## Selbsterstellte Aufgabe
 

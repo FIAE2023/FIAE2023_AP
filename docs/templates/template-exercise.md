@@ -4,7 +4,7 @@ title: Aufgaben
 description: Dies ist eine Vorlage für alle Aufgaben Seiten
 ---
 # 
-## AP1 Jahreszeit Jahr Aufgabe Nr
+## AP2 Jahreszeit Jahr GA?/WiSo Aufgabe Nr
 
 ## Bearbeitet von [Bearbeiter/in 1](../AP1/2021/ap1h_2021/solution/solution_name.md)  & Bearbeiter 2
 
@@ -16,7 +16,7 @@ description: Dies ist eine Vorlage für alle Aufgaben Seiten
 
 ## Aufgabe:
 
-- Hier kommt ein Bild der AP1 Aufgabe rein.
+- Hier kommt ein Bild der AP2 Aufgabe rein.
 
 ----
 
