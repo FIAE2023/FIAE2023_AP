@@ -55,4 +55,10 @@ description: Übersicht aller vorhandenen AP2
 - x
 - y
 
-## AP2 Winter 2025
+# AP2 Winter 2025
+
+## AP2 Winter 2025 GA1
+
+# AP2 Sommer 2025
+
+## AP2 Sommer 2025 GA1
