@@ -9,4 +9,4 @@ description: Dies ist die Lösung zu AP2 WiSo Sommer 2023
 
 ## AP Antwortbogen
 
-![Antwortbogen](<../../../../../static/img/AP2/Sommer/ap2s_2023_WISO/AP2_2023_Sommer_WISO_solution.pdf>)
+![Antwortbogen](<../../../../../../static/img/AP2/Sommer/ap2s_2023_WISO/AP2_2023_Sommer_WISO_solution.pdf>)
