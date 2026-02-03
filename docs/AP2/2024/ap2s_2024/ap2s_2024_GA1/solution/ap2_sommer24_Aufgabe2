@@ -30,6 +30,13 @@ Erläutern Sie in der nachfolgenden Tabelle die Bedeutung der Buchstaben des Akr
 | U         | Update (Aktualisieren)| PUT oder PATCH      |
 | D         | Delete (Löschen)      | DELETE              |
 
+### c) Ergänzen Sie die Bedeutung der Bestandteile einer clientseitigen http-Anforderung (Request) in der folgenden Tabelle. Ein Bestandteil ist bereits gegeben.
 
 ![Aufgabe2c](<https://github.com/FIAE2023/FIAE2023_AP/blob/main/static/img/AP2_Sommer24_Aufgabe2c.png>)
+
+
+### d) In der HTTP-Antwort (Response) des Servers is ein Statuscode mit enthalten.
+Nennen Sie die Bedeutung der folgender drei Statuscodes.
+
+![Aufgabe2d](<https://github.com/FIAE2023/FIAE2023_AP/blob/main/static/img/AP2_Sommer24_Aufgabe2c.png>)
 
