@@ -1,0 +1,18 @@
+## 2. Aufgabe
+
+Die Adressdaten der Aktionäre der AMAG Soft AG sollen zukünftig mittels einer webbasierten Applikation verwaltet werden. Der Zugriff auf die Daten soll über eine REST-API erfolgen.
+
+### a) Beschreiben Sie das einer REST-API zugrunde liegende Konzept.
+
+Bei einer REST-API liegt das Konzept zugrunde, dass eine Ressource über einen Webserver verfügbar ist und eindeutig über eine URL identifiziert wird. Client und Server tauschen nur Daten aus und sind lose gekoppelt. Die REST-API ist zustandslos, damit sind alle API-Aufrufe voneinander unabhängig.
+
+### b) Für das Management digitaler Daten werden vier fundamentale Operationen benötigt, die oft in dem Akronym CRUD zusammengefasst sind.
+
+Für das Management digitaler Daten werden vier fundamentale Operationen benötigt, die oft in dem Akronym CRUD zusammengefasst sind. In der folgenden Tabelle wird die Bedeutung der Buchstaben des Akronyms erläutert sowie die entsprechenden HTTP-Methoden zugeordnet.
+
+| Buchstabe | Bedeutung             | HTTP-Methode        |
+|-----------|-----------------------|---------------------|
+| C         | Create (Erstellen)    | POST                |
+| R         | Read (Lesen)          | GET                 |
+| U         | Update (Aktualisieren)| PUT oder PATCH      |
+| D         | Delete (Löschen)      | DELETE              |
