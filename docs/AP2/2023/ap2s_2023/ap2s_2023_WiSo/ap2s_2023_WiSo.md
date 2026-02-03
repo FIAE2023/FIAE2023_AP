@@ -4,7 +4,7 @@ title: AP2 Sommer - 2023 - WiSo
 description: AP2 Sommer 2023 WiSo
 ---
 # 
-## AP2 Sommer Jahr Aufgabe 1 - 24 Punkte
+## AP2 WiSo Sommer 2023 - 100 Punkte
 
 ## Bearbeitet von [Mia Rücker](../../../../user/Auszubildende%20Michel/ruecker.md)
 
