@@ -21,7 +21,7 @@ Bei einer REST-API liegt das Konzept zugrunde, dass eine Ressource über einen W
 
 ### b) Für das Management digitaler Daten werden vier fundamentale Operationen benötigt, die oft in dem Akronym CRUD zusammengefasst sind.
 
-Für das Management digitaler Daten werden vier fundamentale Operationen benötigt, die oft in dem Akronym CRUD zusammengefasst sind. In der folgenden Tabelle wird die Bedeutung der Buchstaben des Akronyms erläutert sowie die entsprechenden HTTP-Methoden zugeordnet.
+Erläutern Sie in der nachfolgenden Tabelle die Bedeutung der Buchstaben des Akronyms und ordnen Sie den Operationen die entsprechenden http-Methoden zu.
 
 | Buchstabe | Bedeutung             | HTTP-Methode        |
 |-----------|-----------------------|---------------------|
@@ -29,3 +29,6 @@ Für das Management digitaler Daten werden vier fundamentale Operationen benöti
 | R         | Read (Lesen)          | GET                 |
 | U         | Update (Aktualisieren)| PUT oder PATCH      |
 | D         | Delete (Löschen)      | DELETE              |
+
+
+![Aufgabe1a](<../../../../../static/img/AP2/Sommer/ap2s_2023_GA1/AP2_2023_Sommer_1a.jpg>)
