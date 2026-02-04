@@ -21,7 +21,7 @@ FROM Pflegearbeit AS P
 INNER JOIN Taetigkeit AS T ON P.TID=T.TID
 INNER JOIN Objekt AS O ON P.OID=O.OID
 WHERE O.Bezeichnung="Außenanlage Nord" AND Datum_Soll Between "19.06.2023" AND "30.06.2023"
-Order By Daum
+Order By Datum
 ```
 
 ### Aufgabe 4 c)
