@@ -20,6 +20,27 @@ Polymorphie bedeutet in der Objektorientierten Programmierung bei Klassen mittel
 ![Aufgabe 2 bb)](<../../../../../../static/img/AP2/Sommer/ap2s_2023_GA2/AP2_2023_Sommer_GA2_2bb_solution.png>)
 
 ### Aufgabe 2 bc)
-
+``` bash
+static createBesucher(typ: String): Besucher {
+  IF typ = "STANDARD"
+    return new StandardBesucher()
+  IF END
+  IF typ = "PREMIUM"
+    return new PremiumBesucher()
+  END IF
+  IF typ = "VIP"
+    return VIPBesucher()
+  END IF
+}
+```
 
 ### Aufgabe 2 bd)
+```bash
+calculatePreis(basisPreis:Double): Double{
+  return basisPreis * 0.95;
+}
+
+isExpressEingang(isWerktag: boolean): boolean{
+  return isWerktag;
+}
+```
