@@ -17,7 +17,7 @@ Polymorphie bedeutet in der Objektorientierten Programmierung bei Klassen mittel
 Überladene Klassen entscheiden über ihre Parameter, welche ausgeführt wird und Überschriebene davon welche Klasse sie aufgerufen hat.
 
 ### Aufgabe 2 bb)
-![Aufgabe 2 bb)](<../../../../../../static/img/AP2/Sommer/ap2s_2023_GA2/AP2_2023_Sommer_GA2_2bb_solution.png>)
+![Aufgabe 2 bb)](<../../../../../../static/img/AP2/Sommer/ap2s_2023_GA1/AP2_2023_Sommer_GA1_2bb_solution.png>)
 
 ### Aufgabe 2 bc)
 ``` bash
