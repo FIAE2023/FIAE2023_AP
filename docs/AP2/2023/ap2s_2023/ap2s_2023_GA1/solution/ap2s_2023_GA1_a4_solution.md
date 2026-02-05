@@ -17,4 +17,4 @@ Mithilfe von Signaturen kann die Authentizität der Daten sichergestellt werden.
 Wenn von einem der Tulpen das Beet umbenennt werden sollte, könnten beide Einträge ihren Beet-Namen verändern und andere Tabellen, die darauf referenzieren einen Fehler ausgeben.
 
 ### Aufgabe 4 cb)
-![GA1 Sommer 2023 Aufgabe 4 cb)](<../../../../../../static/img/AP2/Sommer/ap2s_2023_GA1/AP2_2023_Sommer_GA1_4cb_solution.png>)
+![GA1 Sommer 2023 Aufgabe 4 cb)](<../../../../../../static/img/AP2/Sommer/ap2s_2023_GA1/AP2_2023_Sommer_GA1_4cb.png>)
