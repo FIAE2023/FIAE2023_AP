@@ -29,4 +29,4 @@ FAZ, SAZ und Puffer berechnen.
 Gemeinsames Arbeiten an einem Dokument extrem schwierig, da beide Personen sich gegenseitig überschreiben und behindern können beim Benutzen.
 
 ### Aufgabe 23 c)
-![GA2 Sommer 2023 Aufgabe 1](<../../../../../../static/img/AP2/Sommer/ap2s_2023_GA2/AP2_2023_Sommer_GA2_3c_solution.png>)
+![GA2 Sommer 2023 Aufgabe 1](<../../../../../../static/img/AP2/Sommer/ap2s_2023_GA1/AP2_2023_Sommer_GA1_3c_solution.png>)
